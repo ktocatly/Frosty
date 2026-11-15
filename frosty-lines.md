@@ -90,7 +90,7 @@
 88. **D. W. Winnicott**: Living creatively means feeling that life is yours rather than something you comply with. It needs no talent.
 89. **D. W. Winnicott**: Health is harder to deal with than illness. Illness comes with explanations. Health just leaves you with your life. If you’re doing better, expect it to feel strange for a while.
 90. **D. W. Winnicott**: One person draws a squiggle, the other turns it into something, then they swap. Understanding and relating is often a matter of finishing each other’s lines.
-91. **D. W. Winnicott**: With someone reliably there, we can become unintegrated: flounder, lose our bearings, and simply exist for a while, neither reacting to the world nor heading anywhere. It isn’t falling apart. It’s where a personal life begins.
+91. **D. W. Winnicott**: With someone reliably there, we can become unintegrated: flounder, lose our bearings, and simply exist for a while, neither reacting to the world nor heading anywhere. It isn’t falling apart, it’s where personal life begins.
 92. **D. W. Winnicott**: A good environment doesn’t make anyone grow. It allows the growth that’s already trying to happen.
 93. **D. W. Winnicott**: When the world intrudes before a child is ready, the child learns to react instead of simply be.
 94. **D. W. Winnicott**: Beneath everything a baby needs is the simple, unbroken feeling of existing from one moment to the next: going on being. Interrupt it too often and a person learns to survive rather than live.
