@@ -104,12 +104,12 @@
 102. **Melanie Klein**: Children say with toys what they can’t yet put into words; adults do so with hobbies and habits.
 103. **Melanie Klein**: You can identify with someone so completely that you lose track of where you end and they begin. Closeness and confusion feel similar.
 104. **Melanie Klein**: Guilt arises when you realise you’ve attacked, in your mind, someone you love. It’s uncomfortable, but it’s the beginning of concern.
-105. **Melanie Klein**: We carry inner versions of the people who mattered, and they go on shaping how we feel long after the real people have gone. It’s worth knowing who you’re still living with.
-106. **Melanie Klein**: Idealising someone keeps them wholly good, safe from your own hostility. The fall, when it comes, is proportionate. Admire people without building a pedestal you’ll later kick.
+105. **Melanie Klein**: We carry internal objects: inner versions of the people who mattered, shaped as much by our feelings about them as by who they were. They go on shaping how we feel long after the real people have gone.
+106. **Melanie Klein**: Idealising someone keeps them wholly good, safe from your own hostility. But the hostility hasn’t gone anywhere, so when they disappoint you, the fall is as steep as the pedestal was high.
 107. **Melanie Klein**: The wish to create often grows from the wish to restore what we fear we’ve damaged.
 108. **Melanie Klein**: Every new grief reawakens the oldest ones. A small loss can bring a surprisingly large sorrow.
 109. **Melanie Klein**: Curiosity and fear grow up together. The urge to know is entangled with anxiety about what you’ll find.
-110. **Melanie Klein**: Unconscious phantasy runs beneath all experience, like background music. You never stop having it, you just stop hearing it. Your strongest reactions are the best way to tune in.
+110. **Melanie Klein**: Unconscious phantasy runs beneath all experience: an inner story about what we’re doing to others and what they’re doing to us. You never stop having it, you just stop hearing it. Your strongest reactions are the best way to tune in.
 111. **Jacques Lacan**: The only thing you can really be guilty of is giving ground on your desire. That doesn’t mean do whatever you like. It means don’t betray what you actually want.
 112. **Jacques Lacan**: There’s no perfect fit between two people. Love is what makes up for it.
 113. **Jacques Lacan**: Anxiety is the one feeling that doesn’t deceive. Other feelings can be displaced or disguised; anxiety points straight at something real, often an unspoken sense of what others want from you.
@@ -122,7 +122,7 @@
 120. **Jacques Lacan**: We compete with others as images of ourselves. The rival is often a mirror.
 121. **Jacques Lacan**: There’s no final authority guaranteeing the rules. Everyone is improvising more than they let on.
 122. **Jacques Lacan**: A symptom is a message addressed to someone, in a language you don’t yet understand. It keeps coming back until it’s read.
-123. **Jacques Lacan**: Some enjoyment goes past pleasure into pain, and still we keep going back to it. Not everything you repeat is because you like it.
+123. **Jacques Lacan**: Some enjoyment goes past pleasure into pain, and still we keep going back to it. We repeat some painful things because they carry a kind of satisfaction we don’t consciously choose.
 124. **Jacques Lacan**: The gaze isn’t your looking. It’s the feeling of being looked at from somewhere you can’t see. If you feel watched in an empty room, the watcher is usually inside you.
 125. **Jacques Lacan**: Every life needs some law and limit to hold its meanings in place. Limits aren’t only restrictions. Without some, nothing stays meaningful for long.
 126. **Jacques Lacan**: Repetition is a missed appointment with something real: We keep returning to the place where something happened that we couldn’t take in.
@@ -157,7 +157,7 @@
 155. **Wilfred Bion**: Not every thought in your head is at the same stage. Some are raw, some are half-formed, some are ready to use.
 156. **Heinz Kohut**: Much suffering comes from a self that never got what it needed to feel whole. That’s why a small slight can feel like structural damage.
 157. **Heinz Kohut**: Rage out of proportion to the insult means a deeper wound has been touched.
-158. **Heinz Kohut**: A child needs someone calm and strong to look up to and feel merged with, borrowing their steadiness until it can steady itself. Admiring someone isn’t weakness; it’s how strength is first taken in.
+158. **Heinz Kohut**: A child needs someone calm and strong to look up to and feel merged with, borrowing their steadiness until he or she can steady himself or herself. Admiring someone is how strength is first taken in.
 159. **Heinz Kohut**: We need to feel essentially alike with someone, to sense another being like us. That kinship is part of what makes a self feel at home in the world.
 160. **Heinz Kohut**: Empathy is vicarious introspection — thinking and feeling your way into someone else’s experience. It’s a way of understanding, not agreeing.
 161. **Heinz Kohut**: Small, bearable disappointments help a self build strength of its own. Too little frustration and we never learn. Too much and we break. Aim for the middle, with children and with yourself.
@@ -167,7 +167,7 @@
 165. **Karen Horney**: We build an idealised image of ourselves and then hate the real self for not matching it. Side with your real self.
 166. **Karen Horney**: The search for glory never arrives, because the ideal is always just out of reach.
 167. **Karen Horney**: We make unspoken claims on the world: to be treated as special, spared difficulty, given to without asking. The world doesn’t know about the claims. Saying what you want works better.
-168. **Karen Horney**: Basic anxiety is feeling isolated and helpless in a potentially hostile world. It starts in childhood and colours how adult life looks. The world is mostly not hostile. It’s mostly busy.
+168. **Karen Horney**: Basic anxiety is feeling isolated and helpless in a potentially hostile world. It starts in childhood and colours how adult life looks.
 169. **Karen Horney**: You can analyse yourself, with honesty and persistence. It’s hard, and it requires being willing to be surprised by what you find. Start by noticing what you avoid.
 170. **Karen Horney**: Envy runs in more than one direction. Men may envy women’s capacity to bear life, and compensate in other ways. When someone belittles a thing, ask whether they envy it.
 171. **Karen Horney**: The real self is a force for growth that emerges when anxiety stops getting in the way. It doesn’t need to be invented, it needs room.
@@ -182,7 +182,7 @@
 180. **Erich Fromm**: Love is a standing in, not a falling for.
 181. **Erich Fromm**: Love, like any art, needs discipline, concentration, patience, and real concern. Protect your attention for who you love.
 182. **Erich Fromm**: Some destructiveness comes from chronic boredom, an inner deadness looking for stimulation. The cure isn’t excitement, it’s finding aliveness.
-183. **Erich Fromm**: Some people are drawn to life and growth, others to control and tidiness. Love of life is a choice you can lean towards. Tend something that grows.
+183. **Erich Fromm**: Some people are drawn to what is alive and growing; others to what is mechanical, fixed and controllable. Love of life is an orientation you can strengthen.
 184. **Erich Fromm**: We can think, feel, and want what we’re expected to, and experience it all as our own.
 185. **Erich Fromm**: Some people want both to submit to authority and to be the authority others submit to. It’s an anxious arrangement.
 186. **Erik Erikson**: The first question of life is whether the world can be trusted. It’s settled in infancy and tested again and again. Where trust has been earned, let yourself rely on it.
@@ -204,7 +204,7 @@
 202. **Anna Freud**: Anger that can’t safely go outwards turns inwards. Self-criticism is sometimes anger with nowhere else to go.
 203. **Anna Freud**: Children develop unevenly, ahead in one area and behind in another. Adults do too.
 204. **Anna Freud**: The healthiest defence turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
-205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: the small, frightened child becomes the one who tames the lion.
+205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: The small, frightened child becomes the one who tames the lion.
 206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. If you’ve stopped caring, check whether you’ve only stopped hoping.
 207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It isn’t irrational. It’s attachment doing its job. Seeing them in a crowd is love, arriving late.
 208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but by new experience, not argument. Let someone surprise you.
