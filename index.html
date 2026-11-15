@@ -116,9 +116,7 @@
   .snowman-btn:focus-visible { outline: 3px dashed var(--scarf); outline-offset: 6px; border-radius: 12px; }
   .snowman-btn img {
     display: block; width: 100%; height: auto;
-    mix-blend-mode: multiply;
-    -webkit-mask-image: radial-gradient(ellipse 54% 52% at 50% 50%, #000 78%, transparent 100%);
-            mask-image: radial-gradient(ellipse 54% 52% at 50% 50%, #000 78%, transparent 100%);
+    filter: drop-shadow(0 10px 10px rgba(42,38,34,.22));
     transform-origin: 50% 90%;
     user-select: none; -webkit-user-drag: none;
   }
@@ -183,7 +181,7 @@
     </div>
 
     <button class="snowman-btn" id="snowman" aria-label="Tap the snowman for advice">
-      <img src="frosty.jpg" alt="Frosty, a plush snowman in a green hat and scarf" width="720" height="1002">
+      <img src="frosty.webp" alt="Frosty, a plush snowman in a green hat and scarf" width="640" height="909">
     </button>
   </section>
 
