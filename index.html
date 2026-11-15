@@ -110,24 +110,26 @@
 
   .snowman-btn {
     appearance: none; border: 0; background: none; padding: 0; margin: 0;
-    cursor: pointer; width: min(300px, 78vw);
+    cursor: pointer; width: min(320px, 80vw);
     -webkit-tap-highlight-color: transparent;
   }
   .snowman-btn:focus-visible { outline: 3px dashed var(--scarf); outline-offset: 6px; border-radius: 12px; }
-  .snowman-btn svg { display: block; width: 100%; height: auto; overflow: visible; }
-  .snowman-btn.wobble svg { animation: wobble .6s ease; transform-origin: 50% 95%; }
+  .snowman-btn img {
+    display: block; width: 100%; height: auto;
+    mix-blend-mode: multiply;
+    -webkit-mask-image: radial-gradient(ellipse 54% 52% at 50% 50%, #000 78%, transparent 100%);
+            mask-image: radial-gradient(ellipse 54% 52% at 50% 50%, #000 78%, transparent 100%);
+    transform-origin: 50% 90%;
+    user-select: none; -webkit-user-drag: none;
+  }
+  .snowman-btn.wobble img { animation: wobble .6s ease; }
   @keyframes wobble {
     0% { transform: rotate(0) scale(1); }
-    20% { transform: rotate(-4deg) scale(1.02, .98); }
-    45% { transform: rotate(3deg) scale(.99, 1.02); }
+    20% { transform: rotate(-4deg) scale(1.03, .97); }
+    45% { transform: rotate(3deg) scale(.98, 1.03); }
     70% { transform: rotate(-1.5deg); }
     100% { transform: rotate(0) scale(1); }
   }
-  .arm { transform-box: fill-box; }
-  .snowman-btn.wobble #armR { animation: wave .6s ease; transform-origin: 0% 50%; }
-  @keyframes wave { 30% { transform: rotate(-14deg); } 70% { transform: rotate(6deg); } }
-  #eyes { animation: blink 5s infinite; transform-origin: 50% 50%; transform-box: fill-box; }
-  @keyframes blink { 0%, 94%, 100% { transform: scaleY(1); } 96% { transform: scaleY(.1); } }
 
   /* Byline / citation */
   .byline {
@@ -163,7 +165,7 @@
     .bubble { font-size: 15px; padding: 14px 16px; }
   }
   @media (prefers-reduced-motion: reduce) {
-    .snowman-btn.wobble svg, .snowman-btn.wobble #armR, #eyes, .bubble.fresh p { animation: none; }
+    .snowman-btn.wobble img, .bubble.fresh p { animation: none; }
   }
 </style>
 </head>
@@ -181,70 +183,7 @@
     </div>
 
     <button class="snowman-btn" id="snowman" aria-label="Tap the snowman for advice">
-      <svg viewBox="0 0 300 380" role="img" aria-hidden="true">
-        <defs>
-          <filter id="crayon" x="-5%" y="-5%" width="110%" height="110%">
-            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" result="n"/>
-            <feDisplacementMap in="SourceGraphic" in2="n" scale="3"/>
-          </filter>
-          <filter id="grain">
-            <feTurbulence type="fractalNoise" baseFrequency="1.6" numOctaves="1" seed="8"/>
-            <feColorMatrix values="0 0 0 0 .55  0 0 0 0 .6  0 0 0 0 .72  0 0 0 .35 0"/>
-            <feComposite in2="SourceGraphic" operator="in"/>
-          </filter>
-          <radialGradient id="body" cx="40%" cy="35%" r="70%">
-            <stop offset="0" stop-color="#ffffff"/>
-            <stop offset=".7" stop-color="#eef0f2"/>
-            <stop offset="1" stop-color="#c9d1dc"/>
-          </radialGradient>
-        </defs>
-
-        <!-- ground shadow -->
-        <ellipse cx="150" cy="360" rx="110" ry="14" fill="#cfd6e0" opacity=".7"/>
-
-        <g filter="url(#crayon)">
-          <!-- body -->
-          <ellipse cx="150" cy="268" rx="104" ry="94" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
-          <ellipse cx="150" cy="268" rx="104" ry="94" filter="url(#grain)" fill="#fff"/>
-
-          <!-- arms (twig-free, soft snow arms) -->
-          <path class="arm" id="armL" d="M58 230 C 30 245, 22 275, 34 292 C 44 300, 56 290, 62 272 Z" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
-          <path class="arm" id="armR" d="M242 230 C 270 245, 278 275, 266 292 C 256 300, 244 290, 238 272 Z" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
-
-          <!-- buttons -->
-          <circle cx="150" cy="230" r="7" fill="#2b2b2b"/>
-          <circle cx="150" cy="262" r="7" fill="#2b2b2b"/>
-          <circle cx="150" cy="294" r="7" fill="#2b2b2b"/>
-
-          <!-- head -->
-          <circle cx="150" cy="118" r="62" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
-          <circle cx="150" cy="118" r="62" filter="url(#grain)" fill="#fff"/>
-
-          <!-- scarf -->
-          <path d="M92 160 C 120 178, 180 178, 208 160 L 210 180 C 180 198, 120 198, 90 180 Z" fill="var(--scarf)"/>
-          <path d="M100 170 L 104 186 M120 176 L 122 193 M140 178 L 141 196 M160 178 L 159 196 M180 176 L 178 193 M200 170 L 196 186" stroke="var(--scarf-2)" stroke-width="5" stroke-linecap="round"/>
-          <path d="M178 182 C 186 210, 184 236, 192 256 L 210 250 C 202 230, 204 206, 196 180 Z" fill="var(--scarf)"/>
-          <path d="M184 238 L 204 232 M186 248 L 207 242" stroke="var(--scarf-2)" stroke-width="4"/>
-          <path d="M192 256 l-3 10 M198 254 l0 11 M205 251 l3 10" stroke="var(--scarf)" stroke-width="3" stroke-linecap="round"/>
-
-          <!-- hat -->
-          <path d="M98 76 C 104 64, 196 64, 202 76 C 204 84, 96 84, 98 76 Z" fill="var(--hat)"/>
-          <path d="M112 74 C 110 40, 120 22, 150 20 C 180 22, 190 40, 188 74 Z" fill="var(--hat)"/>
-          <path d="M114 62 C 140 68, 160 68, 186 62 L 187 70 C 160 76, 140 76, 113 70 Z" fill="#5a4a3a"/>
-
-          <!-- face -->
-          <g id="eyes">
-            <circle cx="128" cy="108" r="6" fill="#222"/>
-            <circle cx="172" cy="108" r="6" fill="#222"/>
-            <circle cx="130" cy="106" r="1.8" fill="#fff"/>
-            <circle cx="174" cy="106" r="1.8" fill="#fff"/>
-          </g>
-          <path d="M150 118 L 182 127 L 150 132 Z" fill="var(--nose)" stroke="#b85a18" stroke-width="1.5" stroke-linejoin="round"/>
-          <path d="M126 144 Q 150 158 174 144" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
-          <ellipse cx="116" cy="134" rx="9" ry="5" fill="#f3a7a0" opacity=".45"/>
-          <ellipse cx="184" cy="134" rx="9" ry="5" fill="#f3a7a0" opacity=".45"/>
-        </g>
-      </svg>
+      <img src="frosty.jpg" alt="Frosty, a plush snowman in a green hat and scarf" width="720" height="1002">
     </button>
   </section>
 
