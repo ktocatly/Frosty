@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Frosty Says</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400&family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f4efe3;
+    --paper-edge: #e6dcc6;
+    --ink: #2a2622;
+    --ink-soft: #6b6157;
+    --rule: #2a2622;
+    --night: #1d2a44;
+    --night-2: #34476b;
+    --snow: #fbfaf6;
+    --scarf: #3f6b4e;
+    --scarf-2: #2c4f39;
+    --hat: #2f3a34;
+    --nose: #e07a2e;
+    --bubble: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    background: var(--night);
+    background-image: radial-gradient(ellipse at top, var(--night-2), var(--night) 70%);
+    min-height: 100vh;
+    font-family: "Libre Baskerville", Georgia, serif;
+    color: var(--ink);
+    display: flex;
+    justify-content: center;
+    padding: 32px 16px 48px;
+    overflow-x: hidden;
+  }
+  #snowfall { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
+
+  .column {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 560px;
+    background: var(--paper);
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(255,255,255,.5), transparent 40%),
+      radial-gradient(circle at 80% 90%, rgba(180,160,120,.12), transparent 50%);
+    border: 1px solid var(--paper-edge);
+    box-shadow: 0 20px 50px rgba(0,0,0,.45);
+    padding: 28px 28px 22px;
+    transform: rotate(-0.4deg);
+  }
+
+  /* Masthead */
+  .meta {
+    display: flex; justify-content: space-between;
+    font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--ink-soft);
+    border-top: 3px double var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 6px 0;
+  }
+  h1 {
+    font-family: "Playfair Display", Georgia, serif;
+    font-weight: 900;
+    font-size: clamp(44px, 12vw, 72px);
+    line-height: .95;
+    text-align: center;
+    margin: 14px 0 4px;
+    letter-spacing: -.01em;
+  }
+  .dek {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+    color: var(--ink-soft);
+    margin: 0 0 14px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  /* Stage */
+  .stage { position: relative; display: flex; flex-direction: column; align-items: center; }
+
+  .bubble {
+    position: relative;
+    width: 100%;
+    min-height: 132px;
+    background: var(--bubble);
+    border: 2px solid var(--ink);
+    border-radius: 22px;
+    padding: 18px 20px;
+    margin: 6px 0 18px;
+    font-size: 16px;
+    line-height: 1.6;
+    box-shadow: 4px 4px 0 rgba(42,38,34,.15);
+    display: flex; align-items: center;
+  }
+  .bubble::after, .bubble::before {
+    content: ""; position: absolute; left: 50%; transform: translateX(-50%);
+    border-style: solid;
+  }
+  .bubble::before { bottom: -18px; border-width: 18px 14px 0 14px; border-color: var(--ink) transparent transparent; }
+  .bubble::after  { bottom: -14px; border-width: 15px 11px 0 11px; border-color: var(--bubble) transparent transparent; }
+  .bubble p { margin: 0; }
+  .bubble .hint { color: var(--ink-soft); font-style: italic; text-align: center; width: 100%; }
+  .bubble.fresh p { animation: inkIn .5s ease both; }
+  @keyframes inkIn { from { opacity: 0; filter: blur(3px); transform: translateY(4px); } to { opacity: 1; filter: none; transform: none; } }
+
+  .snowman-btn {
+    appearance: none; border: 0; background: none; padding: 0; margin: 0;
+    cursor: pointer; width: min(300px, 78vw);
+    -webkit-tap-highlight-color: transparent;
+  }
+  .snowman-btn:focus-visible { outline: 3px dashed var(--scarf); outline-offset: 6px; border-radius: 12px; }
+  .snowman-btn svg { display: block; width: 100%; height: auto; overflow: visible; }
+  .snowman-btn.wobble svg { animation: wobble .6s ease; transform-origin: 50% 95%; }
+  @keyframes wobble {
+    0% { transform: rotate(0) scale(1); }
+    20% { transform: rotate(-4deg) scale(1.02, .98); }
+    45% { transform: rotate(3deg) scale(.99, 1.02); }
+    70% { transform: rotate(-1.5deg); }
+    100% { transform: rotate(0) scale(1); }
+  }
+  .arm { transform-box: fill-box; }
+  .snowman-btn.wobble #armR { animation: wave .6s ease; transform-origin: 0% 50%; }
+  @keyframes wave { 30% { transform: rotate(-14deg); } 70% { transform: rotate(6deg); } }
+  #eyes { animation: blink 5s infinite; transform-origin: 50% 50%; transform-box: fill-box; }
+  @keyframes blink { 0%, 94%, 100% { transform: scaleY(1); } 96% { transform: scaleY(.1); } }
+
+  /* Byline / citation */
+  .byline {
+    margin-top: 14px;
+    border-top: 1px solid var(--rule);
+    padding-top: 10px;
+    min-height: 66px;
+    font-size: 13px;
+    line-height: 1.5;
+  }
+  .byline .label {
+    font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: var(--ink-soft);
+  }
+  .byline .who {
+    font-family: "Playfair Display", Georgia, serif; font-weight: 700; font-size: 18px;
+  }
+  .byline .src { color: var(--ink-soft); font-style: italic; }
+  .footer {
+    display: flex; justify-content: space-between; align-items: center;
+    border-top: 3px double var(--rule);
+    margin-top: 12px; padding-top: 8px;
+    font-size: 11px; color: var(--ink-soft);
+  }
+  .footer button {
+    font: inherit; font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+    background: none; border: 1px solid var(--ink-soft); color: var(--ink);
+    padding: 5px 10px; cursor: pointer; border-radius: 3px;
+  }
+  .footer button:hover { background: var(--ink); color: var(--paper); }
+
+  @media (max-width: 420px) {
+    .column { padding: 20px 16px 16px; transform: none; }
+    .bubble { font-size: 15px; padding: 14px 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .snowman-btn.wobble svg, .snowman-btn.wobble #armR, #eyes, .bubble.fresh p { animation: none; }
+  }
+</style>
+</head>
+<body>
+<canvas id="snowfall" aria-hidden="true"></canvas>
+
+<main class="column">
+  <div class="meta"><span>The Winter Gazette</span><span id="issue">Advice Column</span></div>
+  <h1>Frosty Says</h1>
+  <p class="dek">Your snowman on the couch &mdash; tap him anywhere for a word from the unconscious.</p>
+
+  <section class="stage">
+    <div class="bubble" id="bubble" aria-live="polite">
+      <p class="hint">&ldquo;Go on, give me a poke. I&rsquo;ve been listening all winter.&rdquo;</p>
+    </div>
+
+    <button class="snowman-btn" id="snowman" aria-label="Tap the snowman for advice">
+      <svg viewBox="0 0 300 380" role="img" aria-hidden="true">
+        <defs>
+          <filter id="crayon" x="-5%" y="-5%" width="110%" height="110%">
+            <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" seed="3" result="n"/>
+            <feDisplacementMap in="SourceGraphic" in2="n" scale="3"/>
+          </filter>
+          <filter id="grain">
+            <feTurbulence type="fractalNoise" baseFrequency="1.6" numOctaves="1" seed="8"/>
+            <feColorMatrix values="0 0 0 0 .55  0 0 0 0 .6  0 0 0 0 .72  0 0 0 .35 0"/>
+            <feComposite in2="SourceGraphic" operator="in"/>
+          </filter>
+          <radialGradient id="body" cx="40%" cy="35%" r="70%">
+            <stop offset="0" stop-color="#ffffff"/>
+            <stop offset=".7" stop-color="#eef0f2"/>
+            <stop offset="1" stop-color="#c9d1dc"/>
+          </radialGradient>
+        </defs>
+
+        <!-- ground shadow -->
+        <ellipse cx="150" cy="360" rx="110" ry="14" fill="#cfd6e0" opacity=".7"/>
+
+        <g filter="url(#crayon)">
+          <!-- body -->
+          <ellipse cx="150" cy="268" rx="104" ry="94" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
+          <ellipse cx="150" cy="268" rx="104" ry="94" filter="url(#grain)" fill="#fff"/>
+
+          <!-- arms (twig-free, soft snow arms) -->
+          <path class="arm" id="armL" d="M58 230 C 30 245, 22 275, 34 292 C 44 300, 56 290, 62 272 Z" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
+          <path class="arm" id="armR" d="M242 230 C 270 245, 278 275, 266 292 C 256 300, 244 290, 238 272 Z" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
+
+          <!-- buttons -->
+          <circle cx="150" cy="230" r="7" fill="#2b2b2b"/>
+          <circle cx="150" cy="262" r="7" fill="#2b2b2b"/>
+          <circle cx="150" cy="294" r="7" fill="#2b2b2b"/>
+
+          <!-- head -->
+          <circle cx="150" cy="118" r="62" fill="url(#body)" stroke="#8a93a3" stroke-width="2"/>
+          <circle cx="150" cy="118" r="62" filter="url(#grain)" fill="#fff"/>
+
+          <!-- scarf -->
+          <path d="M92 160 C 120 178, 180 178, 208 160 L 210 180 C 180 198, 120 198, 90 180 Z" fill="var(--scarf)"/>
+          <path d="M100 170 L 104 186 M120 176 L 122 193 M140 178 L 141 196 M160 178 L 159 196 M180 176 L 178 193 M200 170 L 196 186" stroke="var(--scarf-2)" stroke-width="5" stroke-linecap="round"/>
+          <path d="M178 182 C 186 210, 184 236, 192 256 L 210 250 C 202 230, 204 206, 196 180 Z" fill="var(--scarf)"/>
+          <path d="M184 238 L 204 232 M186 248 L 207 242" stroke="var(--scarf-2)" stroke-width="4"/>
+          <path d="M192 256 l-3 10 M198 254 l0 11 M205 251 l3 10" stroke="var(--scarf)" stroke-width="3" stroke-linecap="round"/>
+
+          <!-- hat -->
+          <path d="M98 76 C 104 64, 196 64, 202 76 C 204 84, 96 84, 98 76 Z" fill="var(--hat)"/>
+          <path d="M112 74 C 110 40, 120 22, 150 20 C 180 22, 190 40, 188 74 Z" fill="var(--hat)"/>
+          <path d="M114 62 C 140 68, 160 68, 186 62 L 187 70 C 160 76, 140 76, 113 70 Z" fill="#5a4a3a"/>
+
+          <!-- face -->
+          <g id="eyes">
+            <circle cx="128" cy="108" r="6" fill="#222"/>
+            <circle cx="172" cy="108" r="6" fill="#222"/>
+            <circle cx="130" cy="106" r="1.8" fill="#fff"/>
+            <circle cx="174" cy="106" r="1.8" fill="#fff"/>
+          </g>
+          <path d="M150 118 L 182 127 L 150 132 Z" fill="var(--nose)" stroke="#b85a18" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M126 144 Q 150 158 174 144" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+          <ellipse cx="116" cy="134" rx="9" ry="5" fill="#f3a7a0" opacity=".45"/>
+          <ellipse cx="184" cy="134" rx="9" ry="5" fill="#f3a7a0" opacity=".45"/>
+        </g>
+      </svg>
+    </button>
+  </section>
+
+  <section class="byline" id="byline" aria-live="polite">
+    <div class="label">Speaking according to</div>
+    <div class="who">&hellip;</div>
+    <div class="src">Tap the snowman to begin your session.</div>
+  </section>
+
+  <div class="footer">
+    <span id="count">Session 0</span>
+    <button id="again" type="button">Another, please</button>
+  </div>
+</main>
+
+<script>
+const ADVICE = [
+  { t: "That thing you keep forgetting to do? Forgetting is rarely an accident. Ask yourself what you'd lose if you remembered.",
+    who: "Sigmund Freud", src: "On parapraxes — The Psychopathology of Everyday Life (1901)" },
+  { t: "What we refuse to remember, we tend to repeat. If the same story keeps happening to you, it may be a memory knocking in disguise.",
+    who: "Sigmund Freud", src: "Repetition compulsion — “Remembering, Repeating and Working-Through” (1914)" },
+  { t: "Grief takes the time it takes. Letting go of someone means slowly, painfully withdrawing yourself from every little place you kept them. Be patient with the work.",
+    who: "Sigmund Freud", src: "The work of mourning — “Mourning and Melancholia” (1917)" },
+  { t: "Some of the sternest voices in your head are borrowed. Before you obey your inner critic, check whose voice it actually is.",
+    who: "Sigmund Freud", src: "The superego — The Ego and the Id (1923)" },
+  { t: "You don't need a perfect life. You need one where you can love and work. Start there; the rest is weather.",
+    who: "Sigmund Freud", src: "Lieben und arbeiten, as reported by Erik Erikson" },
+  { t: "You can love someone and be furious with them in the same afternoon. Holding both at once isn't hypocrisy — it's growing up.",
+    who: "Melanie Klein", src: "The depressive position — “Mourning and its Relation to Manic-Depressive States” (1940)" },
+  { t: "When someone seems all-good or all-bad, you may be splitting them in two to protect yourself. Real people come in one piece.",
+    who: "Melanie Klein", src: "Splitting — “Notes on Some Schizoid Mechanisms” (1946)" },
+  { t: "Envy spoils what it can't have. Gratitude lets the good thing be good. When you feel the sting, try thanking someone instead.",
+    who: "Melanie Klein", src: "Envy and Gratitude (1957)" },
+  { t: "You don't have to be a perfect friend, partner or parent. Good enough — showing up, failing a little, and repairing — is what actually helps people grow.",
+    who: "D. W. Winnicott", src: "The good-enough mother — Playing and Reality (1971)" },
+  { t: "If your life feels like a performance, you may be wearing a False Self that once kept you safe. Find one small place where you can be real.",
+    who: "D. W. Winnicott", src: "True and False Self — “Ego Distortion in Terms of True and False Self” (1960)" },
+  { t: "Being able to sit quietly on your own — even in company — is an achievement, not a failure. Practise being alone in the presence of others.",
+    who: "D. W. Winnicott", src: "“The Capacity to Be Alone” (1958)" },
+  { t: "Play isn't a waste of time. It's where you discover who you are. Make something today with no purpose at all.",
+    who: "D. W. Winnicott", src: "Transitional space — Playing and Reality (1971)" },
+  { t: "Be careful what you think you want. Desire is always partly the desire of the Other — ask whose approval your goals are really chasing.",
+    who: "Jacques Lacan", src: "“The Subversion of the Subject and the Dialectic of Desire” (1960)" },
+  { t: "The self you see in the mirror is a beautiful, flattering fiction. Hold it lightly; you are more scattered and more interesting than that.",
+    who: "Jacques Lacan", src: "“The Mirror Stage as Formative of the I Function” (1949)" },
+  { t: "Listen to your slips, puns and odd turns of phrase. The unconscious speaks — it's structured like a language — and it's often wittier than you are.",
+    who: "Jacques Lacan", src: "Seminar XI: The Four Fundamental Concepts of Psychoanalysis (1964)" },
+  { t: "The trait that irritates you most in others may be your own Shadow. Instead of fighting it out there, get curious about it in here.",
+    who: "Carl Jung", src: "The Shadow — Aion (1951)" },
+  { t: "Some of what you feel can't be thought yet. Let someone hold it with you until it becomes something you can think about.",
+    who: "Wilfred Bion", src: "Container and contained — Learning from Experience (1962)" },
+  { t: "Try meeting the moment without memory or desire. Drop the agenda, and you may actually hear what's being said to you.",
+    who: "Wilfred Bion", src: "“Notes on Memory and Desire” (1967)" },
+  { t: "Needing admiration doesn't make you shallow. Everyone needs to be mirrored. Find the people whose faces light up when you walk in.",
+    who: "Heinz Kohut", src: "Mirroring selfobjects — The Analysis of the Self (1971)" },
+  { t: "The 'tyranny of the shoulds' is exhausting. Swap one 'I should' today for an honest 'I want'.",
+    who: "Karen Horney", src: "Neurosis and Human Growth (1950)" },
+  { t: "Love isn't something you fall into; it's something you practise — care, responsibility, respect and knowledge. It's an art, and arts take effort.",
+    who: "Erich Fromm", src: "The Art of Loving (1956)" },
+  { t: "Freedom can feel frightening, so we hand it away to crowds, bosses and rules. Notice where you're escaping from your own choices.",
+    who: "Erich Fromm", src: "Escape from Freedom (1941)" },
+  { t: "Every stage of life has its own crisis to work through. Feeling unsettled may just mean you're mid-chapter, not lost.",
+    who: "Erik Erikson", src: "Psychosocial stages — Childhood and Society (1950)" },
+  { t: "Your defences aren't enemies. They were clever solutions once. Thank them, then ask if you still need them.",
+    who: "Anna Freud", src: "The Ego and the Mechanisms of Defence (1936)" },
+  { t: "Wanting closeness isn't neediness. We're built to seek a secure base. Go find yours — and be one for somebody else.",
+    who: "John Bowlby", src: "Attachment and Loss, Vol. 1: Attachment (1969)" },
+  { t: "We cling to bad patterns because some loyalty runs deep — we'd rather be bound to a hard object than have none. Loosen the knot gently.",
+    who: "W. R. D. Fairbairn", src: "Psychoanalytic Studies of the Personality (1952)" },
+  { t: "When someone hurt you as a child, you may have learned to side with them against yourself. You're allowed to switch sides now.",
+    who: "Sándor Ferenczi", src: "Identification with the aggressor — “Confusion of Tongues” (1932)" },
+  { t: "Some things you know deeply but have never thought. Let your hunches lead sometimes; they're the unthought known.",
+    who: "Christopher Bollas", src: "The Shadow of the Object (1987)" },
+  { t: "Real recognition goes both ways. If you only ever submit or only ever control, nobody is truly being seen. Look for mutuality.",
+    who: "Jessica Benjamin", src: "The Bonds of Love (1988)" },
+  { t: "We're haunted by the lives we didn't live. Mourn them a little — then notice the strange, unrepeatable life you actually have.",
+    who: "Adam Phillips", src: "Missing Out: In Praise of the Unlived Life (2012)" },
+  { t: "You are not only one self. You're a crowd of selves, each made in a different relationship. Let them talk to each other.",
+    who: "Stephen A. Mitchell", src: "Relational Concepts in Psychoanalysis (1988)" },
+  { t: "Feeling strange to yourself isn't a flaw. We're all foreigners somewhere inside. Be hospitable to the stranger within.",
+    who: "Julia Kristeva", src: "Strangers to Ourselves (1988)" },
+];
+
+const bubble = document.getElementById('bubble');
+const byline = document.getElementById('byline');
+const snowman = document.getElementById('snowman');
+const countEl = document.getElementById('count');
+let deck = [], n = 0;
+
+function shuffle(a) {
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+}
+function next() {
+  if (!deck.length) deck = shuffle(ADVICE.slice());
+  return deck.pop();
+}
+function speak() {
+  const a = next();
+  n++;
+  bubble.classList.remove('fresh'); void bubble.offsetWidth; bubble.classList.add('fresh');
+  bubble.innerHTML = '';
+  const p = document.createElement('p'); p.textContent = '“' + a.t + '”'; bubble.appendChild(p);
+  byline.querySelector('.who').textContent = a.who;
+  byline.querySelector('.src').textContent = a.src;
+  countEl.textContent = 'Session ' + n;
+  snowman.classList.remove('wobble'); void snowman.offsetWidth; snowman.classList.add('wobble');
+}
+snowman.addEventListener('click', speak);
+document.getElementById('again').addEventListener('click', speak);
+
+document.getElementById('issue').textContent =
+  new Date().toLocaleDateString(undefined, { month: 'long', day: 'numeric', year: 'numeric' });
+
+// Gentle snowfall
+const c = document.getElementById('snowfall'), ctx = c.getContext('2d');
+let flakes = [];
+function size() {
+  c.width = innerWidth * devicePixelRatio; c.height = innerHeight * devicePixelRatio;
+  const count = Math.min(140, Math.floor(innerWidth / 8));
+  flakes = Array.from({ length: count }, () => ({
+    x: Math.random() * c.width, y: Math.random() * c.height,
+    r: (Math.random() * 2 + 0.8) * devicePixelRatio, s: Math.random() * 0.6 + 0.3, d: Math.random() * Math.PI * 2
+  }));
+}
+function tick() {
+  ctx.clearRect(0, 0, c.width, c.height);
+  ctx.fillStyle = 'rgba(255,255,255,.85)';
+  for (const f of flakes) {
+    f.y += f.s * devicePixelRatio; f.d += 0.01; f.x += Math.sin(f.d) * 0.4 * devicePixelRatio;
+    if (f.y > c.height) { f.y = -5; f.x = Math.random() * c.width; }
+    ctx.beginPath(); ctx.arc(f.x, f.y, f.r, 0, Math.PI * 2); ctx.fill();
+  }
+  requestAnimationFrame(tick);
+}
+addEventListener('resize', size);
+size();
+if (!matchMedia('(prefers-reduced-motion: reduce)').matches) tick();
+</script>
+</body>
+</html>
