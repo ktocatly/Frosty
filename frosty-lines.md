@@ -39,7 +39,7 @@
 37. **Sigmund Freud**: Jokes let us say what we’d otherwise hold back: hostility, desire, contempt.
 38. **Sigmund Freud**: Adult desire has a long childhood history and many detours. Be curious about yourself rather than ashamed.
 39. **Sigmund Freud**: Your daydreams are wishes correcting reality.
-40. **Sigmund Freud**: Accepting reality doesn’t cancel pleasure. It postpones it so you can have it more reliably. Waiting for something isn’t the same as losing it.
+40. **Sigmund Freud**: Accepting reality doesn’t cancel pleasure — it postpones it so you can have lasting satisfaction.
 41. **Sigmund Freud**: In the end we must begin to love in order not to fall ill. Love turned entirely inwards makes us sick.
 42. **Sigmund Freud**: Falling for your therapist, teacher or boss repeats an earlier love, and is also, inconveniently, genuine. Most new loves are both new and very old.
 43. **Sigmund Freud**: The uncanny is the kind of fright that leads back to something long familiar.
@@ -48,9 +48,9 @@
 46. **Sigmund Freud**: In a group, people put the leader in place of their own conscience, which is why crowds do what individuals wouldn’t.
 47. **Sigmund Freud**: The ego is like a rider who often has to go where the horse wants, then claims the route as his choice.
 48. **Sigmund Freud**: A repressed thought can surface as long as it’s denied. ‘It’s not that I’m envious’ is usually a fairly good clue. Listen to what you’re quick to deny.
-49. **Sigmund Freud**: Anxiety is a signal that danger might be coming. Treat it like a smoke alarm: always worth checking, not always a fire.
-50. **Sigmund Freud**: Beliefs driven by wishes are illusions. The voice of the intellect is a soft one, but it doesn’t rest until it’s been heard. Give your quieter doubts a hearing.
-51. **Sigmund Freud**: Humour isn’t resigned. It’s rebellious: the conscience, for once, comforting you. When things are bad, a joke isn’t denial. It’s a way of refusing to be crushed.
+49. **Sigmund Freud**: Anxiety is a signal that danger *might* be coming. Treat it like a smoke alarm: always worth checking, not always a fire.
+50. **Sigmund Freud**: Beliefs driven by wishes are illusions. The voice of the intellect is a soft one, but it doesn’t rest until it’s been heard.
+51. **Sigmund Freud**: Humour isn’t resigned, it’s rebellious: the conscience, for once, comforting you. Laughter in a hard moment doesn’t deny the pain, it refuses to be beaten by it.
 52. **Sigmund Freud**: The fiercest feuds are often between people who are nearly alike.
 53. **Sigmund Freud**: Happiness was never part of the plan of Creation. That isn’t gloomy, it’s freeing.
 54. **Sigmund Freud**: Civilisation costs us some happiness by heightening our guilt. If you feel vaguely guilty for no clear reason, it may be the price of living among other people, not proof you’ve done anything wrong.
@@ -63,7 +63,7 @@
 61. **Sigmund Freud**: A grieving person’s harshest self-reproaches often fit someone else: the one who was lost.
 62. **Sigmund Freud**: Something isn’t worth less because it doesn’t last. If anything, it’s worth more. That a thing will end is a reason to enjoy it now.
 63. **Sigmund Freud**: Repression keeps something away from consciousness, but it doesn’t stay away. It comes back, usually in disguise. What you refuse to think about will find another way in.
-64. **Sigmund Freud**: At bottom, nobody believes in their own death. That’s why so much gets left for ‘one day’.
+64. **Sigmund Freud**: Deep down, nobody believes in their own death. That’s why so much gets left for ‘one day’.
 65. **Sigmund Freud**: Private rituals and religious ones work the same way: repetition soothes anxiety.
 66. **Sigmund Freud**: Talking is a cure. Saying something out loud, in detail, to someone who listens changes it.
 67. **Sigmund Freud**: The realistic aim is to turn misery into common unhappiness. Ordinary unhappiness is something you can live with.
@@ -72,17 +72,17 @@
 70. **Sigmund Freud**: A single shameful fantasy can disguise several different wishes. Don’t just try to get rid of it, be curious about what job it’s doing for you.
 71. **Sigmund Freud**: The unconscious doesn’t keep time. Old experiences aren’t worn down by the years, which is why an old hurt can feel brand new.
 72. **D. W. Winnicott**: Even a loving mother has reasons to hate her baby, and admitting the hate makes the love more honest. Any close relationship holds both.
-73. **D. W. Winnicott**: Sentimentality is no use to children, because it denies the hate that’s also there. Love that can admit anger is more trustworthy.
-74. **D. W. Winnicott**: A child’s first blanket or bear is a remarkable thing: not quite part of the child, not quite part of the world, but a bridge between the two. It lets the child bear being apart from the one they love. In time it isn’t lost so much as spread out, into play, art and everything we come to cherish.
-75. **D. W. Winnicott**: Never ask a child whether they made up their blanket’s magic or found it. Some things are allowed to be both.
-76. **D. W. Winnicott**: People become fully real to us only after we’ve attacked them in our minds and they’ve survived without retaliating.
+73. **D. W. Winnicott**: Love that purports only sweetness is no use to children. Love that can admit negative emotions is more trustworthy.
+74. **D. W. Winnicott**: A child’s transitional object is a remarkable thing: not fully part of the child, not fully part of the world, but a bridge between the two.
+75. **D. W. Winnicott**: Never ask a child whether they invented their blanket’s magic or discovered it out in the world. Some things are allowed to be both.
+76. **D. W. Winnicott**: People become fully real to us only after we’ve destroyed them in our minds and they’ve survived without retaliating. We then learn that they exist outside of us, and can begin to truly relate to them.
 77. **D. W. Winnicott**: ‘Hullo object! I destroyed you. I love you.’ Love needs the other person to survive our worst feelings.
 78. **D. W. Winnicott**: The breakdown you dread may already have happened, early, before you could take it in. Ask whether your fear is pointing backward rather than forward.
-79. **D. W. Winnicott**: When a baby looks into its mother’s face, what it ordinarily sees is itself, because how she looks is shaped by what she sees. Long before any mirror, we find ourselves in the faces that truly look at us.
+79. **D. W. Winnicott**: When a child looks into her mother’s face, she sees herself. Long before any mirror, we find ourselves in the faces that really see us.
 80. **D. W. Winnicott**: Concern is guilt that can do something, through repair, instead of mere suffering. When you feel guilty, ask what repair would look like.
 81. **D. W. Winnicott**: It’s a joy to be hidden, and a disaster not to be found.
 82. **D. W. Winnicott**: A child who steals or destroys may be trying to reclaim something good that was lost. It’s an act of hope.
-83. **D. W. Winnicott**: New parents go into a near-illness of absorption in their baby, and it’s healthy.
+83. **D. W. Winnicott**: New parents go into a state of extreme absorption in their baby, and it’s healthy.
 84. **D. W. Winnicott**: Holding means a setting reliable enough that someone can fall apart and come back together.
 85. **D. W. Winnicott**: There’s no such thing as a baby, only a baby and someone caring for it.
 86. **D. W. Winnicott**: Aggression starts as plain aliveness: how a baby discovers that the world is out there and pushes back. It’s how you learn where you end and others begin.
@@ -98,7 +98,7 @@
 96. **Melanie Klein**: When we feel threatened, the mind splits the world in two: whatever frightens us becomes a persecutor, whatever comforts us becomes ideal. Everyone goes there sometimes. Recognising you’re there is the first step out.
 97. **Melanie Klein**: When a feeling is too painful to own, we can lodge it in someone else and then treat it as theirs. Often they even start to feel it.
 98. **Melanie Klein**: Triumph, contempt, frantic busyness — anything but grief. It looks like coping, but it only postpones the mourning.
-99. **Melanie Klein**: Greed wants everything, whatever the source can give. Gratitude is satisfied by what is given.
+99. **Melanie Klein**: Greed wants more than the giver can provide, so it is never satisfied. Gratitude can enjoy what is actually given.
 100. **Melanie Klein**: A certain loneliness persists however loved you are: a longing to be understood completely, which words can’t fully satisfy.
 101. **Melanie Klein**: Adult relationships, institutions and quarrels carry the marks of infancy’s earliest fears. When an office row feels oddly primal, it probably is.
 102. **Melanie Klein**: Children say with toys what they can’t yet put into words. Adults do it with hobbies and habits. Pay attention to what you do when nobody’s asking anything of you.
