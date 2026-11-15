@@ -100,111 +100,111 @@
 98. **Melanie Klein**: Triumph, contempt, frantic busyness — anything but grief. It looks like coping, but it only postpones the mourning.
 99. **Melanie Klein**: Greed wants more than the giver can provide, so it is never satisfied. Gratitude can enjoy what is actually given.
 100. **Melanie Klein**: A certain loneliness persists however loved you are: a longing to be understood completely, which words can’t fully satisfy.
-101. **Melanie Klein**: Adult relationships, institutions and quarrels carry the marks of infancy’s earliest fears. When an office row feels oddly primal, it probably is.
-102. **Melanie Klein**: Children say with toys what they can’t yet put into words. Adults do it with hobbies and habits. Pay attention to what you do when nobody’s asking anything of you.
-103. **Melanie Klein**: You can identify with someone so completely that you lose track of where you end and they begin. Closeness and confusion feel similar. Notice whose feelings you’re carrying.
-104. **Melanie Klein**: Guilt arises when you realise you’ve attacked, in your mind, someone you love. It’s painful, but it’s the beginning of concern. Let it lead you to repair, not just self-punishment.
+101. **Melanie Klein**: Adult relationships, institutions and quarrels carry the marks of infancy’s earliest fears.
+102. **Melanie Klein**: Children say with toys what they can’t yet put into words; adults do so with hobbies and habits.
+103. **Melanie Klein**: You can identify with someone so completely that you lose track of where you end and they begin. Closeness and confusion feel similar.
+104. **Melanie Klein**: Guilt arises when you realise you’ve attacked, in your mind, someone you love. It’s uncomfortable, but it’s the beginning of concern.
 105. **Melanie Klein**: We carry inner versions of the people who mattered, and they go on shaping how we feel long after the real people have gone. It’s worth knowing who you’re still living with.
 106. **Melanie Klein**: Idealising someone keeps them wholly good, safe from your own hostility. The fall, when it comes, is proportionate. Admire people without building a pedestal you’ll later kick.
-107. **Melanie Klein**: The wish to create often grows from the wish to restore what we fear we’ve damaged. If you feel guilty and stuck, making something can be a form of repair.
-108. **Melanie Klein**: Every new grief reawakens the oldest ones. A small loss can bring a surprisingly large sorrow. If you’re crying harder than the occasion warrants, it isn’t only about the occasion.
-109. **Melanie Klein**: Curiosity and fear grow up together. The urge to know is tangled with anxiety about what you’ll find. If you’re avoiding finding something out, the fear may be what’s in the way.
+107. **Melanie Klein**: The wish to create often grows from the wish to restore what we fear we’ve damaged.
+108. **Melanie Klein**: Every new grief reawakens the oldest ones. A small loss can bring a surprisingly large sorrow.
+109. **Melanie Klein**: Curiosity and fear grow up together. The urge to know is entangled with anxiety about what you’ll find.
 110. **Melanie Klein**: Unconscious phantasy runs beneath all experience, like background music. You never stop having it, you just stop hearing it. Your strongest reactions are the best way to tune in.
 111. **Jacques Lacan**: The only thing you can really be guilty of is giving ground on your desire. That doesn’t mean do whatever you like. It means don’t betray what you actually want.
-112. **Jacques Lacan**: There’s no perfect fit between two people. Love is what makes up for it. Stop waiting for the fit and look at the love.
-113. **Jacques Lacan**: Anxiety is the one feeling that doesn’t deceive. When everything else is telling you it’s fine and anxiety isn’t, take anxiety seriously.
-114. **Jacques Lacan**: Anxiety comes not when something’s missing but when nothing is: when the other is too close and wants too much. If you feel smothered, you may need distance, not reassurance.
-115. **Jacques Lacan**: Love is giving what you don’t have: offering your own lack, not your possessions. Presents are easier. Admitting what you need from someone is the real gift.
-116. **Jacques Lacan**: A letter always arrives at its destination. What’s been sent will be received, even if it takes the long way round. What you’re avoiding will reach you eventually. Better to open it.
+112. **Jacques Lacan**: There’s no perfect fit between two people. Love is what makes up for it.
+113. **Jacques Lacan**: Anxiety is the one feeling that doesn’t deceive. Other feelings can be displaced or disguised; anxiety points straight at something real, often an unspoken sense of what others want from you.
+114. **Jacques Lacan**: Anxiety comes not when something’s missing but when nothing is. Desire needs a gap; when the other is too close and wants too much, the gap closes and anxiety rushes in.
+115. **Jacques Lacan**: Love is giving what you don’t have: offering your own lack, not your possessions. Presents are easier.
+116. **Jacques Lacan**: A letter always arrives at its destination. What’s been sent will be received, even if it takes the long way round. What you’re avoiding will reach you eventually, better to open it.
 117. **Jacques Lacan**: What makes something desirable is never quite in the thing itself. That’s why getting what you wanted can feel strangely empty. Sometimes the wanting was the point.
-118. **Jacques Lacan**: The unconscious is the discourse of the Other: we speak with words and wishes we inherited. When your parents’ phrases come out of your mouth, that’s what you’re hearing.
-119. **Jacques Lacan**: I think where I am not, and I am where I do not think. The truth about you isn’t in your self-description. It shows up in what you didn’t mean to say.
-120. **Jacques Lacan**: We compete with others as images of ourselves. The rival is often a mirror. Ask what you see of yourself in the person you’re competing with.
-121. **Jacques Lacan**: There’s no final authority guaranteeing the rules. Everyone is improvising more than they let on. That’s a good reason to trust your own judgement a little more.
-122. **Jacques Lacan**: A symptom is a message addressed to someone, in a language you don’t yet understand. It keeps coming back until it’s read. Ask what yours might be trying to say, and to whom.
-123. **Jacques Lacan**: Some enjoyment goes past pleasure into pain, and still we keep going back to it. Not everything you repeat is because you like it. Notice the habits that hurt and still pull.
+118. **Jacques Lacan**: The unconscious is the discourse of the Other: we speak with words and wishes we inherited.
+119. **Jacques Lacan**: I think where I am not, and I am where I do not think. The truth about you isn’t in your self-description, it shows up in what you didn’t mean to say.
+120. **Jacques Lacan**: We compete with others as images of ourselves. The rival is often a mirror.
+121. **Jacques Lacan**: There’s no final authority guaranteeing the rules. Everyone is improvising more than they let on.
+122. **Jacques Lacan**: A symptom is a message addressed to someone, in a language you don’t yet understand. It keeps coming back until it’s read.
+123. **Jacques Lacan**: Some enjoyment goes past pleasure into pain, and still we keep going back to it. Not everything you repeat is because you like it.
 124. **Jacques Lacan**: The gaze isn’t your looking. It’s the feeling of being looked at from somewhere you can’t see. If you feel watched in an empty room, the watcher is usually inside you.
 125. **Jacques Lacan**: Every life needs some law and limit to hold its meanings in place. Limits aren’t only restrictions. Without some, nothing stays meaningful for long.
-126. **Jacques Lacan**: Repetition is a missed appointment with something real: we keep returning to the place where something happened that we couldn’t take in. If you keep circling one spot, go and look at it.
+126. **Jacques Lacan**: Repetition is a missed appointment with something real: We keep returning to the place where something happened that we couldn’t take in.
 127. **Jacques Lacan**: We trust experts because we suppose they know. Often that supposition is what does the work. Some of the knowledge you’re waiting for may already be yours.
-128. **Jacques Lacan**: At the centre of desire is a lost Thing we circle and never quite reach. Desire keeps its distance from what it wants. Don’t be surprised when getting closer makes you want to back away.
+128. **Jacques Lacan**: At the centre of desire is a lost Thing we circle and never quite reach. Desire keeps its distance from what it wants.
 129. **Jacques Lacan**: Everyone has a particular knot that holds them together, a symptom that has become a way of living. The aim isn’t always to undo it. It’s to learn how to use it well.
-130. **Carl Jung**: The persona is a compromise between you and society about how you should appear. It’s useful. It isn’t you. Remember to take it off when you get home.
-131. **Carl Jung**: Introverts draw energy from inner experience, extraverts from the outer world. Neither is a flaw, and each tends to undervalue the other. Know which you are before you plan your weekend.
-132. **Carl Jung**: You can’t live the afternoon of life by the programme of the morning. What was true in the morning may be a lie by evening. Whatever your age, check which part of the day you’re in.
-133. **Carl Jung**: In a crisis, playing like a child can bring you back to yourself. Building, drawing, making things with your hands isn’t regression. Sometimes it’s how you find your way back.
-134. **Carl Jung**: Meaningful coincidences happen, whatever they mean about the world. Take them as psychological events: notice what they make you think of. That’s where their meaning is.
-135. **Carl Jung**: When two parts of you disagree, don’t force a winner. Hold the tension long enough and a third option tends to appear. Patience is a way of thinking.
+130. **Carl Jung**: The persona is a compromise between you and society about how you should appear. It’s useful, it isn’t you.
+131. **Carl Jung**: Introverts draw energy from inner experience, extraverts from the outer world. Neither is a flaw, and each tends to undervalue the other.
+132. **Carl Jung**: You can’t live the afternoon of life by the programme of the morning. What was true in the morning may be a lie by evening.
+133. **Carl Jung**: In a crisis, playing like a child can bring you back to yourself.
+134. **Carl Jung**: Meaningful coincidences happen, whatever they mean about the world. Take them as psychological events: That’s where their meaning is.
+135. **Carl Jung**: When two parts of you disagree, don’t force a winner. Hold the tension long enough and a third option tends to appear.
 136. **Carl Jung**: We all live out old patterns: the hero, the mother, the trickster, the wise fool. You’re living an old story in your own way. Notice which role you’ve been cast in lately.
 137. **Carl Jung**: The child within stands for possibility, what isn’t yet formed in you. It’s also vulnerable and easily abandoned. Give your unfinished ideas a little protection.
-138. **Carl Jung**: The person you fall for often carries a part of yourself you haven’t yet lived. Projection is how we first meet what we haven’t integrated. Ask what you admire in them that you could develop in you.
-139. **Carl Jung**: Becoming who you are doesn’t mean becoming perfect. It means becoming whole, which includes the parts you’d rather leave out. Mostly those parts.
-140. **Carl Jung**: After midlife, many problems are at root questions of meaning. Not every suffering is a symptom. Some is a question. Ask what your life is for, not only what’s wrong with it.
+138. **Carl Jung**: The person you fall for often carries a part of yourself you haven’t yet lived. Projection is how we first meet what we haven’t integrated.
+139. **Carl Jung**: Becoming who you are doesn’t mean becoming perfect. It means becoming whole, which includes the parts you’d rather leave out.
+140. **Carl Jung**: After midlife, many problems are at root questions of meaning. Not every suffering is a symptom, some is a question. Ask what your life is for.
 141. **Carl Jung**: People dissolve into mass movements to avoid knowing themselves. The only real resistance is self-knowledge. Before you take a side, take a look inward.
 142. **Carl Jung**: You don’t become enlightened by imagining figures of light, but by making the darkness conscious. It’s less pleasant, which is why it’s less popular. Do it anyway.
 143. **Carl Jung**: Everyone knows people have complexes. Less well known is that complexes can have us. When you react far too strongly, it may be a complex doing the talking.
-144. **Carl Jung**: A dream is a self-portrait of where you actually are, not where you’d like to be. Don’t argue with it. It isn’t trying to flatter you.
-145. **Carl Jung**: Only the wounded physician heals. Your own wounds are part of what lets you understand other people’s. Don’t hide every scar. Some are qualifications.
-146. **Wilfred Bion**: The mind can attack its own connections so as not to know something painful. If you can’t think straight about one particular person or subject, that’s information.
-147. **Wilfred Bion**: Groups often behave as if they’ve met to depend on a leader, to fight an enemy, or to pair off in hope of a saviour. Next meeting, ask which one this is.
-148. **Wilfred Bion**: Groups expect their leader to meet every need, then turn on the leader for failing. If you’re leading, expect it. If you’re following, notice when you’re doing it.
+144. **Carl Jung**: A dream is a self-portrait of where you actually are, not where you’d like to be.
+145. **Carl Jung**: Only the wounded physician heals. Your own wounds are part of what lets you understand other people’s.
+146. **Wilfred Bion**: The mind can attack its own connections so as not to know something painful.
+147. **Wilfred Bion**: Groups often behave as if they’ve met to depend on a leader, to fight an enemy, or to pair off in hope of a saviour.
+148. **Wilfred Bion**: Groups expect their leader to meet every need, then turn on the leader for failing.
 149. **Wilfred Bion**: Thoughts come first, and thinking develops to cope with them. Some thoughts are waiting for a mind ready to hold them. If something can’t be thought yet, it may need time, not force.
-150. **Wilfred Bion**: Be capable of uncertainty and doubt without irritably reaching for facts and reasons. Not knowing is part of finding out. Leave the question open a little longer.
-151. **Wilfred Bion**: There’s a wish to know and an equally strong wish not to know. Both are at work in most of us, especially about ourselves. Notice which one is winning.
-152. **Wilfred Bion**: The deepest reality can’t be known, only lived. Some things you can’t understand from outside. You have to be in them.
-153. **Wilfred Bion**: Raw feelings that can’t be thought get pushed out, usually into whoever is nearby. If you’re unloading on someone, it may be a feeling you haven’t found words for yet.
-154. **Wilfred Bion**: Dreaming is how the mind digests experience into something it can think and remember. Bad sleep is bad digestion. Protect your rest. It does real work.
-155. **Wilfred Bion**: Not every thought in your head is at the same stage. Some are raw, some are half-formed, some are ready to use. Don’t treat a raw thought as a conclusion.
-156. **Heinz Kohut**: Much suffering comes from a self that never got what it needed to feel whole. That’s why a small slight can feel like structural damage. Be gentle with those cracks, yours and others’.
-157. **Heinz Kohut**: Rage out of proportion to the insult means a deeper wound has been touched. The slight was small. The bruise it landed on wasn’t. Look for the bruise.
-158. **Heinz Kohut**: Everyone needs someone calm and strong to look up to and borrow strength from. Admiring someone isn’t weakness. Just pick people who can bear being looked up to.
-159. **Heinz Kohut**: We need to feel essentially alike with someone. Belonging begins with recognising your own kind. If you feel alien, look for even one person who shares something with you.
-160. **Heinz Kohut**: Empathy is vicarious introspection: thinking and feeling your way into someone else’s experience. It’s a way of understanding, not agreeing. You can understand perfectly and still say no.
+150. **Wilfred Bion**: Be capable of uncertainty and doubt without irritably reaching for facts and reasons. Not knowing is part of finding out.
+151. **Wilfred Bion**: There’s a wish to know and an equally strong wish not to know. Both are at work in most of us, especially about ourselves.
+152. **Wilfred Bion**: The deepest reality can’t be known, only lived.
+153. **Wilfred Bion**: Raw feelings that can’t be thought get pushed out, usually into whoever is nearby.
+154. **Wilfred Bion**: Dreaming is how the mind digests experience into something it can think and remember.
+155. **Wilfred Bion**: Not every thought in your head is at the same stage. Some are raw, some are half-formed, some are ready to use.
+156. **Heinz Kohut**: Much suffering comes from a self that never got what it needed to feel whole. That’s why a small slight can feel like structural damage.
+157. **Heinz Kohut**: Rage out of proportion to the insult means a deeper wound has been touched.
+158. **Heinz Kohut**: A child needs someone calm and strong to look up to and feel merged with, borrowing their steadiness until it can steady itself. Admiring someone isn’t weakness; it’s how strength is first taken in.
+159. **Heinz Kohut**: We need to feel essentially alike with someone, to sense another being like us. That kinship is part of what makes a self feel at home in the world.
+160. **Heinz Kohut**: Empathy is vicarious introspection — thinking and feeling your way into someone else’s experience. It’s a way of understanding, not agreeing.
 161. **Heinz Kohut**: Small, bearable disappointments help a self build strength of its own. Too little frustration and we never learn. Too much and we break. Aim for the middle, with children and with yourself.
-162. **Heinz Kohut**: Childhood grandiosity is healthy if it grows up into ambition and self-respect. It becomes a problem only when it was never met, and so never outgrown. Let your ambition mature, not disappear.
-163. **Heinz Kohut**: Some people suffer from guilt over forbidden wishes. More, these days, suffer from a self that can’t fulfil its aims. Ask which kind of unhappiness is yours. They need different remedies.
-164. **Karen Horney**: Under anxiety we move towards people, against them or away from them. Each has its place. Trouble starts when only one move is available. Practise the one you use least.
-165. **Karen Horney**: We build an idealised image of ourselves and then hate the real self for not matching it. The real self is the one that has to live your life. Side with it.
-166. **Karen Horney**: The search for glory never arrives, because the ideal is always just out of reach. Notice when ambition has turned into a treadmill.
+162. **Heinz Kohut**: Childhood grandiosity is healthy if it grows up into ambition and self-respect. It becomes a problem only when it was never met, and so never outgrown.
+163. **Heinz Kohut**: Some people suffer from guilt over forbidden wishes. More, these days, suffer from a self that can’t fulfil its aims.
+164. **Karen Horney**: Under anxiety we move towards people, against them, or away from them. Each has its place. Trouble starts when only one move is available.
+165. **Karen Horney**: We build an idealised image of ourselves and then hate the real self for not matching it. Side with your real self.
+166. **Karen Horney**: The search for glory never arrives, because the ideal is always just out of reach.
 167. **Karen Horney**: We make unspoken claims on the world: to be treated as special, spared difficulty, given to without asking. The world doesn’t know about the claims. Saying what you want works better.
 168. **Karen Horney**: Basic anxiety is feeling isolated and helpless in a potentially hostile world. It starts in childhood and colours how adult life looks. The world is mostly not hostile. It’s mostly busy.
 169. **Karen Horney**: You can analyse yourself, with honesty and persistence. It’s hard, and it requires being willing to be surprised by what you find. Start by noticing what you avoid.
 170. **Karen Horney**: Envy runs in more than one direction. Men may envy women’s capacity to bear life, and compensate in other ways. When someone belittles a thing, ask whether they envy it.
-171. **Karen Horney**: The real self is a force for growth that emerges when anxiety stops getting in the way. It doesn’t need to be invented. It needs room. Make some.
-172. **Karen Horney**: We experience inner conflicts as if they were happening outside us, which makes other people look like the problem. Before blaming the world, check the inside first.
-173. **Karen Horney**: A need to be loved by everyone can never be satisfied, because it’s driven by anxiety rather than desire. More affection won’t fix it. Less anxiety will.
-174. **Erich Fromm**: There’s a having mode, relating to the world by owning, and a being mode, relating by experiencing. Most of us live in the first. Try spending an hour in the second.
-175. **Erich Fromm**: If I am what I have, and I lose what I have, who am I? Build your sense of self on something that can’t be repossessed.
-176. **Erich Fromm**: Treating yourself as a product means your worth rises and falls with demand. You are not a commodity. Value yourself on something other than how well you sell.
-177. **Erich Fromm**: A whole society can be unwell while everyone in it seems normal. Adjusting to an unhealthy way of life isn’t health. If everyone around you is exhausted, don’t assume exhaustion is normal.
-178. **Erich Fromm**: Giving is the highest expression of strength. In giving, we feel our own aliveness. It isn’t a loss. Give something today and notice how it feels.
-179. **Erich Fromm**: Selfish people don’t love themselves too much. They love themselves too little. Real self-love and love of others go together, so caring for yourself isn’t selfish.
-180. **Erich Fromm**: Love is a standing in, not a falling for. Falling is easy. Standing takes practice. Put the effort in after the falling stops.
-181. **Erich Fromm**: Love, like any art, needs discipline, concentration, patience and real concern. Those are also the things distraction erodes. Protect your attention for the people you love.
-182. **Erich Fromm**: Some destructiveness comes from chronic boredom, an inner deadness looking for stimulation. The cure isn’t excitement. It’s finding something that makes you feel alive.
+171. **Karen Horney**: The real self is a force for growth that emerges when anxiety stops getting in the way. It doesn’t need to be invented, it needs room.
+172. **Karen Horney**: We experience inner conflicts as if they were happening outside us, which makes other people look like the problem.
+173. **Karen Horney**: A need to be loved by everyone can never be satisfied, because it’s driven by anxiety rather than desire. More affection won’t fix it.
+174. **Erich Fromm**: There’s a having mode (relating to the world by owning) and a being mode (relating by experiencing). Try spending some time in the second.
+175. **Erich Fromm**: If I am what I have, and I lose what I have, who am I? A sense of self should be built on what can’t be repossessed.
+176. **Erich Fromm**: Treating yourself as a product means your worth rises and falls with demand.
+177. **Erich Fromm**: A whole society can be unwell while everyone in it seems normal. Adjusting to an unhealthy way of life isn’t health.
+178. **Erich Fromm**: Giving is the highest expression of strength. In giving, we feel our own aliveness.
+179. **Erich Fromm**: Selfish people don’t love themselves too much. They love themselves too little. Real self-love and love of others go together.
+180. **Erich Fromm**: Love is a standing in, not a falling for.
+181. **Erich Fromm**: Love, like any art, needs discipline, concentration, patience, and real concern. Protect your attention for who you love.
+182. **Erich Fromm**: Some destructiveness comes from chronic boredom, an inner deadness looking for stimulation. The cure isn’t excitement, it’s finding aliveness.
 183. **Erich Fromm**: Some people are drawn to life and growth, others to control and tidiness. Love of life is a choice you can lean towards. Tend something that grows.
-184. **Erich Fromm**: We can think, feel and want what we’re expected to, and experience it all as our own. Check the last opinion you were absolutely sure of. Where did it come from?
-185. **Erich Fromm**: Some people want both to submit to authority and to be the authority others submit to. It’s an anxious arrangement. Notice when you’re bowing up and kicking down.
+184. **Erich Fromm**: We can think, feel, and want what we’re expected to, and experience it all as our own.
+185. **Erich Fromm**: Some people want both to submit to authority and to be the authority others submit to. It’s an anxious arrangement.
 186. **Erik Erikson**: The first question of life is whether the world can be trusted. It’s settled in infancy and tested again and again. Where trust has been earned, let yourself rely on it.
 187. **Erik Erikson**: Being shamed for trying to do things yourself leaves doubt behind for a long time. Let children, and yourself, try things clumsily.
-188. **Erik Erikson**: Guilt can make starting things feel like trespassing. If you never begin anything, ask whether you were once made to feel wrong for trying. You’re allowed to start.
-189. **Erik Erikson**: Childhood teaches us whether our efforts can produce something worthwhile. Many adults are still waiting for the verdict. Give yourself the mark.
-190. **Erik Erikson**: Working out who you are is supposed to involve a crisis. It’s normal, even necessary. Being confused about your identity means you’re doing the work.
-191. **Erik Erikson**: Young people need time to experiment before committing to roles. Being undecided can be a legitimate stage, not a failure. Adults need some of this too.
-192. **Erik Erikson**: Real intimacy needs a self secure enough not to fear being lost in someone else. If closeness feels like drowning, work on the self first.
-193. **Erik Erikson**: In middle life the question is whether you’re caring for something that will outlast you: children, work, a community. The alternative is stagnation. Find something to tend.
-194. **Erik Erikson**: The last task is accepting your one and only life as the one it had to be. Its virtue is wisdom. Start practising acceptance before you need it most.
-195. **Erik Erikson**: You can admire someone deeply and still tell them honestly where they’ve failed. Admiration and honesty aren’t opposites. The best respect includes both.
-196. **Erik Erikson**: Each stage of life is meant to leave a virtue behind: hope, will, purpose, competence, fidelity, love, care, wisdom. Each is earned, not given. Notice which ones you’ve already earned.
-197. **Anna Freud**: Some people give up their own wishes and satisfy them through others. It looks generous. It can also be a way of not having to want. Let yourself want something directly.
-198. **Anna Freud**: Turning feelings into abstract argument keeps them at a safe distance. It sounds like thinking. Sometimes it’s hiding. Say what you feel, not just what you think.
-199. **Anna Freud**: A sudden, severe renunciation of pleasure can be a defence against urges that feel too big. Extreme discipline isn’t always strength. Sometimes it’s fear.
-200. **Anna Freud**: An unacceptable feeling can be turned into its opposite: hostility becomes excessive kindness. The exaggeration usually gives it away. Notice when your niceness is overdone.
-201. **Anna Freud**: Feelings get redirected from their real target to a safer one. The safer target rarely deserves it. Before snapping at someone, ask who you’re actually angry with.
-202. **Anna Freud**: Anger that can’t safely go outwards turns inwards. Self-criticism is sometimes anger with nowhere else to go. Ask who you’d be cross with if you were allowed.
-203. **Anna Freud**: Children develop unevenly, ahead in one area and behind in another. Adults do too. Being uneven is normal. Straight lines are suspicious.
-204. **Anna Freud**: The healthiest defence turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work. Find a useful home for what you can’t get rid of.
-205. **Anna Freud**: Children reverse painful facts in fantasy, becoming the strong one in their games. Adults have more sophisticated versions. Check which of your plans are really fantasies of reversal.
+188. **Erik Erikson**: Guilt can make starting things feel like trespassing. If you never begin anything, ask whether you were once made to feel wrong for trying.
+189. **Erik Erikson**: Childhood teaches us whether our efforts can produce something worthwhile. Many adults are still waiting for the verdict.
+190. **Erik Erikson**: Working out who you are is supposed to involve a crisis. It’s normal, even necessary.
+191. **Erik Erikson**: Young people need time to experiment before committing to roles. Adults need some of this too.
+192. **Erik Erikson**: Real intimacy needs a self secure enough not to fear being lost in someone else.
+193. **Erik Erikson**: In middle life the question is whether you’re caring for something that will outlast you: children, work, a community. The alternative is stagnation.
+194. **Erik Erikson**: The last task is accepting your one and only life as the one it had to be. Its virtue is wisdom.
+195. **Erik Erikson**: You can admire someone deeply and still tell them honestly where they’ve failed. The best respect includes both.
+196. **Erik Erikson**: Each stage of life is meant to leave a virtue behind: hope, will, purpose, competence, fidelity, love, care, wisdom.
+197. **Anna Freud**: Some people give up their own wishes and satisfy them through others. It looks generous. It can also be a way of not having to want.
+198. **Anna Freud**: Turning feelings into abstract argument keeps them at a safe distance. Sometimes it’s hiding. Say what you feel, not just what you think.
+199. **Anna Freud**: A sudden, severe renunciation of pleasure can be a defence against urges that feel too big. Extreme discipline isn’t always strength, sometimes it’s fear.
+200. **Anna Freud**: An unacceptable feeling can be turned into its opposite: hostility becomes excessive kindness. The exaggeration usually gives it away.
+201. **Anna Freud**: Feelings get redirected from their real target to a safer one. The safer target rarely deserves it.
+202. **Anna Freud**: Anger that can’t safely go outwards turns inwards. Self-criticism is sometimes anger with nowhere else to go.
+203. **Anna Freud**: Children develop unevenly, ahead in one area and behind in another. Adults do too.
+204. **Anna Freud**: The healthiest defence turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
+205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: the small, frightened child becomes the one who tames the lion.
 206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. If you’ve stopped caring, check whether you’ve only stopped hoping.
 207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It isn’t irrational. It’s attachment doing its job. Seeing them in a crowd is love, arriving late.
 208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but by new experience, not argument. Let someone surprise you.
