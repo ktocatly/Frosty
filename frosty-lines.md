@@ -17,10 +17,10 @@
 15. **Jacques Lacan**: The unconscious is structured like a language. Slips, puns and odd word choices are where it speaks.
 16. **Carl Jung**: The parts of yourself you’d rather not know tend to show up in other people.
 17. **Wilfred Bion**: Some feelings can’t be thought until a sturdy someone takes them in, holds them, and gives them back in a form you can manage.
-18. **Wilfred Bion**: Meet each conversation ’without memory and without desire’, so you see what’s actually there.
+18. **Wilfred Bion**: Meet each conversation ‘without memory and without desire’, so you see what’s actually there.
 19. **Heinz Kohut**: A young self learns it’s worth something from the gleam in a parent’s eye.
 20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealised self that will never be satisfied. Swap a should for an honest want.
-21. **Erich Fromm**: Immature love says, ’I love you because I need you.’ Mature love says, ’I need you because I love you.’
+21. **Erich Fromm**: Immature love says, ‘I love you because I need you.’ Mature love says, ‘I need you because I love you.’
 22. **Erich Fromm**: Freedom frightens people, so they escape it into authority, conformity and crowds. Notice which of your choices you’ve quietly handed to someone else.
 23. **Erik Erikson**: Every stage of life has its own crisis, meaning a turning point rather than a catastrophe. If you feel unsettled, you may simply be between stages.
 24. **Anna Freud**: Repression, projection, denial: each defence was a solution once.
@@ -47,7 +47,7 @@
 45. **Sigmund Freud**: Part of us is pulled towards stillness and the end of all tension. Not everything in you wants more.
 46. **Sigmund Freud**: In a group, people put the leader in place of their own conscience, which is why crowds do what individuals wouldn’t.
 47. **Sigmund Freud**: The ego is like a rider who often has to go where the horse wants, then claims the route as his choice.
-48. **Sigmund Freud**: A repressed thought can surface as long as it’s denied. ’It’s not that I’m envious’ is usually a fairly good clue. Listen to what you’re quick to deny.
+48. **Sigmund Freud**: A repressed thought can surface as long as it’s denied. ‘It’s not that I’m envious’ is usually a fairly good clue. Listen to what you’re quick to deny.
 49. **Sigmund Freud**: Anxiety is a signal that danger might be coming. Treat it like a smoke alarm: always worth checking, not always a fire.
 50. **Sigmund Freud**: Beliefs driven by wishes are illusions. The voice of the intellect is a soft one, but it doesn’t rest until it’s been heard. Give your quieter doubts a hearing.
 51. **Sigmund Freud**: Humour isn’t resigned. It’s rebellious: the conscience, for once, comforting you. When things are bad, a joke isn’t denial. It’s a way of refusing to be crushed.
@@ -63,7 +63,7 @@
 61. **Sigmund Freud**: A grieving person’s harshest self-reproaches often fit someone else: the one who was lost.
 62. **Sigmund Freud**: Something isn’t worth less because it doesn’t last. If anything, it’s worth more. That a thing will end is a reason to enjoy it now.
 63. **Sigmund Freud**: Repression keeps something away from consciousness, but it doesn’t stay away. It comes back, usually in disguise. What you refuse to think about will find another way in.
-64. **Sigmund Freud**: At bottom, nobody believes in their own death. That’s why so much gets left for ’one day’.
+64. **Sigmund Freud**: At bottom, nobody believes in their own death. That’s why so much gets left for ‘one day’.
 65. **Sigmund Freud**: Private rituals and religious ones work the same way: repetition soothes anxiety.
 66. **Sigmund Freud**: Talking is a cure. Saying something out loud, in detail, to someone who listens changes it.
 67. **Sigmund Freud**: The realistic aim is to turn misery into common unhappiness. Ordinary unhappiness is something you can live with.
@@ -76,7 +76,7 @@
 74. **D. W. Winnicott**: A child’s first blanket or bear is a remarkable thing: not quite part of the child, not quite part of the world, but a bridge between the two. It lets the child bear being apart from the one they love. In time it isn’t lost so much as spread out, into play, art and everything we come to cherish.
 75. **D. W. Winnicott**: Never ask a child whether they made up their blanket’s magic or found it. Some things are allowed to be both.
 76. **D. W. Winnicott**: People become fully real to us only after we’ve attacked them in our minds and they’ve survived without retaliating.
-77. **D. W. Winnicott**: ’Hullo object! I destroyed you. I love you.’ Love needs the other person to survive our worst feelings.
+77. **D. W. Winnicott**: ‘Hullo object! I destroyed you. I love you.’ Love needs the other person to survive our worst feelings.
 78. **D. W. Winnicott**: The breakdown you dread may already have happened, early, before you could take it in. Ask whether your fear is pointing backward rather than forward.
 79. **D. W. Winnicott**: When a baby looks into its mother’s face, what it ordinarily sees is itself, because how she looks is shaped by what she sees. Long before any mirror, we find ourselves in the faces that truly look at us.
 80. **D. W. Winnicott**: Concern is guilt that can do something, through repair, instead of mere suffering. When you feel guilty, ask what repair would look like.
