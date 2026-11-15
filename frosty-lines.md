@@ -1,36 +1,36 @@
 # Frosty Says: all 365 lines
 
-1. **Sigmund Freud**: Slips of the tongue and forgotten names are rarely accidents. They’re a wish slipping past the guard. If you keep forgetting to do something, ask what doing it would cost you.
-2. **Sigmund Freud**: What we can’t remember, we repeat, as an action rather than a memory, without knowing we’re repeating it. If the same scene keeps happening to you, try to remember where it started.
-3. **Sigmund Freud**: Mourning is work: each memory of the person has to be revisited and slowly let go. It’s slow because it has to be. Don’t let anyone hurry you through it, yourself included.
+1. **Sigmund Freud**: Slips of the tongue and forgotten names are rarely accidents.
+2. **Sigmund Freud**: What we can’t remember, we repeat, as an action rather than a memory, without knowing we’re repeating it.
+3. **Sigmund Freud**: When someone dies, reality tells us they’re gone, but love can’t let go all at once. Each memory and hope tied to them has to be called up and released, one by one, which is why mourning takes so long and hurts so much. When the work is done, we’re free to love again.
 4. **Sigmund Freud**: Your inner critic is built from your parents’ voices, and their parents’ before them. Before you obey it, ask whose voice it’s using.
-5. **Sigmund Freud**: A healthy person should be able to do two things: love and work. Not be happy. Love and work. If you’re managing those, you’re doing better than you think.
+5. **Sigmund Freud**: A healthy person should be able to do two things: to love and to work.
 6. **Melanie Klein**: The person you love and the person you’re furious with are the same person. Realising that hurts more than keeping them separate. It’s also what makes real love possible.
-7. **Melanie Klein**: When someone seems all good or all bad, you may be splitting them to keep your feelings manageable. When you catch yourself at it, try holding both versions at once.
-8. **Melanie Klein**: Envy attacks a good thing precisely because it’s good and isn’t yours. Gratitude lets it stay good. When envy stings, name what you admire. It loosens the grip.
-9. **D. W. Winnicott**: A good-enough parent fails a child in small, bearable ways, and those failures teach the child the world is real. Perfection isn’t the goal for parents, partners or friends. Showing up and repairing is.
-10. **D. W. Winnicott**: A false self grows up to comply with others and protect a true self that can’t risk being seen. Only the true self feels real. Find one place in your life where you don’t have to perform.
-11. **D. W. Winnicott**: The capacity to be alone starts with being alone in someone’s presence, like a child playing quietly while a parent sits nearby. Look for people you can be silent with. They’re rarer than talkers.
-12. **D. W. Winnicott**: It’s in playing, and only in playing, that children and adults are able to be creative. Do something this week with no purpose at all.
-13. **Jacques Lacan**: Desire is the desire of the Other: we learn what to want by wondering what others want, and what they want from us. Before chasing a goal, ask whose wanting you’re doing.
-14. **Jacques Lacan**: The ego is built on an infant’s first look in a mirror: a unified image of a self that feels anything but unified. Hold your self-image lightly. You’re messier, and more interesting, than the reflection.
-15. **Jacques Lacan**: The unconscious is structured like a language. Slips, puns and odd word choices are where it speaks. Listen to the words you choose without meaning to.
-16. **Carl Jung**: The parts of yourself you’d rather not know tend to show up in other people. The more someone irritates you, the more worthwhile it is to ask what they’re showing you about you.
-17. **Wilfred Bion**: Some feelings can’t be thought until someone else takes them in, holds them and gives them back in a form you can manage. If something feels unthinkable, find someone sturdy to think it with.
-18. **Wilfred Bion**: Meet each conversation ‘without memory and without desire’, so you see what’s actually there. Try it next time things are difficult: drop the agenda and listen.
-19. **Heinz Kohut**: A young self learns it’s worth something from the gleam in a parent’s eye. Needing admiration isn’t vanity. Just choose carefully where you go to get it.
-20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealised self that will never be satisfied. Swap one ‘should’ for an honest ‘want’.
-21. **Erich Fromm**: Immature love says, ‘I love you because I need you.’ Mature love says, ‘I need you because I love you.’ Love is an art, and arts need practice. Check which sentence you’re living.
+7. **Melanie Klein**: When someone seems all good or all bad, you may be splitting. It’s harder, but try holding both versions at once.
+8. **Melanie Klein**: Envy attacks a good thing precisely because it’s good and isn’t yours. Gratitude lets it stay good.
+9. **D. W. Winnicott**: A good-enough parent fails a child in small, bearable ways, and those failures teach the child the world is real.
+10. **D. W. Winnicott**: A false self grows up to comply with others and protect a true self that can’t risk being seen. Only the true self feels real.
+11. **D. W. Winnicott**: The capacity to be alone starts with being alone in someone’s presence, like a child playing quietly while a parent sits nearby.
+12. **D. W. Winnicott**: It’s in playing, and only in playing, that children and adults are able to be creative.
+13. **Jacques Lacan**: Desire is the desire of the Other: we learn what to want by wondering what others want, and what they want from us. When you want, ask whose wanting you’re doing.
+14. **Jacques Lacan**: The ego is built on an infant’s first look in a mirror: a unified image of a self that feels anything but unified. Hold your self-image lightly.
+15. **Jacques Lacan**: The unconscious is structured like a language. Slips, puns and odd word choices are where it speaks.
+16. **Carl Jung**: The parts of yourself you’d rather not know tend to show up in other people.
+17. **Wilfred Bion**: Some feelings can’t be thought until a sturdy someone takes them in, holds them, and gives them back in a form you can manage.
+18. **Wilfred Bion**: Meet each conversation ’without memory and without desire’, so you see what’s actually there.
+19. **Heinz Kohut**: A young self learns it’s worth something from the gleam in a parent’s eye.
+20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealised self that will never be satisfied. Swap a should for an honest want.
+21. **Erich Fromm**: Immature love says, ’I love you because I need you.’ Mature love says, ’I need you because I love you.’
 22. **Erich Fromm**: Freedom frightens people, so they escape it into authority, conformity and crowds. Notice which of your choices you’ve quietly handed to someone else.
-23. **Erik Erikson**: Every stage of life has its own crisis, meaning a turning point rather than a catastrophe. If you feel unsettled, you may simply be between stages. That’s a passage, not a failure.
-24. **Anna Freud**: Repression, projection, denial: each defence was a solution once. It’s worth asking which of yours are still solving anything.
-25. **John Bowlby**: Seeking closeness when you’re frightened isn’t childish. It’s a system you’re born with, and it runs from the cradle to the grave. Needing someone when you’re scared means it’s working as designed.
-26. **W. R. D. Fairbairn**: Children stay loyal to parents who hurt them, because a bad tie is better than none. Adults do it with jobs and partners. If you’re clinging to something that hurts, ask what you fear the alternative is.
-27. **Sándor Ferenczi**: A child hurt by an adult may come to identify with that adult and take their side against themselves. It made sense then, as a way of surviving. You’re allowed to change sides now.
-28. **Christopher Bollas**: Some things you know deeply but have never thought, because you learned them before you had words. Take your strongest hunches seriously. They’re often information, not noise.
-29. **Jessica Benjamin**: Recognition has to be mutual. When one person only dominates and the other only submits, neither is really seen. In any relationship, check that the seeing goes both ways.
+23. **Erik Erikson**: Every stage of life has its own crisis, meaning a turning point rather than a catastrophe. If you feel unsettled, you may simply be between stages.
+24. **Anna Freud**: Repression, projection, denial: each defence was a solution once.
+25. **John Bowlby**: Seeking closeness when you’re frightened isn’t childish. It’s a system you’re born with, and it runs from the cradle to the grave.
+26. **W. R. D. Fairbairn**: Children stay loyal to parents who hurt them, because a bad tie is better than none. Adults can do the same with important ties out of fear of loss.
+27. **Sándor Ferenczi**: A child hurt by an adult may come to identify with that adult and take their side against themselves.
+28. **Christopher Bollas**: Some things you know deeply but have never thought, because you learned them before you had words.
+29. **Jessica Benjamin**: Recognition has to be mutual. When one person only dominates and the other only submits, neither is really seen. Check that the seeing goes both ways.
 30. **Adam Phillips**: We live as much in the lives we didn’t lead as in the one we did. Mourn the unlived ones a little. Then turn back to the one you actually have.
-31. **Stephen A. Mitchell**: The self is made in relationships, and so it’s multiple: you’re a slightly different person with everyone you know. That isn’t being fake. It’s how selves are built.
+31. **Stephen A. Mitchell**: The self is made in relationships, and so it’s multiple: you’re a slightly different person with everyone you know.
 32. **Julia Kristeva**: We are strangers to ourselves. The foreigner already lives within. Make peace with the parts of you that feel foreign, and other strangers become less alarming.
 33. **Sigmund Freud**: Every dream is the disguised fulfilment of a wish. The disguise is the point. When a dream baffles you, ask what it might be wanting.
 34. **Sigmund Freud**: Dreams are the royal road to the unconscious. Write one down before breakfast. It’s the cheapest analysis you’ll ever get.
