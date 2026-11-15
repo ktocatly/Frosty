@@ -115,7 +115,7 @@
 113. **Jacques Lacan**: Anxiety is the one feeling that doesn’t deceive. Other feelings can be displaced or disguised; anxiety points straight at something real, often an unspoken sense of what others want from you.
 114. **Jacques Lacan**: Anxiety comes not when something’s missing but when nothing is. Desire needs a gap; when the other is too close and wants too much, the gap closes and anxiety rushes in.
 115. **Jacques Lacan**: Love is giving what you don’t have: offering your own lack, not your possessions. Presents are easier.
-116. **Jacques Lacan**: A letter always arrives at its destination. What’s been sent will be received, even if it takes the long way round. What you’re avoiding will reach you eventually, better to open it.
+116. **Jacques Lacan**: A letter always arrives at its destination. What’s been sent will be received, even if it takes the long way round. What you’re avoiding will reach you eventually. So better to open it.
 117. **Jacques Lacan**: What makes something desirable is never quite in the thing itself. That’s why getting what you wanted can feel strangely empty. Sometimes the wanting was the point.
 118. **Jacques Lacan**: The unconscious is the discourse of the Other: we speak with words and wishes we inherited.
 119. **Jacques Lacan**: I think where I am not, and I am where I do not think. The truth about you isn’t in your self-description, it shows up in what you didn’t mean to say.
@@ -123,7 +123,7 @@
 121. **Jacques Lacan**: There’s no final authority guaranteeing the rules. Everyone is improvising more than they let on.
 122. **Jacques Lacan**: A symptom is a message addressed to someone, in a language you don’t yet understand. It keeps coming back until it’s read.
 123. **Jacques Lacan**: Some enjoyment goes past pleasure into pain, and still we keep going back to it. We repeat some painful things because they carry a kind of satisfaction we don’t consciously choose.
-124. **Jacques Lacan**: The gaze isn’t your looking. It’s the feeling of being looked at from somewhere you can’t see. If you feel watched in an empty room, the watcher is usually inside you.
+124. **Jacques Lacan**: The gaze isn’t your looking. It’s the feeling of being looked at from somewhere you can’t see, as if the world were looking back.
 125. **Jacques Lacan**: Every life needs some law and limit to hold its meanings in place. Limits aren’t only restrictions. Without some, nothing stays meaningful for long.
 126. **Jacques Lacan**: Repetition is a missed appointment with something real: We keep returning to the place where something happened that we couldn’t take in.
 127. **Jacques Lacan**: We trust experts because we suppose they know. Often that supposition is what does the work. Some of the knowledge you’re waiting for may already be yours.
@@ -135,8 +135,8 @@
 133. **Carl Jung**: In a crisis, playing like a child can bring you back to yourself.
 134. **Carl Jung**: Meaningful coincidences happen, whatever they mean about the world. Take them as psychological events: That’s where their meaning is.
 135. **Carl Jung**: When two parts of you disagree, don’t force a winner. Hold the tension long enough and a third option tends to appear.
-136. **Carl Jung**: We all live out old patterns: the hero, the mother, the trickster, the wise fool. You’re living an old story in your own way. Notice which role you’ve been cast in lately.
-137. **Carl Jung**: The child within stands for possibility, what isn’t yet formed in you. It’s also vulnerable and easily abandoned. Give your unfinished ideas a little protection.
+136. **Carl Jung**: Archetypes are inherited forms in the psyche (the hero, the mother, the trickster, the wise old man). They aren’t roles we choose but patterns that shape how we experience people and moments.
+137. **Carl Jung**: The child within stands for possibility, what isn’t yet formed in you. It’s also vulnerable and easily abandoned.
 138. **Carl Jung**: The person you fall for often carries a part of yourself you haven’t yet lived. Projection is how we first meet what we haven’t integrated.
 139. **Carl Jung**: Becoming who you are doesn’t mean becoming perfect. It means becoming whole, which includes the parts you’d rather leave out.
 140. **Carl Jung**: After midlife, many problems are at root questions of meaning. Not every suffering is a symptom, some is a question. Ask what your life is for.
@@ -157,16 +157,16 @@
 155. **Wilfred Bion**: Not every thought in your head is at the same stage. Some are raw, some are half-formed, some are ready to use.
 156. **Heinz Kohut**: Much suffering comes from a self that never got what it needed to feel whole. That’s why a small slight can feel like structural damage.
 157. **Heinz Kohut**: Rage out of proportion to the insult means a deeper wound has been touched.
-158. **Heinz Kohut**: A child needs someone calm and strong to look up to and feel merged with, borrowing their steadiness until he or she can steady himself or herself. Admiring someone is how strength is first taken in.
+158. **Heinz Kohut**: A child needs someone calm and strong to look up to and feel merged with, borrowing their steadiness until they can steady themselves. Admiring someone is how strength is first taken in.
 159. **Heinz Kohut**: We need to feel essentially alike with someone, to sense another being like us. That kinship is part of what makes a self feel at home in the world.
 160. **Heinz Kohut**: Empathy is vicarious introspection — thinking and feeling your way into someone else’s experience. It’s a way of understanding, not agreeing.
 161. **Heinz Kohut**: Small, bearable disappointments help a self build strength of its own. Too little frustration and we never learn. Too much and we break. Aim for the middle, with children and with yourself.
 162. **Heinz Kohut**: Childhood grandiosity is healthy if it grows up into ambition and self-respect. It becomes a problem only when it was never met, and so never outgrown.
-163. **Heinz Kohut**: Some people suffer from guilt over forbidden wishes. More, these days, suffer from a self that can’t fulfil its aims.
+163. **Heinz Kohut**: Some people suffer from guilt over forbidden wishes. More, these days, suffer from a self that can’t fulfill its aims.
 164. **Karen Horney**: Under anxiety we move towards people, against them, or away from them. Each has its place. Trouble starts when only one move is available.
 165. **Karen Horney**: We build an idealised image of ourselves and then hate the real self for not matching it. Side with your real self.
 166. **Karen Horney**: The search for glory never arrives, because the ideal is always just out of reach.
-167. **Karen Horney**: We make unspoken claims on the world: to be treated as special, spared difficulty, given to without asking. The world doesn’t know about the claims. Saying what you want works better.
+167. **Karen Horney**: We make unspoken claims on the world: to be treated as special, spared difficulty, given to without asking. The world doesn’t know about the claims.
 168. **Karen Horney**: Basic anxiety is feeling isolated and helpless in a potentially hostile world. It starts in childhood and colours how adult life looks.
 169. **Karen Horney**: You can analyse yourself, with honesty and persistence. It’s hard, and it requires being willing to be surprised by what you find. Start by noticing what you avoid.
 170. **Karen Horney**: Envy runs in more than one direction. Men may envy women’s capacity to bear life, and compensate in other ways. When someone belittles a thing, ask whether they envy it.
@@ -197,7 +197,7 @@
 195. **Erik Erikson**: You can admire someone deeply and still tell them honestly where they’ve failed. The best respect includes both.
 196. **Erik Erikson**: Each stage of life is meant to leave a virtue behind: hope, will, purpose, competence, fidelity, love, care, wisdom.
 197. **Anna Freud**: Some people give up their own wishes and satisfy them through others. It looks generous. It can also be a way of not having to want.
-198. **Anna Freud**: Turning feelings into abstract argument keeps them at a safe distance. Sometimes it’s hiding. Say what you feel, not just what you think.
+198. **Anna Freud**: Turning feelings into abstract argument keeps them at a safe distance. Say what you feel, not just what you think.
 199. **Anna Freud**: A sudden, severe renunciation of pleasure can be a defence against urges that feel too big. Extreme discipline isn’t always strength, sometimes it’s fear.
 200. **Anna Freud**: An unacceptable feeling can be turned into its opposite: hostility becomes excessive kindness. The exaggeration usually gives it away.
 201. **Anna Freud**: Feelings get redirected from their real target to a safer one. The safer target rarely deserves it.
