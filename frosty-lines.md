@@ -100,7 +100,7 @@
 98. **Melanie Klein**: Triumph, contempt, frantic busyness — anything but grief. It looks like coping, but it only postpones the mourning.
 99. **Melanie Klein**: Greed wants more than the giver can provide, so it is never satisfied. Gratitude can enjoy what is actually given.
 100. **Melanie Klein**: A certain loneliness persists however loved you are: a longing to be understood completely, which words can’t fully satisfy.
-101. **Melanie Klein**: Adult relationships, institutions and quarrels carry the marks of infancy’s earliest fears.
+101. **Melanie Klein**: Adult relationships, institutions, and quarrels carry the marks of infancy’s earliest fears.
 102. **Melanie Klein**: Children say with toys what they can’t yet put into words; adults do so with hobbies and habits.
 103. **Melanie Klein**: You can identify with someone so completely that you lose track of where you end and they begin. Closeness and confusion feel similar.
 104. **Melanie Klein**: Guilt arises when you realize you’ve attacked, in your mind, someone you love. It’s uncomfortable, but it’s the beginning of concern.
