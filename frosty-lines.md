@@ -17,10 +17,10 @@
 15. **Jacques Lacan**: The unconscious is structured like a language. Slips, puns and odd word choices are where it speaks.
 16. **Carl Jung**: The parts of yourself you’d rather not know tend to show up in other people.
 17. **Wilfred Bion**: Some feelings can’t be thought until a sturdy someone takes them in, holds them, and gives them back in a form you can manage.
-18. **Wilfred Bion**: Meet each conversation “without memory and without desire,” so you see what’s actually there.
+18. **Wilfred Bion**: Meet each conversation ‘without memory and without desire,’ so you see what’s actually there.
 19. **Heinz Kohut**: A young self learns it’s worth something from the gleam in a parent’s eye.
 20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealized self that will never be satisfied. Swap a should for an honest want.
-21. **Erich Fromm**: Immature love says, “I love you because I need you.” Mature love says, “I need you because I love you.”
+21. **Erich Fromm**: Immature love says, ‘I love you because I need you.’ Mature love says, ‘I need you because I love you.’
 22. **Erich Fromm**: Freedom frightens people, so they escape it into authority, conformity and crowds. Notice which of your choices you’ve quietly handed to someone else.
 23. **Erik Erikson**: Every stage of life has its own crisis, meaning a turning point rather than a catastrophe. If you feel unsettled, you may simply be between stages.
 24. **Anna Freud**: Repression, projection, denial: each defense was a solution once.
@@ -47,7 +47,7 @@
 45. **Sigmund Freud**: Part of us is pulled toward stillness and the end of all tension. Not everything in you wants more.
 46. **Sigmund Freud**: In a group, people put the leader in place of their own conscience, which is why crowds do what individuals wouldn’t.
 47. **Sigmund Freud**: The ego is like a rider who often has to go where the horse wants, then claims the route as his choice.
-48. **Sigmund Freud**: A repressed thought can surface as long as it’s denied. “It’s not that I’m envious” is usually a fairly good clue. Listen to what you’re quick to deny.
+48. **Sigmund Freud**: A repressed thought can surface as long as it’s denied. ‘It’s not that I’m envious’ is usually a fairly good clue. Listen to what you’re quick to deny.
 49. **Sigmund Freud**: Anxiety is a signal that danger *might* be coming. Treat it like a smoke alarm: always worth checking, not always a fire.
 50. **Sigmund Freud**: Beliefs driven by wishes are illusions. The voice of the intellect is a soft one, but it doesn’t rest until it’s been heard.
 51. **Sigmund Freud**: Humor isn’t resigned, it’s rebellious: the conscience, for once, comforting you. Laughter in a hard moment doesn’t deny the pain, it refuses to be beaten by it.
@@ -63,7 +63,7 @@
 61. **Sigmund Freud**: A grieving person’s harshest self-reproaches often fit someone else: the one who was lost.
 62. **Sigmund Freud**: Something isn’t worth less because it doesn’t last. If anything, it’s worth more. That a thing will end is a reason to enjoy it now.
 63. **Sigmund Freud**: Repression keeps something away from consciousness, but it doesn’t stay away. It comes back, usually in disguise. What you refuse to think about will find another way in.
-64. **Sigmund Freud**: Deep down, nobody believes in their own death. That’s why so much gets left for “one day.”
+64. **Sigmund Freud**: Deep down, nobody believes in their own death. That’s why so much gets left for ‘one day.’
 65. **Sigmund Freud**: Private rituals and religious ones work the same way: repetition soothes anxiety.
 66. **Sigmund Freud**: Talking is a cure. Saying something out loud, in detail, to someone who listens changes it.
 67. **Sigmund Freud**: The realistic aim is to turn misery into common unhappiness. Ordinary unhappiness is something you can live with.
@@ -76,7 +76,7 @@
 74. **D. W. Winnicott**: A child’s transitional object is a remarkable thing: not fully part of the child, not fully part of the world, but a bridge between the two.
 75. **D. W. Winnicott**: Never ask a child whether they invented their blanket’s magic or discovered it out in the world. Some things are allowed to be both.
 76. **D. W. Winnicott**: People become fully real to us only after we’ve destroyed them in our minds and they’ve survived without retaliating. We then learn that they exist outside of us, and can begin to truly relate to them.
-77. **D. W. Winnicott**: “Hullo object! I destroyed you. I love you.” Love needs the other person to survive our worst feelings.
+77. **D. W. Winnicott**: ‘Hullo object! I destroyed you. I love you.’ Love needs the other person to survive our worst feelings.
 78. **D. W. Winnicott**: The breakdown you dread may already have happened, early, before you could take it in. Ask whether your fear is pointing backward rather than forward.
 79. **D. W. Winnicott**: When a child looks into her mother’s face, she sees herself. Long before any mirror, we find ourselves in the faces that really see us.
 80. **D. W. Winnicott**: Concern is guilt that can do something, through repair, instead of mere suffering. When you feel guilty, ask what repair would look like.
@@ -242,9 +242,9 @@
 240. **Christopher Bollas**: Modern life discourages reflection, and some unhappiness may be the cost of never having time to think.
 241. **Christopher Bollas**: Some people take over others’ feelings or experiences as if they were their own, leaving the other strangely emptied.
 242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognized by someone we in turn recognize.
-243. **Jessica Benjamin**: When an argument becomes “who’s doing what to whom,” look for the third: a shared position where you can both be heard.
+243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom,’ look for the third: a shared position where you can both be heard.
 244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding inevitable rupture, but being able to repair it.
-245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. “I hurt you and I see it” does more than any apology that defends itself.
+245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. ‘I hurt you and I see it’ does more than any apology that defends itself.
 246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet.
 247. **Adam Phillips**: You can’t tickle yourself. Some pleasures need another person, and require you to cede control.
 248. **Adam Phillips**: Nobody really knows what they’re doing with fidelity, desire and love. Everyone is improvising.
@@ -264,7 +264,7 @@
 262. **Stephen A. Mitchell**: Romance fades less from familiarity than from believing you know your partner completely. Nobody is fully known. Stay curious about the person you live with.
 263. **Stephen A. Mitchell**: We are always influenced by others. Autonomy isn’t freedom from influence. It’s owning the influences you’ve taken in.
 264. **Stephen A. Mitchell**: Love is a tension between the wish for safety and the wish for adventure. The work is in keeping both alive with the same person.
-265. **Julia Kristeva**: What disgusts us marks the border between “me” and “not me.” Disgust defends identity.
+265. **Julia Kristeva**: What disgusts us marks the border between ‘me’ and ‘not me.’ Disgust defends identity.
 266. **Julia Kristeva**: Depression can feel like a black sun: an inner light that gives no warmth, tied to a loss that can’t be named. Finding words for it is part of the way out.
 267. **Julia Kristeva**: Love both dissolves and remakes the boundaries of the self. That’s why it’s thrilling and frightening.
 268. **Julia Kristeva**: Question yourself as well as the world. Inner life depends on that kind of intimate revolt.
@@ -315,7 +315,7 @@
 313. **Neville Symington**: Narcissism is turning away from what could sustain you because it comes from outside.
 314. **Alice Miller**: Gifted children learn early to sense and meet their parents’ needs, and lose touch with their own.
 315. **Alice Miller**: Much depression is grief for the self you were never allowed to be.
-316. **Alice Miller**: Cruelty to children has often been justified as good upbringing. Listen closely to anything done “for your own good,” including what you now do to yourself.
+316. **Alice Miller**: Cruelty to children has often been justified as good upbringing. Listen closely to anything done ‘for your own good,’ including what you now do to yourself.
 317. **Heinz Hartmann**: A child needs an average expectable environment. Not ideal conditions, but ordinary adequate ones.
 318. **Margaret Mahler**: Psychological birth happens long after physical birth, through a slow process of separating, individuating, and becoming oneself.
 319. **Margaret Mahler**: Toddlers run off to explore, discover they’re separate, and come back anxiously for reassurance. Adults do the same with every big step.
@@ -344,7 +344,7 @@
 342. **Peter Fonagy**: The capacity to mentalize, or understand behavior in terms of what people think and feel, helps prevent and solve conflict.
 343. **Peter Fonagy**: To be helped, you need to be able to trust others as sources of knowledge.
 344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure, which is why we cling to the familiar even when it isn’t good for us.
-345. **Roy Schafer**: Say “I am anxious about it” rather than “anxiety overwhelms me.” Speaking as the one who feels gives you back some agency.
+345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me.’ Speaking as the one who feels gives you back some agency.
 346. **Roy Schafer**: Healing can mean retelling your life with a narrative of increasing agency.
 347. **Donald Spence**: A coherent, convincing story about your past can heal even if you can’t know exactly what happened. Your memories don’t have to be perfect to be useful.
 348. **Jonathan Lear**: Hope can survive the collapse of a whole way of life — hope for a good you can’t yet imagine.
