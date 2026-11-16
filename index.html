@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Frosty Says</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400&family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400&family=Libre+Baskerville:ital@0;1&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&display=swap" rel="stylesheet">
 <style>
   :root {
     --paper: #f4efe3;
@@ -90,10 +90,11 @@
     background: var(--bubble);
     border: 2px solid var(--ink);
     border-radius: 22px;
-    padding: 18px 20px;
+    padding: 20px 24px;
     margin: 6px 0 18px;
-    font-size: 16px;
-    line-height: 1.6;
+    font-family: "Newsreader", Georgia, serif;
+    font-size: 19px;
+    line-height: 1.5;
     box-shadow: 4px 4px 0 rgba(42,38,34,.15);
     display: flex; align-items: center;
   }
@@ -103,7 +104,8 @@
   }
   .bubble::before { bottom: -18px; border-width: 18px 14px 0 14px; border-color: var(--ink) transparent transparent; }
   .bubble::after  { bottom: -14px; border-width: 15px 11px 0 11px; border-color: var(--bubble) transparent transparent; }
-  .bubble p { margin: 0; }
+  .bubble p { margin: 0; text-wrap: pretty; }
+  .bubble .hang { margin-left: -0.42em; }
   .bubble.fresh p { animation: inkIn .5s ease both; }
   @keyframes inkIn { from { opacity: 0; filter: blur(3px); transform: translateY(4px); } to { opacity: 1; filter: none; transform: none; } }
 
@@ -159,7 +161,7 @@
 
   @media (max-width: 420px) {
     .column { padding: 20px 16px 16px; transform: none; }
-    .bubble { font-size: 15px; padding: 14px 16px; }
+    .bubble { font-size: 18px; padding: 16px 20px; }
   }
   @media (prefers-reduced-motion: reduce) {
     .snowman-btn.wobble img, .bubble.fresh p { animation: none; }
@@ -176,7 +178,7 @@
 
   <section class="stage">
     <div class="bubble" id="bubble" aria-live="polite">
-      <p>&ldquo;Go on, poke me. I&rsquo;ve been listening all winter and I have notes.&rdquo;</p>
+      <p><span class="hang">&ldquo;</span>Go on, poke me. I&rsquo;ve been listening all winter and I have notes.&rdquo;</p>
     </div>
 
     <button class="snowman-btn" id="snowman" aria-label="Tap the snowman for advice">
@@ -951,7 +953,9 @@ function speak() {
   bubble.innerHTML = '';
   const p = document.createElement('p');
   // *word* in a line renders as italics; everything else stays plain text
-  ('“' + a.t + '”').split(/\*([^*]+)\*/).forEach((part, i) => {
+  const q = document.createElement('span'); q.className = 'hang'; q.textContent = '“'; p.appendChild(q);
+  // keep the last two words together so no word sits alone on the final line
+  (a.t + '”').replace(/ (\S+)$/, '\u00A0$1').split(/\*([^*]+)\*/).forEach((part, i) => {
     if (i % 2) { const em = document.createElement('em'); em.textContent = part; p.appendChild(em); }
     else p.appendChild(document.createTextNode(part));
   });
