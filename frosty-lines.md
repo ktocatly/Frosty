@@ -5,7 +5,7 @@
 3. **Sigmund Freud**: When someone dies, reality tells us they’re gone, but love can’t let go all at once. Each memory and hope tied to them has to be called up and released, one by one, which is why mourning takes so long and hurts so much. When the work is done, we’re free to love again.
 4. **Sigmund Freud**: Your inner critic is built from your parents’ voices, and their parents’ before them. Before you obey it, ask whose voice it’s using.
 5. **Sigmund Freud**: A healthy person should be able to do two things: to love and to work.
-6. **Melanie Klein**: The person you love and the person you’re furious with are the same person. Realising that hurts more than keeping them separate. It’s also what makes real love possible.
+6. **Melanie Klein**: The person you love and the person you’re furious with are the same person. Realizing that hurts more than keeping them separate. It’s also what makes real love possible.
 7. **Melanie Klein**: When someone seems all good or all bad, you may be splitting. It’s harder, but try holding both versions at once.
 8. **Melanie Klein**: Envy attacks a good thing precisely because it’s good and isn’t yours. Gratitude lets it stay good.
 9. **D. W. Winnicott**: A good-enough parent fails a child in small, bearable ways, and those failures teach the child the world is real.
@@ -17,13 +17,13 @@
 15. **Jacques Lacan**: The unconscious is structured like a language. Slips, puns and odd word choices are where it speaks.
 16. **Carl Jung**: The parts of yourself you’d rather not know tend to show up in other people.
 17. **Wilfred Bion**: Some feelings can’t be thought until a sturdy someone takes them in, holds them, and gives them back in a form you can manage.
-18. **Wilfred Bion**: Meet each conversation ‘without memory and without desire’, so you see what’s actually there.
+18. **Wilfred Bion**: Meet each conversation ‘without memory and without desire,’ so you see what’s actually there.
 19. **Heinz Kohut**: A young self learns it’s worth something from the gleam in a parent’s eye.
-20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealised self that will never be satisfied. Swap a should for an honest want.
+20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealized self that will never be satisfied. Swap a should for an honest want.
 21. **Erich Fromm**: Immature love says, ‘I love you because I need you.’ Mature love says, ‘I need you because I love you.’
 22. **Erich Fromm**: Freedom frightens people, so they escape it into authority, conformity and crowds. Notice which of your choices you’ve quietly handed to someone else.
 23. **Erik Erikson**: Every stage of life has its own crisis, meaning a turning point rather than a catastrophe. If you feel unsettled, you may simply be between stages.
-24. **Anna Freud**: Repression, projection, denial: each defence was a solution once.
+24. **Anna Freud**: Repression, projection, denial: each defense was a solution once.
 25. **John Bowlby**: Seeking closeness when you’re frightened isn’t childish. It’s a system you’re born with, and it runs from the cradle to the grave.
 26. **W. R. D. Fairbairn**: Children stay loyal to parents who hurt them, because a bad tie is better than none. Adults can do the same with important ties out of fear of loss.
 27. **Sándor Ferenczi**: A child hurt by an adult may come to identify with that adult and take their side against themselves.
@@ -32,7 +32,7 @@
 30. **Adam Phillips**: We live as much in the lives we didn’t lead as in the one we did. Mourn the unlived ones a little. Then turn back to the one you actually have.
 31. **Stephen A. Mitchell**: The self is made in relationships, and so it’s multiple: you’re a slightly different person with everyone you know.
 32. **Julia Kristeva**: We are strangers to ourselves. The foreigner already lives within. Make peace with the parts of you that feel foreign, and other strangers become less alarming.
-33. **Sigmund Freud**: Every dream is the disguised fulfilment of a wish.
+33. **Sigmund Freud**: Every dream is the disguised fulfillment of a wish.
 34. **Sigmund Freud**: Dreams are the royal road to the unconscious. Write one down when you wake up.
 35. **Sigmund Freud**: Dreams condense several people into one figure.
 36. **Sigmund Freud**: Dreams borrow trivial details from the day before to carry thoughts that aren’t trivial at all.
@@ -44,26 +44,26 @@
 42. **Sigmund Freud**: Falling for your therapist, teacher or boss repeats an earlier love, and is also, inconveniently, genuine. Most new loves are both new and very old.
 43. **Sigmund Freud**: The uncanny is the kind of fright that leads back to something long familiar.
 44. **Sigmund Freud**: A child throws a toy away and pulls it back, turning being left into a game he controls. We all rehearse our losses somehow.
-45. **Sigmund Freud**: Part of us is pulled towards stillness and the end of all tension. Not everything in you wants more.
+45. **Sigmund Freud**: Part of us is pulled toward stillness and the end of all tension. Not everything in you wants more.
 46. **Sigmund Freud**: In a group, people put the leader in place of their own conscience, which is why crowds do what individuals wouldn’t.
 47. **Sigmund Freud**: The ego is like a rider who often has to go where the horse wants, then claims the route as his choice.
 48. **Sigmund Freud**: A repressed thought can surface as long as it’s denied. ‘It’s not that I’m envious’ is usually a fairly good clue. Listen to what you’re quick to deny.
 49. **Sigmund Freud**: Anxiety is a signal that danger *might* be coming. Treat it like a smoke alarm: always worth checking, not always a fire.
 50. **Sigmund Freud**: Beliefs driven by wishes are illusions. The voice of the intellect is a soft one, but it doesn’t rest until it’s been heard.
-51. **Sigmund Freud**: Humour isn’t resigned, it’s rebellious: the conscience, for once, comforting you. Laughter in a hard moment doesn’t deny the pain, it refuses to be beaten by it.
+51. **Sigmund Freud**: Humor isn’t resigned, it’s rebellious: the conscience, for once, comforting you. Laughter in a hard moment doesn’t deny the pain, it refuses to be beaten by it.
 52. **Sigmund Freud**: The fiercest feuds are often between people who are nearly alike.
 53. **Sigmund Freud**: Happiness was never part of the plan of Creation. That isn’t gloomy, it’s freeing.
-54. **Sigmund Freud**: Civilisation costs us some happiness by heightening our guilt. If you feel vaguely guilty for no clear reason, it may be the price of living among other people, not proof you’ve done anything wrong.
+54. **Sigmund Freud**: Civilization costs us some happiness by heightening our guilt. If you feel vaguely guilty for no clear reason, it may be the price of living among other people, not proof you’ve done anything wrong.
 55. **Sigmund Freud**: Educating, governing and healing minds are impossible professions: the results are bound to be unsatisfying. Parenting involves all three.
 56. **Sigmund Freud**: Some people fall ill just when a long-cherished wish comes true. Success can feel forbidden.
 57. **Sigmund Freud**: Listen without deciding in advance what matters. The important part of what someone says is rarely where you expected it.
 58. **Sigmund Freud**: Each of us carries an early pattern of loving that gets reprinted in every new relationship.
 59. **Sigmund Freud**: Vivid memories of trivial childhood moments can be screens for something more significant nearby. What you remember clearly isn’t always what mattered. Look just outside the frame.
-60. **Sigmund Freud**: Children fantasise that they were born to grander parents. It’s a way of coping with discovering their real parents are ordinary. Most of us eventually have to forgive them for it.
+60. **Sigmund Freud**: Children fantasize that they were born to grander parents. It’s a way of coping with discovering their real parents are ordinary. Most of us eventually have to forgive them for it.
 61. **Sigmund Freud**: A grieving person’s harshest self-reproaches often fit someone else: the one who was lost.
 62. **Sigmund Freud**: Something isn’t worth less because it doesn’t last. If anything, it’s worth more. That a thing will end is a reason to enjoy it now.
 63. **Sigmund Freud**: Repression keeps something away from consciousness, but it doesn’t stay away. It comes back, usually in disguise. What you refuse to think about will find another way in.
-64. **Sigmund Freud**: Deep down, nobody believes in their own death. That’s why so much gets left for ‘one day’.
+64. **Sigmund Freud**: Deep down, nobody believes in their own death. That’s why so much gets left for ‘one day.’
 65. **Sigmund Freud**: Private rituals and religious ones work the same way: repetition soothes anxiety.
 66. **Sigmund Freud**: Talking is a cure. Saying something out loud, in detail, to someone who listens changes it.
 67. **Sigmund Freud**: The realistic aim is to turn misery into common unhappiness. Ordinary unhappiness is something you can live with.
@@ -95,7 +95,7 @@
 93. **D. W. Winnicott**: When the world intrudes before a child is ready, the child learns to react instead of simply be.
 94. **D. W. Winnicott**: Beneath everything a baby needs is the simple, unbroken feeling of existing from one moment to the next: going on being. Interrupt it too often and a person learns to survive rather than live.
 95. **Melanie Klein**: The urge to repair what we feel we’ve damaged is one of the deepest sources of love.
-96. **Melanie Klein**: When we feel threatened, the mind splits the world in two: whatever frightens us becomes a persecutor, whatever comforts us becomes ideal. Everyone goes there sometimes. Recognising you’re there is the first step out.
+96. **Melanie Klein**: When we feel threatened, the mind splits the world in two: whatever frightens us becomes a persecutor, whatever comforts us becomes ideal. Everyone goes there sometimes. Recognizing you’re there is the first step out.
 97. **Melanie Klein**: When a feeling is too painful to own, we can lodge it in someone else and then treat it as theirs. Often they even start to feel it.
 98. **Melanie Klein**: Triumph, contempt, frantic busyness — anything but grief. It looks like coping, but it only postpones the mourning.
 99. **Melanie Klein**: Greed wants more than the giver can provide, so it is never satisfied. Gratitude can enjoy what is actually given.
@@ -103,9 +103,9 @@
 101. **Melanie Klein**: Adult relationships, institutions and quarrels carry the marks of infancy’s earliest fears.
 102. **Melanie Klein**: Children say with toys what they can’t yet put into words; adults do so with hobbies and habits.
 103. **Melanie Klein**: You can identify with someone so completely that you lose track of where you end and they begin. Closeness and confusion feel similar.
-104. **Melanie Klein**: Guilt arises when you realise you’ve attacked, in your mind, someone you love. It’s uncomfortable, but it’s the beginning of concern.
+104. **Melanie Klein**: Guilt arises when you realize you’ve attacked, in your mind, someone you love. It’s uncomfortable, but it’s the beginning of concern.
 105. **Melanie Klein**: We carry internal objects: inner versions of the people who mattered, shaped as much by our feelings about them as by who they were. They go on shaping how we feel long after the real people have gone.
-106. **Melanie Klein**: Idealising someone keeps them wholly good, safe from your own hostility. But the hostility hasn’t gone anywhere, so when they disappoint you, the fall is as steep as the pedestal was high.
+106. **Melanie Klein**: Idealizing someone keeps them wholly good, safe from your own hostility. But the hostility hasn’t gone anywhere, so when they disappoint you, the fall is as steep as the pedestal was high.
 107. **Melanie Klein**: The wish to create often grows from the wish to restore what we fear we’ve damaged.
 108. **Melanie Klein**: Every new grief reawakens the oldest ones. A small loss can bring a surprisingly large sorrow.
 109. **Melanie Klein**: Curiosity and fear grow up together. The urge to know is entangled with anxiety about what you’ll find.
@@ -127,11 +127,11 @@
 125. **Jacques Lacan**: Every life needs some law and limit to hold its meanings in place. Limits aren’t only restrictions. Without some, nothing stays meaningful for long.
 126. **Jacques Lacan**: Repetition is a missed appointment with something real: We keep returning to the place where something happened that we couldn’t take in.
 127. **Jacques Lacan**: We trust experts because we suppose they know. Often that supposition is what does the work. Some of the knowledge you’re waiting for may already be yours.
-128. **Jacques Lacan**: At the centre of desire is a lost Thing we circle and never quite reach. Desire keeps its distance from what it wants.
+128. **Jacques Lacan**: At the center of desire is a lost Thing we circle and never quite reach. Desire keeps its distance from what it wants.
 129. **Jacques Lacan**: Everyone has a particular knot that holds them together, a symptom that has become a way of living. The aim isn’t always to undo it. It’s to learn how to use it well.
 130. **Carl Jung**: The persona is a compromise between you and society about how you should appear. It’s useful, it isn’t you.
 131. **Carl Jung**: Introverts draw energy from inner experience, extraverts from the outer world. Neither is a flaw, and each tends to undervalue the other.
-132. **Carl Jung**: You can’t live the afternoon of life by the programme of the morning. What was true in the morning may be a lie by evening.
+132. **Carl Jung**: You can’t live the afternoon of life by the program of the morning. What was true in the morning may be a lie by evening.
 133. **Carl Jung**: In a crisis, playing like a child can bring you back to yourself.
 134. **Carl Jung**: Meaningful coincidences happen, whatever they mean about the world. Take them as psychological events: That’s where their meaning is.
 135. **Carl Jung**: When two parts of you disagree, don’t force a winner. Hold the tension long enough and a third option tends to appear.
@@ -146,7 +146,7 @@
 144. **Carl Jung**: A dream is a self-portrait of where you actually are, not where you’d like to be.
 145. **Carl Jung**: Only the wounded physician heals. Your own wounds are part of what lets you understand other people’s.
 146. **Wilfred Bion**: The mind can attack its own connections so as not to know something painful.
-147. **Wilfred Bion**: Groups often behave as if they’ve met to depend on a leader, to fight an enemy, or to pair off in hope of a saviour.
+147. **Wilfred Bion**: Groups often behave as if they’ve met to depend on a leader, to fight an enemy, or to pair off in hope of a savior.
 148. **Wilfred Bion**: Groups expect their leader to meet every need, then turn on the leader for failing.
 149. **Wilfred Bion**: Thoughts come first, and thinking develops to cope with them. Some thoughts are waiting for a mind ready to hold them. If something can’t be thought yet, it may need time, not force.
 150. **Wilfred Bion**: Be capable of uncertainty and doubt without irritably reaching for facts and reasons. Not knowing is part of finding out.
@@ -163,12 +163,12 @@
 161. **Heinz Kohut**: Small, bearable disappointments help a self build strength of its own. Too little frustration and we never learn. Too much and we break. Aim for the middle, with children and with yourself.
 162. **Heinz Kohut**: Childhood grandiosity is healthy if it grows up into ambition and self-respect. It becomes a problem only when it was never met, and so never outgrown.
 163. **Heinz Kohut**: Some people suffer from guilt over forbidden wishes. More, these days, suffer from a self that can’t fulfill its aims.
-164. **Karen Horney**: Under anxiety we move towards people, against them, or away from them. Each has its place. Trouble starts when only one move is available.
-165. **Karen Horney**: We build an idealised image of ourselves and then hate the real self for not matching it. Side with your real self.
+164. **Karen Horney**: Under anxiety we move toward people, against them, or away from them. Each has its place. Trouble starts when only one move is available.
+165. **Karen Horney**: We build an idealized image of ourselves and then hate the real self for not matching it. Side with your real self.
 166. **Karen Horney**: The search for glory never arrives, because the ideal is always just out of reach.
 167. **Karen Horney**: We make unspoken claims on the world: to be treated as special, spared difficulty, given to without asking. The world doesn’t know about the claims.
-168. **Karen Horney**: Basic anxiety is feeling isolated and helpless in a potentially hostile world. It starts in childhood and colours how adult life looks.
-169. **Karen Horney**: You can analyse yourself, with honesty and persistence. It’s hard, and it requires being willing to be surprised by what you find. Start by noticing what you avoid.
+168. **Karen Horney**: Basic anxiety is feeling isolated and helpless in a potentially hostile world. It starts in childhood and colors how adult life looks.
+169. **Karen Horney**: You can analyze yourself, with honesty and persistence. It’s hard, and it requires being willing to be surprised by what you find. Start by noticing what you avoid.
 170. **Karen Horney**: Envy runs in more than one direction. Men may envy women’s capacity to bear life, and compensate in other ways. When someone belittles a thing, ask whether they envy it.
 171. **Karen Horney**: The real self is a force for growth that emerges when anxiety stops getting in the way. It doesn’t need to be invented, it needs room.
 172. **Karen Horney**: We experience inner conflicts as if they were happening outside us, which makes other people look like the problem.
@@ -198,12 +198,12 @@
 196. **Erik Erikson**: Each stage of life is meant to leave a virtue behind: hope, will, purpose, competence, fidelity, love, care, wisdom.
 197. **Anna Freud**: Some people give up their own wishes and satisfy them through others. It looks generous. It can also be a way of not having to want.
 198. **Anna Freud**: Turning feelings into abstract argument keeps them at a safe distance. Say what you feel, not just what you think.
-199. **Anna Freud**: A sudden, severe renunciation of pleasure can be a defence against urges that feel too big. Extreme discipline isn’t always strength, sometimes it’s fear.
+199. **Anna Freud**: A sudden, severe renunciation of pleasure can be a defense against urges that feel too big. Extreme discipline isn’t always strength, sometimes it’s fear.
 200. **Anna Freud**: An unacceptable feeling can be turned into its opposite: hostility becomes excessive kindness. The exaggeration usually gives it away.
 201. **Anna Freud**: Feelings get redirected from their real target to a safer one. The safer target rarely deserves it.
 202. **Anna Freud**: Anger that can’t safely go outwards turns inwards. Self-criticism is sometimes anger with nowhere else to go.
 203. **Anna Freud**: Children develop unevenly, ahead in one area and behind in another. Adults do too.
-204. **Anna Freud**: The healthiest defence turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
+204. **Anna Freud**: The healthiest defense turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
 205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: The small, frightened child becomes the one who tames the lion.
 206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. It’s loss of hope.
 207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It’s attachment doing its job.
@@ -211,7 +211,7 @@
 209. **John Bowlby**: A secure base is somewhere to explore from and come back to. Security is what makes exploration possible.
 210. **John Bowlby**: Some children steal after early, prolonged separation from those who cared for them. Taking can be a way of searching for what they lost.
 211. **John Bowlby**: Maternal love in infancy and childhood is as important for mental health as vitamins and proteins are for physical health.
-212. **John Bowlby**: Some people insist on doing everything alone because needing others once hurt too much. It’s self-sufficiency as armour.
+212. **John Bowlby**: Some people insist on doing everything alone because needing others once hurt too much. It’s self-sufficiency as armor.
 213. **Mary Ainsworth**: Securely attached young children are upset when a parent leaves and comforted when they return. Distress upon separation can be healthy, as is the capacity to be comforted upon reunion.
 214. **Mary Ainsworth**: Some children seem unbothered when their parent leaves, yet their bodies are stressed all the same. Looking fine and being fine are different.
 215. **Mary Ainsworth**: Some children cling and push away at once, hard to soothe. Inconsistent care teaches inconsistent hope. If you seek closeness and resist it, you learned that somewhere.
@@ -241,8 +241,8 @@
 239. **Christopher Bollas**: Free association is the mind’s natural way of thinking. Its logic only shows itself over time. Not every thought needs to arrive in clear order. Let each thought come.
 240. **Christopher Bollas**: Modern life discourages reflection, and some unhappiness may be the cost of never having time to think.
 241. **Christopher Bollas**: Some people take over others’ feelings or experiences as if they were their own, leaving the other strangely emptied.
-242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognised by someone we in turn recognise.
-243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom’, look for the third: a shared position where you can both be heard.
+242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognized by someone we in turn recognize.
+243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom,’ look for the third: a shared position where you can both be heard.
 244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding inevitable rupture, but being able to repair it.
 245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. ‘I hurt you and I see it’ does more than any apology that defends itself.
 246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet.
@@ -264,7 +264,7 @@
 262. **Stephen A. Mitchell**: Romance fades less from familiarity than from believing you know your partner completely. Nobody is fully known. Stay curious about the person you live with.
 263. **Stephen A. Mitchell**: We are always influenced by others. Autonomy isn’t freedom from influence. It’s owning the influences you’ve taken in.
 264. **Stephen A. Mitchell**: Love is a tension between the wish for safety and the wish for adventure. The work is in keeping both alive with the same person.
-265. **Julia Kristeva**: What disgusts us marks the border between ‘me’ and ‘not me’. Disgust defends identity.
+265. **Julia Kristeva**: What disgusts us marks the border between ‘me’ and ‘not me.’ Disgust defends identity.
 266. **Julia Kristeva**: Depression can feel like a black sun: an inner light that gives no warmth, tied to a loss that can’t be named. Finding words for it is part of the way out.
 267. **Julia Kristeva**: Love both dissolves and remakes the boundaries of the self. That’s why it’s thrilling and frightening.
 268. **Julia Kristeva**: Question yourself as well as the world. Inner life depends on that kind of intimate revolt.
@@ -296,7 +296,7 @@
 294. **Alfred Adler**: Life sets three tasks: work, friendship and love. Each tests your connection to others.
 295. **Alfred Adler**: Birth order shapes the roles children take on. Siblings grow up in different families under the same roof.
 296. **Alfred Adler**: By early childhood you’ve adopted a style of life, a characteristic way of meeting problems. It can change, but needs to be noticed first.
-297. **Wilhelm Reich**: Defences live in the body: tight jaws, raised shoulders, a held breath. Your body has been bracing.
+297. **Wilhelm Reich**: Defenses live in the body: tight jaws, raised shoulders, a held breath. Your body has been bracing.
 298. **Wilhelm Reich**: How someone speaks reveals as much as what they say.
 299. **Joan Riviere**: Femininity can be worn as a mask to ward off retaliation for success.
 300. **Joan Riviere**: Some people get worse when helped, because getting better feels like abandoning someone they love.
@@ -315,7 +315,7 @@
 313. **Neville Symington**: Narcissism is turning away from what could sustain you because it comes from outside.
 314. **Alice Miller**: Gifted children learn early to sense and meet their parents’ needs, and lose touch with their own.
 315. **Alice Miller**: Much depression is grief for the self you were never allowed to be.
-316. **Alice Miller**: Cruelty to children has often been justified as good upbringing. Listen closely to anything done ‘for your own good’, including what you now do to yourself.
+316. **Alice Miller**: Cruelty to children has often been justified as good upbringing. Listen closely to anything done ‘for your own good,’ including what you now do to yourself.
 317. **Heinz Hartmann**: A child needs an average expectable environment. Not ideal conditions, but ordinary adequate ones.
 318. **Margaret Mahler**: Psychological birth happens long after physical birth, through a slow process of separating, individuating, and becoming oneself.
 319. **Margaret Mahler**: Toddlers run off to explore, discover they’re separate, and come back anxiously for reassurance. Adults do the same with every big step.
@@ -323,7 +323,7 @@
 321. **Helene Deutsch**: Some people adapt perfectly to every setting but feel nothing genuine.
 322. **Nancy Chodorow**: The early caregiver shapes how a child learns to relate, and the pattern reproduces itself. Change who holds the baby and the change ripples ahead.
 323. **Juliet Mitchell**: Siblings shape us sideways in ways theories about parents miss. Your first rival and ally arrived in the same house.
-324. **Darian Leader**: We’ve medicalised grief as depression and lost the rituals that helped people mourn.
+324. **Darian Leader**: We’ve medicalized grief as depression and lost the rituals that helped people mourn.
 325. **Darian Leader**: Letters we write and never send are still a way of speaking, to ourselves as much as the other.
 326. **Darian Leader**: Being mad is different from going mad. Madness can be quiet and stable; the crisis comes when what held it together gives way.
 327. **Darian Leader**: Insomnia can express what you can’t put into words. Try bringing midnight thoughts to daylight.
@@ -341,10 +341,10 @@
 339. **Hans Loewald**: Growing up means taking over your parents’ authority and becoming responsible for yourself.
 340. **Hans Loewald**: A good helper holds a picture of who you could become, a future version a little further along.
 341. **Selma Fraiberg**: Parents who can remember and feel their own childhood pain are less likely to repeat it.
-342. **Peter Fonagy**: The capacity to mentalize, or understand behaviour in terms of what people think and feel, helps prevent and solve conflict.
+342. **Peter Fonagy**: The capacity to mentalize, or understand behavior in terms of what people think and feel, helps prevent and solve conflict.
 343. **Peter Fonagy**: To be helped, you need to be able to trust others as sources of knowledge.
 344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure, which is why we cling to the familiar even when it isn’t good for us.
-345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me’. Speaking as the one who feels gives you back some agency.
+345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me.’ Speaking as the one who feels gives you back some agency.
 346. **Roy Schafer**: Healing can mean retelling your life with a narrative of increasing agency.
 347. **Donald Spence**: A coherent, convincing story about your past can heal even if you can’t know exactly what happened. Your memories don’t have to be perfect to be useful.
 348. **Jonathan Lear**: Hope can survive the collapse of a whole way of life — hope for a good you can’t yet imagine.
@@ -352,11 +352,11 @@
 350. **Jonathan Lear**: The mind isn’t transparent to itself. Self-knowledge is always partial, so stay open to being surprised by your own reasons.
 351. **Michael Eigen**: The same people and situations that nourish us can also poison us. It’s hard to separate the two.
 352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies inside it. Aesthetic awe and uncertainty arrive together.
-353. **Joyce McDougall**: We each have an inner theatre where old scenes are restaged with new actors.
+353. **Joyce McDougall**: We each have an inner theater where old scenes are restaged with new actors.
 354. **Joyce McDougall**: When feelings can’t find words, the body may speak them instead.
 355. **Didier Anzieu**: The self begins as a skin: a surface that holds, protects and communicates.
 356. **Sabina Spielrein**: Every creation involves some destruction.
-357. **Emmanuel Ghent**: Submission gives yourself up to another’s power. Surrender lets go of a defence so you can be known.
+357. **Emmanuel Ghent**: Submission gives yourself up to another’s power. Surrender lets go of a defense so you can be known.
 358. **Irwin Z. Hoffman**: Relationships need both ritual and spontaneity: a stable frame and genuine response.
 359. **Slavoj Žižek**: Fantasy doesn’t just fulfill desire. It teaches us how to desire, and what.
 360. **Slavoj Žižek**: People know very well what they’re doing, and they do it anyway. Knowing something isn’t the same as being free of it.
