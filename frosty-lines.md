@@ -300,68 +300,68 @@
 298. **Wilhelm Reich**: How someone speaks reveals as much as what they say.
 299. **Joan Riviere**: Femininity can be worn as a mask to ward off retaliation for success.
 300. **Joan Riviere**: Some people get worse when helped, because getting better feels like abandoning someone they love.
-301. **Marion Milner**: What actually makes you happy is often not what you assume. Keep notes for a while on what really lifts you. The results may surprise you.
-302. **Marion Milner**: Widening your attention, rather than narrowing it on a goal, makes ordinary things vivid. Try taking in the whole room, not just the screen.
-303. **Marion Milner**: You can often only create freely once you stop trying to control the result. Creativity needs tolerance of not knowing. Make something badly on purpose.
-304. **Marion Milner**: Some things can be shown before they can be said. If you can’t put something into words, try drawing it.
-305. **Marion Milner**: Frames matter: the edge of a picture, the end of an hour. A boundary makes a different kind of experience possible. Give your day some edges.
+301. **Marion Milner**: What actually makes you happy is often not what you assume.
+302. **Marion Milner**: Widening your attention, rather than narrowing it on a goal, makes the ordinary vivid.
+303. **Marion Milner**: You can often only create freely once you stop trying to control the result. Creativity requires tolerance of not knowing.
+304. **Marion Milner**: Some things can be shown before they can be said.
+305. **Marion Milner**: Frames matter: the edge of a picture, the end of an hour. A boundary makes certain experience possible.
 306. **Hanna Segal**: When a symbol is treated as the thing itself, trouble follows. A present is not the love. A text is not the person. Keep them apart in your mind.
-307. **Hanna Segal**: Making something beautiful can be a way of mourning: rebuilding a lost world in a new form. If you’re grieving, create something from it.
-308. **Betty Joseph**: It’s possible to become quietly addicted to despair, finding a secret comfort in it. If your misery has become familiar and strangely cosy, it may be time to leave it.
-309. **Betty Joseph**: We keep our inner balance by pulling others into familiar patterns, often without anyone noticing. If every boss becomes your father, look at the pattern, not the boss.
-310. **Herbert Rosenfeld**: Part of the self can operate like a gang, promising protection if you refuse to depend on anyone. Gangs always say that. Accepting help is how you leave.
-311. **John Steiner**: We have inner hideouts that protect us from pain and from growth in equal measure. Know where yours is, and how long you’ve been staying there.
-312. **John Steiner**: Shame is about being seen at the wrong moment. The cure is usually being seen properly, at the right one, by someone kind. Let someone see you.
-313. **Neville Symington**: Narcissism is turning away from what could sustain you because it comes from outside. Take the help. You can still pretend it was your idea.
-314. **Alice Miller**: Gifted children learn early to sense and meet their parents’ needs, and lose touch with their own. If you’re brilliant at reading others, check in with yourself.
-315. **Alice Miller**: Much depression is grief for the self you were never allowed to be. Grieve it. Then go looking for that self. It’s still there.
-316. **Alice Miller**: Cruelty to children has often been justified as good upbringing. Listen closely to anything done ‘for your own good’, including what you do to yourself.
-317. **Heinz Hartmann**: A child needs an average expectable environment. Not ideal conditions, ordinary adequate ones. You don’t have to provide perfection. Reliable is enough.
-318. **Margaret Mahler**: Psychological birth happens long after physical birth, through a slow process of separating and becoming oneself. Some of us are still being born. Be patient with it.
-319. **Margaret Mahler**: Toddlers run off to explore, discover they’re separate, and come back anxiously for reassurance. We do the same with every big step. It’s fine to check in.
+307. **Hanna Segal**: Making something beautiful can be a way of mourning: rebuilding a lost world in a new form.
+308. **Betty Joseph**: It’s possible to become quietly addicted to despair, finding a secret comfort in it.
+309. **Betty Joseph**: We keep our inner balance by pulling others into familiar patterns, often without anyone noticing.
+310. **Herbert Rosenfeld**: Part of the self can operate like a gang, promising protection if you refuse to depend on anyone.
+311. **John Steiner**: We have inner hideouts that protect us from pain, and from growth, in equal measure.
+312. **John Steiner**: Shame is about being seen at the wrong moment. The cure is usually being seen kindly at the right one.
+313. **Neville Symington**: Narcissism is turning away from what could sustain you because it comes from outside.
+314. **Alice Miller**: Gifted children learn early to sense and meet their parents’ needs, and lose touch with their own.
+315. **Alice Miller**: Much depression is grief for the self you were never allowed to be.
+316. **Alice Miller**: Cruelty to children has often been justified as good upbringing. Listen closely to anything done ‘for your own good’, including what you now do to yourself.
+317. **Heinz Hartmann**: A child needs an average expectable environment. Not ideal conditions, but ordinary adequate ones.
+318. **Margaret Mahler**: Psychological birth happens long after physical birth, through a slow process of separating, individuating, and becoming oneself.
+319. **Margaret Mahler**: Toddlers run off to explore, discover they’re separate, and come back anxiously for reassurance. Adults do the same with every big step.
 320. **Margaret Mahler**: Separating and becoming yourself are twin processes. Neither works without the other. You can become your own person without cutting ties.
-321. **Helene Deutsch**: Some people adapt perfectly to every setting but feel nothing genuine. The imitation is good; the feeling is missing. Do one thing today that you actually feel.
-322. **Nancy Chodorow**: Who does the early caring shapes how children learn to relate, and the pattern reproduces itself. Change who holds the baby and you change a lot.
-323. **Juliet Mitchell**: Siblings shape us sideways in ways theories about parents miss. Your first rival and ally arrived in the same house. Look at how you treat peers.
-324. **Darian Leader**: We’ve medicalised grief as depression and lost the rituals that helped people mourn. You may not be broken. You may be mourning. Give it its own time.
-325. **Darian Leader**: Letters we write and never send are still a way of speaking, to ourselves as much as the other. Write the letter. You don’t have to post it.
-326. **Darian Leader**: Being mad is different from going mad. Madness can be quiet and stable; the crisis comes when what held it together gives way. Pay attention to what’s holding you together.
-327. **Darian Leader**: Insomnia can express what you can’t put into words. If you’re lying awake at 3 a.m., something may want a hearing. Try listening to it in daylight.
+321. **Helene Deutsch**: Some people adapt perfectly to every setting but feel nothing genuine.
+322. **Nancy Chodorow**: The early caregiver shapes how a child learns to relate, and the pattern reproduces itself. Change who holds the baby and the change ripples ahead.
+323. **Juliet Mitchell**: Siblings shape us sideways in ways theories about parents miss. Your first rival and ally arrived in the same house.
+324. **Darian Leader**: We’ve medicalised grief as depression and lost the rituals that helped people mourn.
+325. **Darian Leader**: Letters we write and never send are still a way of speaking, to ourselves as much as the other.
+326. **Darian Leader**: Being mad is different from going mad. Madness can be quiet and stable; the crisis comes when what held it together gives way.
+327. **Darian Leader**: Insomnia can express what you can’t put into words. Try bringing midnight thoughts to daylight.
 328. **Stephen Grosz**: Praising children for being clever can make them afraid to fail. Praise effort instead. It leaves room to try hard things.
-329. **Stephen Grosz**: People resist change because change involves loss. Staying stuck can be a way of not giving something up. Ask what you’d lose if you changed.
-330. **Stephen Grosz**: The stories we tell about ourselves can hide other stories. The one you tell most often may be covering for one you can’t yet tell.
-331. **Josh Cohen**: Inertia isn’t always laziness. Doing nothing can be a protest against relentless demands to perform. Rest without apologising for it.
-332. **Josh Cohen**: Burnout is exhausted desire: not just tiredness, but no longer being able to want. If nothing appeals, you need rest, not motivation.
-333. **Esther Bick**: Without enough holding, babies hold themselves together with tense muscles or constant movement, a second skin. Adults use busyness. Try being held instead.
-334. **Harry Guntrip**: A part of the self can withdraw from a world that once felt like too much. It isn’t absent, it’s hiding. Offer it warm, low-pressure invitations.
-335. **Georg Groddeck**: We are lived by forces we don’t know and can’t fully steer. You’re not entirely in charge. Accepting that can be a relief.
+329. **Stephen Grosz**: People resist change because change involves loss. Staying stuck can be a way of not giving something up.
+330. **Stephen Grosz**: The stories we tell about ourselves most can hide other stories we can’t yet tell.
+331. **Josh Cohen**: Inertia can be a protest against relentless demands to perform.
+332. **Josh Cohen**: Burnout is exhausted desire: not just tiredness, but no longer being able to want.
+333. **Esther Bick**: Without enough holding, babies hold themselves together with tense muscles or constant movement. Adults use busyness.
+334. **Harry Guntrip**: A part of the self can withdraw from a world that once felt like too much. It isn’t absent, it’s hiding.
+335. **Georg Groddeck**: We are lived by forces we don’t know and can’t fully steer. Acceptance of this fact can offer relief.
 336. **Theodor Reik**: Listen with a third ear: to what isn’t said, and to your own reactions. The pauses carry as much as the words.
-337. **Theodor Reik**: Surprise is often a sign you’ve touched something true. The thought that startles you is the one worth keeping.
-338. **Hans Loewald**: Healing turns ghosts into ancestors: the past stops haunting and starts guiding. You don’t have to forget your history. You have to put it to rest.
-339. **Hans Loewald**: Growing up means taking over your parents’ authority and becoming responsible for yourself. You can do it kindly. You still have to do it.
-340. **Hans Loewald**: A good helper holds a picture of who you could become, a version a little further along. Find people who see that version of you, and grow towards it.
-341. **Selma Fraiberg**: Parents who can remember and feel their own childhood pain are less likely to repeat it. The danger isn’t the memory. It’s forgetting.
-342. **Peter Fonagy**: Understanding behaviour in terms of what people think and feel, yours and theirs, prevents a lot of trouble. When conflict starts, ask what’s going on in their head.
-343. **Peter Fonagy**: To be helped, you need to be able to trust others as sources of knowledge. If no advice ever reaches you, the problem may not be the advice.
-344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure. That’s why routine soothes and holidays can exhaust. Build some safety into your days.
-345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me’. Feelings aren’t weather. Speaking as the one who feels gives you back some agency.
+337. **Theodor Reik**: Surprise is often a sign you’ve touched something true. The thought that startles you is one worth keeping.
+338. **Hans Loewald**: Healing turns ghosts into ancestors: The past stops haunting and starts guiding.
+339. **Hans Loewald**: Growing up means taking over your parents’ authority and becoming responsible for yourself.
+340. **Hans Loewald**: A good helper holds a picture of who you could become, a future version a little further along.
+341. **Selma Fraiberg**: Parents who can remember and feel their own childhood pain are less likely to repeat it.
+342. **Peter Fonagy**: The capacity to mentalize, or understand behaviour in terms of what people think and feel, helps prevent and solve conflict.
+343. **Peter Fonagy**: To be helped, you need to be able to trust others as sources of knowledge.
+344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure.
+345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me’. Speaking as the one who feels gives you back some agency.
 346. **Roy Schafer**: Healing can mean telling your life as a different story, true, but with fewer villains and more plot. Try retelling one of your old stories.
 347. **Donald Spence**: A coherent, convincing story about your past can heal even if you can’t know exactly what happened. Your memories don’t have to be perfect to be useful.
-348. **Jonathan Lear**: Hope can survive the collapse of a whole way of life, hope for a good you can’t yet imagine. When everything familiar ends, you can still hope.
-349. **Jonathan Lear**: Every idea of a happy life leaves something over that doesn’t fit. That remainder isn’t a flaw. It’s part of being a person.
+348. **Jonathan Lear**: Hope can survive the collapse of a whole way of life — hope for a good you can’t yet imagine.
+349. **Jonathan Lear**: Every idea of a happy life leaves something over that doesn’t fit.
 350. **Jonathan Lear**: The mind isn’t transparent to itself. Self-knowledge is always partial. Be humble about how well you know your own reasons.
-351. **Michael Eigen**: The same people and situations that nourish us can also poison us. It’s hard to separate the two. Learn to taste what you’re being given.
-352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies behind it. Beauty and doubt arrive together. Being moved by something isn’t naive. It’s original.
-353. **Joyce McDougall**: We each have an inner theatre where old scenes are restaged with new actors. Once you know the script, you can change it.
-354. **Joyce McDougall**: When feelings can’t find words, the body may speak them instead. Some aches are feelings without language. Ask what yours might be saying.
-355. **Didier Anzieu**: The self begins as a skin: a surface that holds, protects and communicates. Some days you need to thicken it. Some days you need to let a little weather in.
-356. **Sabina Spielrein**: Every creation involves some destruction. To make something new, something old has to go. Expect change to cost you something.
-357. **Emmanuel Ghent**: Submission gives yourself up to another’s power. Surrender lets go of a defence so you can be known. One shrinks you, the other doesn’t. Know the difference.
-358. **Irwin Z. Hoffman**: Relationships need ritual and spontaneity: a stable frame and genuine response. Too much of either loses something. Keep the routine. Occasionally break it.
-359. **Slavoj Žižek**: Fantasy doesn’t just fulfil desire. It teaches us how to desire, and what. Check who wrote your fantasies.
-360. **Slavoj Žižek**: People know very well what they’re doing, and they do it anyway. Seeing through something isn’t the same as being free of it. Change the behaviour, not just the opinion.
-361. **Bruce Fink**: Ending on a striking word leaves it echoing. Where you stop shapes what’s heard. End conversations a little earlier than you think you should.
-362. **Edith Jacobson**: Images of ourselves and others develop together. Change how you see one and the other shifts. Revising how you see your parents can change how you see yourself.
-363. **Karl Abraham**: In mourning we take the lost person inside us to keep them. Their phrases and habits may become yours. That’s not strange. It’s how they stay.
-364. **Robert Stolorow**: Painful feelings become trauma when there’s no one to share them with. Pain needs a relational home. Find yours one.
-365. **Paul Verhaeghe**: A society built on competition and performance breeds anxious, isolated selves. Some of your distress is social, not personal. Don’t blame yourself for all of it.
+351. **Michael Eigen**: The same people and situations that nourish us can also poison us. It’s hard to separate the two.
+352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies behind it. Beauty and doubt arrive together.
+353. **Joyce McDougall**: We each have an inner theatre where old scenes are restaged with new actors.
+354. **Joyce McDougall**: When feelings can’t find words, the body may speak them instead.
+355. **Didier Anzieu**: The self begins as a skin: a surface that holds, protects and communicates.
+356. **Sabina Spielrein**: Every creation involves some destruction.
+357. **Emmanuel Ghent**: Submission gives yourself up to another’s power. Surrender lets go of a defence so you can be known.
+358. **Irwin Z. Hoffman**: Relationships need both ritual and spontaneity: a stable frame and genuine response.
+359. **Slavoj Žižek**: Fantasy doesn’t just fulfill desire. It teaches us how to desire, and what.
+360. **Slavoj Žižek**: People know very well what they’re doing, and they do it anyway. Knowing something isn’t the same as being free of it.
+361. **Bruce Fink**: Ending on a striking word leaves it echoing. Where you stop shapes what’s heard.
+362. **Edith Jacobson**: Images of ourselves and others develop together. Change how you see one and the other shifts.
+363. **Karl Abraham**: In mourning we internalize the lost person, sometimes adopting their phrases and habits, in order to keep them.
+364. **Robert Stolorow**: Painful feelings become trauma when there’s no one to share them with.
+365. **Paul Verhaeghe**: A society built on competition and performance breeds anxious, isolated selves.
