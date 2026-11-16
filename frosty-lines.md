@@ -205,101 +205,101 @@
 203. **Anna Freud**: Children develop unevenly, ahead in one area and behind in another. Adults do too.
 204. **Anna Freud**: The healthiest defence turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
 205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: The small, frightened child becomes the one who tames the lion.
-206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. If you’ve stopped caring, check whether you’ve only stopped hoping.
+206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. It’s loss of hope.
 207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It isn’t irrational. It’s attachment doing its job. Seeing them in a crowd is love, arriving late.
-208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but by new experience, not argument. Let someone surprise you.
-209. **John Bowlby**: A secure base is somewhere to explore from and come back to. Security is what makes independence possible. Be someone’s base. Let someone be yours.
-210. **John Bowlby**: Some children steal after early, prolonged separation from those who cared for them. Taking can be a way of searching. When someone takes too much, ask what they’ve lost.
+208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but only by new experience, not argument. Let someone surprise you.
+209. **John Bowlby**: A secure base is somewhere to explore from and come back to. Security is what makes exploration possible.
+210. **John Bowlby**: Some children steal after early, prolonged separation from those who cared for them. Taking can be a way of searching for what they lost.
 211. **John Bowlby**: Love in early childhood matters to mental health as much as vitamins do to the body. That seems obvious now. It wasn’t always. Don’t underrate warmth.
-212. **John Bowlby**: Some people insist on doing everything alone because needing others once hurt too much. It’s self-sufficiency as armour. You’re allowed to put it down sometimes.
+212. **John Bowlby**: Some people insist on doing everything alone because needing others once hurt too much. It’s self-sufficiency as armour.
 213. **Mary Ainsworth**: Securely attached toddlers are upset when a parent leaves and comforted when they return. Distress isn’t the problem. Being unable to be comforted is. Let yourself be comforted.
-214. **Mary Ainsworth**: Some toddlers seem unbothered when their parent leaves, yet their bodies are stressed all the same. Looking fine and being fine are different. Check which one you’re doing.
-215. **Mary Ainsworth**: Some toddlers cling and push away at once, hard to soothe. Inconsistent care teaches inconsistent hope. If you seek closeness and resist it, you learned that somewhere. You can unlearn it.
-216. **W. R. D. Fairbairn**: A child would rather believe they’re bad than that their parents are. Better a sinner in a world ruled by God than live in one ruled by the Devil. If you always assume it’s your fault, ask why that was safer.
-217. **W. R. D. Fairbairn**: What we’re after, at bottom, isn’t pleasure but people. Libido seeks relationship. If you feel empty despite having everything, look at your connections.
-218. **W. R. D. Fairbairn**: Someone thrilling and unavailable stirs a longing that can feel like love. Often the thrill is the unavailability. Ask whether you love the person or the longing.
-219. **W. R. D. Fairbairn**: There’s a part of us that attacks our own needs and sides with whoever rejected them. It passes itself off as good sense. Notice when ‘being realistic’ is really self-sabotage.
-220. **W. R. D. Fairbairn**: Some people keep their love hidden because they fear it destroys. They seem cold, but they’re protecting others. If someone seems distant, they may be guarding something.
-221. **W. R. D. Fairbairn**: Development moves from infantile dependence to mature dependence, not to independence. Needing others never stops. How you need them can grow up.
+214. **Mary Ainsworth**: Some children seem unbothered when their parent leaves, yet their bodies are stressed all the same. Looking fine and being fine are different.
+215. **Mary Ainsworth**: Some children cling and push away at once, hard to soothe. Inconsistent care teaches inconsistent hope. If you seek closeness and resist it, you learned that somewhere.
+216. **W. R. D. Fairbairn**: A child would rather believe they’re bad than that their parents are. Better a sinner in a world ruled by God than live in one ruled by the Devil.
+217. **W. R. D. Fairbairn**: What we’re after, at the end of the day, isn’t pleasure but people. Libido seeks relationship. If you feel empty despite having everything, look at your connections.
+218. **W. R. D. Fairbairn**: Someone thrilling and unavailable stirs a longing that can feel like love. Often the thrill is the unavailability.
+219. **W. R. D. Fairbairn**: There’s a part of us that attacks our own needs and sides with whoever rejected them. It passes itself off as good sense.
+220. **W. R. D. Fairbairn**: Some people keep their love hidden because they fear it destroys. They seem cold, but they’re protecting others.
+221. **W. R. D. Fairbairn**: Development moves from infantile dependence to mature dependence, not to independence. Needing others never stops. How you need them can evolve.
 222. **Sándor Ferenczi**: Tact is the capacity to feel with someone. Knowing when to say something matters as much as what to say. Before you say the true thing, check whether it’s the right moment.
 223. **Sándor Ferenczi**: Professional calm can repeat the coldness that did harm in the first place. Detachment isn’t always neutral. Sometimes warmth is the honest response.
 224. **Sándor Ferenczi**: Children who sense they weren’t wanted can lose some of their will to live. If you’ve always felt in the way, that feeling has a history. It isn’t a verdict on you.
-225. **Sándor Ferenczi**: There’s an old longing in all of us to return to somewhere warm and wordless, the womb, even the sea. It explains a lot about baths. Let yourself rest in it sometimes.
-226. **Sándor Ferenczi**: Children speak the language of tenderness. Harm follows when adults answer in the language of passion. With anyone vulnerable, make sure you’re speaking their language.
+225. **Sándor Ferenczi**: There’s an old longing in all of us to return to somewhere warm and wordless, the womb, even the sea.
+226. **Sándor Ferenczi**: Children speak the language of tenderness. Harm follows when adults answer in the language of passion. With the vulnerable, make sure you’re speaking their language.
 227. **Sándor Ferenczi**: The listener needs to be listened to as well. Even helpers have blind spots. If you’re everyone’s confidant, find someone to be yours.
-228. **Sándor Ferenczi**: Children forced to grow up too soon become wise babies, looking after the adults who should have looked after them. If you were one, you’re allowed to be looked after now.
-229. **Michael Balint**: Some problems aren’t conflicts to resolve but something missing, a basic fault. Arguments won’t fix a lack. It needs to be met, slowly, by someone reliable.
-230. **Michael Balint**: Some people cling to objects and feel anxious in the open spaces between them. If you’re a clinger, know that the spaces are survivable. Practise small crossings.
-231. **Michael Balint**: Some people love the open spaces and the thrill of leaving safety, sure they’ll get back. If that’s you, enjoy it. Just check you’re still coming back.
+228. **Sándor Ferenczi**: Children forced to grow up too soon become wise babies, looking after the adults who should have looked after them.
+229. **Michael Balint**: Some problems aren’t conflicts to resolve but something missing, a basic fault. Arguments won’t fix a lack. It needs to be met, slowly, by a reliable other.
+230. **Michael Balint**: Some people cling to objects and feel anxious in the open spaces between them. Know that the spaces are survivable.
+231. **Michael Balint**: Some people love the open spaces and the thrill of leaving safety, sure they’ll get back. Make sure to get back.
 232. **Michael Balint**: The doctor is a drug: how they treat you affects you as much as what they prescribe. Friends work the same way. Choose people whose effect on you is good.
-233. **Christopher Bollas**: Our first carer transformed our whole world, and we go on searching for things that will transform us again: lovers, holidays, new kitchens. It’s the same search. Know what you’re really shopping for.
-234. **Christopher Bollas**: Some people are abnormally normal, all facts and objects, with no interest in inner life. It doesn’t look like illness. If you never feel anything complicated, that’s worth wondering about.
-235. **Christopher Bollas**: Fate is being determined by circumstances. Destiny is using your life to express who you are. Everyone gets fate. Destiny takes effort. Make a few choices that are recognisably yours.
-236. **Christopher Bollas**: We use the objects of the world, people, places, music, to express ourselves. Your choices of taste are a kind of self-expression. Choose things that say something true.
-237. **Christopher Bollas**: Some things evoke parts of you that you didn’t know were there: a song, a street, the smell of toast. Pay attention to what moves you. It’s a letter from yourself.
+233. **Christopher Bollas**: Our first carer transformed our whole world, and we go on searching for things that will transform us again: lovers, holidays, new kitchens. It’s the same search.
+234. **Christopher Bollas**: Some people are abnormally normal, all facts and objects, with no interest in inner life. It doesn’t look like illness.
+235. **Christopher Bollas**: Fate is being determined by circumstances. Destiny is using your life to express who you are. Everyone gets fate.
+236. **Christopher Bollas**: We give shape to who we are through what we choose: people, places, music, clothes. Taste is a way of speaking ourselves.
+237. **Christopher Bollas**: Some things evoke parts of you that you didn’t know were there: a song, a street, a smell. Pay attention to what moves you. It’s a message from yourself.
 238. **Christopher Bollas**: Unconscious thinking breaks up ordinary experience into new connections, like a laugh does. Let your mind wander. That’s when it does some of its best work.
-239. **Christopher Bollas**: Free association is the mind’s natural way of thinking. Its logic only shows itself over time. Not every thought needs to arrive in order. Let them come.
-240. **Christopher Bollas**: Modern life discourages reflection, and some unhappiness may be the cost of never having time to think. Leave some space in your day with nothing in it.
-241. **Christopher Bollas**: Some people take over others’ feelings or experiences as if they were their own, leaving the other strangely emptied. Notice who borrows your stories. Keep some for yourself.
-242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognised by someone we in turn recognise. Ask the people you love what it’s like to be them.
-243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom’, look for a third space where you can both be heard. Nobody has to win for the relationship to.
-244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding rupture but being able to repair it. Don’t fear the break. Get good at the mending.
+239. **Christopher Bollas**: Free association is the mind’s natural way of thinking. Its logic only shows itself over time. Not every thought needs to arrive in clear order. Let each thought come.
+240. **Christopher Bollas**: Modern life discourages reflection, and some unhappiness may be the cost of never having time to think.
+241. **Christopher Bollas**: Some people take over others’ feelings or experiences as if they were their own, leaving the other strangely emptied.
+242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognised by someone we in turn recognise.
+243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom’, look for a third space where you can both be heard.
+244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding rupture but being able to repair it.
 245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. ‘I hurt you and I see it’ does more than any apology that defends itself.
-246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet. Don’t fill it straight away. Something might turn up.
-247. **Adam Phillips**: You can’t tickle yourself. Some pleasures need another person, and need you not to be in control. Let someone else in on the fun.
-248. **Adam Phillips**: Nobody really knows what they’re doing with fidelity, desire and love. Everyone is improvising. Be a little kinder to your own improvisations.
-249. **Adam Phillips**: We have detailed descriptions of madness and very few of sanity. We may not know what we’re aiming for. Work out your own picture of being well.
-250. **Adam Phillips**: Kindness has become suspect, seen as weakness or naivety. It’s actually one of life’s great pleasures. Be kind anyway, and notice how it feels.
-251. **Adam Phillips**: Frustration is where you discover what you want. Rush to relieve it and you lose the information. Stay with it a moment and ask what it’s telling you.
-252. **Adam Phillips**: Balance is overrated. Some of what matters most, love among it, involves excess. Don’t moderate everything.
-253. **Adam Phillips**: Be wary of anyone who knows exactly what you mean, including experts. Curiosity is more useful than certainty. Stay curious about yourself.
-254. **Adam Phillips**: Accepting that everything ends, ourselves included, is what lets life matter. Transience isn’t the enemy of meaning. It’s the condition for it.
-255. **Adam Phillips**: We use promises and theories to manage what we can’t control. A promise is partly a hope dressed as a certainty. Make fewer, and keep them.
-256. **Adam Phillips**: We’re so fascinated by forbidden pleasures that we neglect the ones nobody stops us having. A walk, a nap, a long lunch. Enjoy something you’re allowed.
-257. **Adam Phillips**: Everyone wants attention, and what we attend to shapes who we become. Choose carefully where you put yours.
-258. **Adam Phillips**: Wanting to become someone else can be a way of not acknowledging who you already are. Before reinventing yourself, get to know the current version.
-259. **Adam Phillips**: Getting better may mean becoming more fully who you are, not someone new. Recovery isn’t replacement. Expect to recognise yourself on the other side.
-260. **Adam Phillips**: Giving things up can be a form of freedom, not just defeat. Knowing what to stop matters as much as knowing what to pursue. Let something go this week.
-261. **Stephen A. Mitchell**: We bring both hope and dread into new relationships: hope of something new, dread of repeating something old. Both are normal. Don’t let the dread do all the talking.
+246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet.
+247. **Adam Phillips**: You can’t tickle yourself. Some pleasures need another person, and require you to cede control.
+248. **Adam Phillips**: Nobody really knows what they’re doing with fidelity, desire and love. Everyone is improvising.
+249. **Adam Phillips**: We have detailed descriptions of madness and very few of sanity. We may not know what we’re aiming for.
+250. **Adam Phillips**: Kindness has become suspect, seen as weakness or naivety. It’s actually one of life’s great pleasures.
+251. **Adam Phillips**: Frustration is where you discover what you want. Rush to relieve it and you lose the information.
+252. **Adam Phillips**: Balance is overrated. Some of what matters most, love among it, involves excess.
+253. **Adam Phillips**: Be wary of anyone who knows exactly what you mean, including experts. Curiosity is more useful than certainty.
+254. **Adam Phillips**: Accepting that everything ends, ourselves included, is what lets life matter. Transience is the condition for meaning.
+255. **Adam Phillips**: We use promises and theories to manage what we can’t control. A promise is partly a hope dressed as a certainty.
+256. **Adam Phillips**: We’re so fascinated by forbidden pleasures that we neglect the ones nobody stops us having.
+257. **Adam Phillips**: Everyone wants attention, and what we attend to shapes who we become.
+258. **Adam Phillips**: Wanting to become someone else can be a way of not acknowledging who you already are.
+259. **Adam Phillips**: Getting better means becoming more fully who you are, not someone new. Recovery isn’t replacement.
+260. **Adam Phillips**: Giving things up can be a form of freedom, not just defeat. Knowing what to let go of matters as much as knowing what to pursue.
+261. **Stephen A. Mitchell**: We bring both hope and dread into new relationships: hope of something new, dread of repeating something old.
 262. **Stephen A. Mitchell**: Romance fades less from familiarity than from believing you know your partner completely. Nobody is fully known. Stay curious about the person you live with.
-263. **Stephen A. Mitchell**: We are always influenced by others. Autonomy isn’t freedom from influence. It’s owning the influences you’ve taken in. Know whose ideas you’re carrying.
-264. **Stephen A. Mitchell**: Love is a tension between the wish for safety and the wish for adventure. Neither goes away. The work is in keeping both alive with the same person.
-265. **Julia Kristeva**: What disgusts us marks the border between ‘me’ and ‘not me’. Disgust defends identity. When something revolts you, ask what boundary it’s threatening.
-266. **Julia Kristeva**: Depression can feel like a black sun: an inner light that gives no warmth, tied to a loss that can’t be named. Finding words for it is part of the way out. Tell someone.
-267. **Julia Kristeva**: Love both dissolves and remakes the boundaries of the self. That’s why it’s thrilling and frightening. Expect to be changed by it.
-268. **Julia Kristeva**: Question yourself as well as the world. Inner life depends on that kind of intimate revolt. A little self-questioning keeps you alive.
-269. **André Green**: A parent can be present but emotionally absent, often lost in their own grief. A child tries to revive them, and may later feel hollow without knowing why. That hollowness has a history.
-270. **André Green**: What’s missing shapes us as much as what’s there: absences, losses, the things that never happened. Pay attention to the empty chairs in your life.
-271. **André Green**: Some withdrawal sustains the self. Some seeks to switch everything off. When you cancel plans, ask which kind of retreat you’re making.
-272. **Jean Laplanche**: Parents send children messages charged with meanings the parents themselves don’t understand. We spend a lifetime translating them. You don’t have to finish the translation alone.
-273. **Jean Laplanche**: An event can become a wound only later, when we come to understand it. The past isn’t fixed. Its meaning can change, and so can your relationship to it.
-274. **Thomas Ogden**: Every close relationship creates a third thing that belongs to neither person alone. When you argue, notice what the two of you are creating together.
-275. **Thomas Ogden**: Stray thoughts and daydreams during a conversation can be clues to what’s happening between you. When your mind wanders, notice where it goes.
-276. **Thomas Ogden**: Some experiences can’t be digested alone. We need someone to help us dream what we couldn’t dream by ourselves. Talk things through with someone, out loud.
-277. **Thomas Ogden**: Comfort sometimes has to come through the body before it can come through words: rhythm, warmth, texture. When talking doesn’t help, try a blanket or a walk.
-278. **Otto Rank**: Every separation echoes the first one, birth. Leaving a job, a house, a person, each recalls it. Allow yourself to find endings harder than they look.
-279. **Otto Rank**: We fear standing out and alone, and we fear dissolving into others. We spend our lives moving between the two. Notice which fear is steering you today.
-280. **Otto Rank**: Creativity turns inner conflict into form. You don’t have to resolve a struggle before making something from it. Use it.
-281. **Otto Rank**: The will is a creative force, not just stubbornness. Don’t break your will. Point it at something worth doing.
-282. **Harry Stack Sullivan**: We are all much more simply human than otherwise. When someone seems incomprehensible, start from what you have in common.
+263. **Stephen A. Mitchell**: We are always influenced by others. Autonomy isn’t freedom from influence. It’s owning the influences you’ve taken in.
+264. **Stephen A. Mitchell**: Love is a tension between the wish for safety and the wish for adventure. The work is in keeping both alive with the same person.
+265. **Julia Kristeva**: What disgusts us marks the border between ‘me’ and ‘not me’. Disgust defends identity.
+266. **Julia Kristeva**: Depression can feel like a black sun: an inner light that gives no warmth, tied to a loss that can’t be named. Finding words for it is part of the way out.
+267. **Julia Kristeva**: Love both dissolves and remakes the boundaries of the self. That’s why it’s thrilling and frightening.
+268. **Julia Kristeva**: Question yourself as well as the world. Inner life depends on that kind of intimate revolt.
+269. **André Green**: A parent can be present but emotionally absent, often lost in their own grief. A child tries to revive them, and may later feel hollow without knowing why.
+270. **André Green**: What’s missing shapes us as much as what’s there: absences, losses, the things that never happened.
+271. **André Green**: Some withdrawal sustains the self. Some seeks to switch everything off.
+272. **Jean Laplanche**: Parents send children messages charged with meanings the parents themselves don’t understand. We spend a lifetime translating them.
+273. **Jean Laplanche**: An event can become a wound only later, when we come to understand it.
+274. **Thomas Ogden**: Every close relationship creates a third thing that belongs to neither person alone.
+275. **Thomas Ogden**: Stray thoughts and daydreams during a conversation can be clues to what’s happening between you.
+276. **Thomas Ogden**: Some experiences can’t be digested alone. We need someone to help us dream what we couldn’t dream by ourselves.
+277. **Thomas Ogden**: Comfort sometimes has to come through the body before it can come through words: rhythm, warmth, texture.
+278. **Otto Rank**: Every separation echoes the first one, birth. Allow yourself to find endings harder than they look.
+279. **Otto Rank**: We fear standing out and alone, and we fear dissolving into others. We spend our lives moving between the two.
+280. **Otto Rank**: Creativity turns inner conflict into form. You don’t have to resolve a struggle before making something from it.
+281. **Otto Rank**: The will is a creative force, not just stubbornness.
+282. **Harry Stack Sullivan**: We are all much more simply human than otherwise. When someone seems incomprehensible, start from that.
 283. **Harry Stack Sullivan**: We fail to notice whatever would make us anxious. What we don’t see is often chosen. Ask a trusted friend what you’re not noticing.
-284. **Harry Stack Sullivan**: We sort ourselves into good-me, bad-me and not-me. Not-me holds what’s too frightening to own. The parts you disown still belong to you.
-285. **Harry Stack Sullivan**: In anxious moments we deflect: jokes, topic changes, sudden interest in the weather. It reduces anxiety at the cost of contact. Next time, stay on the topic one beat longer.
-286. **Harry Stack Sullivan**: A close childhood friendship teaches you to care about someone else’s wellbeing as much as your own. If you never had one, it’s not too late. Be a good chum to someone.
-287. **Daniel Stern**: When someone matches the feeling behind what you do, not just the action, you feel understood. That’s attunement. Try reflecting the feeling, not just the words.
-288. **Daniel Stern**: Change often happens in brief moments of real meeting, just seconds long. Not everything takes years. Be ready for the moment.
-289. **Daniel Stern**: Infants live in a world of light, hunger, weather and faces. Adults still live partly there. Sometimes the problem is just that you’re hungry or tired.
-290. **Otto Kernberg**: Without an integrated sense of self and others, each relationship produces a different person. Try to notice what stays constant in you across rooms.
-291. **Otto Kernberg**: Mature love integrates tenderness with desire and even some aggression. Love with no room for ambivalence tends not to last. You’re allowed to be cross with people you love.
-292. **Alfred Adler**: Feelings of inferiority are universal and drive human striving. They become a problem only when they harden into a complex. Use the feeling as fuel, not as a verdict.
-293. **Alfred Adler**: Psychological health shows in social interest: a feeling of community and concern for others. Self-care alone won’t get you there. Do something for someone else.
-294. **Alfred Adler**: Life sets three tasks: work, friendship and love. Each tests your connection to others. Check whether you’ve been neglecting one.
-295. **Alfred Adler**: Birth order shapes the roles children take on. Siblings grow up in different families under the same roof. Your sister’s memories aren’t wrong. She had a different seat.
-296. **Alfred Adler**: By early childhood you’ve adopted a style of life, a characteristic way of meeting problems. It can change, but rarely without being noticed first. Notice yours.
-297. **Wilhelm Reich**: Defences live in the body: tight jaws, raised shoulders, a held breath. Drop your shoulders now. Your body has been bracing for something.
-298. **Wilhelm Reich**: How someone speaks reveals as much as what they say. Listen to the tone and manner, not just the words, including your own.
-299. **Joan Riviere**: A role can be worn as a mask to avoid retaliation for success. Any identity can become a costume. Notice when you’re playing smaller to stay safe.
-300. **Joan Riviere**: Some people get worse when helped, because getting better feels like abandoning someone they love. If recovery feels like betrayal, ask who you’d be leaving behind.
+284. **Harry Stack Sullivan**: We sort ourselves into good-me, bad-me and not-me. Not-me holds what’s too frightening to own.
+285. **Harry Stack Sullivan**: In anxious moments we deflect: jokes, topic changes, sudden interest in the mundane. It reduces anxiety at the cost of contact.
+286. **Harry Stack Sullivan**: A close childhood friendship teaches you to care about someone else’s wellbeing as much as your own.
+287. **Daniel Stern**: When someone matches the feeling behind what you do, not just the action, you feel understood. That’s attunement.
+288. **Daniel Stern**: Change often happens in brief moments of real meeting, just seconds long.
+289. **Daniel Stern**: Infants live in a world of light, hunger, weather and faces. Adults still live partly there.
+290. **Otto Kernberg**: Without an integrated sense of self and other, each relationship produces a different you.
+291. **Otto Kernberg**: Mature love integrates tenderness with desire and even some aggression. Love with no room for ambivalence tends not to last.
+292. **Alfred Adler**: Feelings of inferiority are universal and drive human striving. They become a problem only when they harden into a complex.
+293. **Alfred Adler**: Psychological health shows in social interest: a feeling of community and concern for others.
+294. **Alfred Adler**: Life sets three tasks: work, friendship and love. Each tests your connection to others.
+295. **Alfred Adler**: Birth order shapes the roles children take on. Siblings grow up in different families under the same roof.
+296. **Alfred Adler**: By early childhood you’ve adopted a style of life, a characteristic way of meeting problems. It can change, but needs to be noticed first.
+297. **Wilhelm Reich**: Defences live in the body: tight jaws, raised shoulders, a held breath. Your body has been bracing.
+298. **Wilhelm Reich**: How someone speaks reveals as much as what they say.
+299. **Joan Riviere**: Femininity, or any role, can be worn as a mask to ward off punishment for success.
+300. **Joan Riviere**: Some people get worse when helped, because getting better feels like abandoning someone they love.
 301. **Marion Milner**: What actually makes you happy is often not what you assume. Keep notes for a while on what really lifts you. The results may surprise you.
 302. **Marion Milner**: Widening your attention, rather than narrowing it on a goal, makes ordinary things vivid. Try taking in the whole room, not just the screen.
 303. **Marion Milner**: You can often only create freely once you stop trying to control the result. Creativity needs tolerance of not knowing. Make something badly on purpose.
