@@ -343,12 +343,12 @@
 341. **Selma Fraiberg**: Parents who can remember and feel their own childhood pain are less likely to repeat it.
 342. **Peter Fonagy**: The capacity to mentalize, or understand behaviour in terms of what people think and feel, helps prevent and solve conflict.
 343. **Peter Fonagy**: To be helped, you need to be able to trust others as sources of knowledge.
-344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure.
+344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure, which is why we cling to the familiar even when it isn’t good for us.
 345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me’. Speaking as the one who feels gives you back some agency.
 346. **Roy Schafer**: Healing can mean retelling your life with a narrative of increasing agency.
 347. **Donald Spence**: A coherent, convincing story about your past can heal even if you can’t know exactly what happened. Your memories don’t have to be perfect to be useful.
 348. **Jonathan Lear**: Hope can survive the collapse of a whole way of life — hope for a good you can’t yet imagine.
-349. **Jonathan Lear**: Every idea of a happy life leaves something over that doesn’t fit.
+349. **Jonathan Lear**: Every idea of a happy life leaves a remainder that doesn’t fit.
 350. **Jonathan Lear**: The mind isn’t transparent to itself. Self-knowledge is always partial, so stay open to being surprised by your own reasons.
 351. **Michael Eigen**: The same people and situations that nourish us can also poison us. It’s hard to separate the two.
 352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies inside it. Aesthetic awe and uncertainty arrive together.
