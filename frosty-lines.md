@@ -228,14 +228,14 @@
 226. **Sándor Ferenczi**: Children speak the language of tenderness. Harm follows when adults answer in the language of passion. With the vulnerable, make sure you’re speaking their language.
 227. **Sándor Ferenczi**: Even those who listen for a living have blind spots. The listener needs listening to as well.
 228. **Sándor Ferenczi**: Children forced to grow up too soon become wise babies, looking after the adults who should have looked after them.
-229. **Michael Balint**: Some problems aren’t conflicts to resolve but something missing, a basic fault. Arguments won’t fix a lack. It needs to be met, slowly, by a reliable other.
+229. **Michael Balint**: Some problems aren’t conflicts to resolve but something missing, a basic fault. Insight alone won’t fix a lack. It needs to be met, slowly, by a reliable other.
 230. **Michael Balint**: Some people cling to objects and feel anxious in the open spaces between them. Know that the spaces are survivable.
-231. **Michael Balint**: Some people love the open spaces and the thrill of leaving safety, sure they’ll get back. Make sure to get back.
+231. **Michael Balint**: Some people love the open spaces and the thrill of leaving safety, sure they’ll get back. The confidence of returning is part of the thrill.
 232. **Michael Balint**: The most frequently prescribed drug is the doctor. How someone treats you has effects, and side effects, as real as any medicine.
 233. **Christopher Bollas**: Our first carer transformed our whole world, and we go on searching for things that will transform us again: lovers, holidays, new kitchens. It’s the same search.
 234. **Christopher Bollas**: Some people are abnormally normal, all facts and objects, with no interest in inner life. It doesn’t look like illness.
 235. **Christopher Bollas**: Fate is being determined by circumstances. Destiny is using your life to express who you are. Everyone gets fate.
-236. **Christopher Bollas**: We give shape to who we are through what we choose: people, places, music, clothes. Taste is a way of speaking ourselves.
+236. **Christopher Bollas**: We give shape to who we are through what we choose. Taste is a way of speaking ourselves.
 237. **Christopher Bollas**: Some things evoke parts of you that you didn’t know were there: a song, a street, a smell. Pay attention to what moves you. It’s a message from yourself.
 238. **Christopher Bollas**: The unconscious keeps breaking experience into fragments and recombining them in new ways. You can see it in dreams, in free association, and when you crack up laughing.
 239. **Christopher Bollas**: Free association is the mind’s natural way of thinking. Its logic only shows itself over time. Not every thought needs to arrive in clear order. Let each thought come.
@@ -243,7 +243,7 @@
 241. **Christopher Bollas**: Some people take over others’ feelings or experiences as if they were their own, leaving the other strangely emptied.
 242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognised by someone we in turn recognise.
 243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom’, look for the third: a shared position where you can both be heard.
-244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding rupture but being able to repair it.
+244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding inevitable rupture, but being able to repair it.
 245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. ‘I hurt you and I see it’ does more than any apology that defends itself.
 246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet.
 247. **Adam Phillips**: You can’t tickle yourself. Some pleasures need another person, and require you to cede control.
@@ -270,7 +270,7 @@
 268. **Julia Kristeva**: Question yourself as well as the world. Inner life depends on that kind of intimate revolt.
 269. **André Green**: A parent can be present but emotionally absent, often lost in their own grief. A child tries to revive them, and may later feel hollow without knowing why.
 270. **André Green**: What’s missing shapes us as much as what’s there: absences, losses, the things that never happened.
-271. **André Green**: Some withdrawal sustains the self. Some seeks to switch everything off.
+271. **André Green**: Some withdrawal sustains the self. Some seeks to reduce all desire to nothing.
 272. **Jean Laplanche**: Parents send children messages charged with meanings the parents themselves don’t understand. We spend a lifetime translating them.
 273. **Jean Laplanche**: An event can become a wound only later, when we come to understand it.
 274. **Thomas Ogden**: Every close relationship creates a third subject that belongs to neither person alone.
@@ -288,7 +288,7 @@
 286. **Harry Stack Sullivan**: A close childhood friendship teaches you to care about someone else’s wellbeing as much as your own.
 287. **Daniel Stern**: When someone matches the feeling behind what you do, not just the action, you feel understood. That’s attunement.
 288. **Daniel Stern**: Change often happens in brief moments of real meeting, just seconds long.
-289. **Daniel Stern**: Infants live in a world of light, hunger, weather and faces. Adults still live partly there.
+289. **Daniel Stern**: Infants live in a sensory world of light, hunger, and faces. Adults still live partly there.
 290. **Otto Kernberg**: Without an integrated sense of self and other, each relationship produces a different you.
 291. **Otto Kernberg**: Mature love integrates tenderness with desire and even some aggression. Love with no room for ambivalence tends not to last.
 292. **Alfred Adler**: Feelings of inferiority are universal and drive human striving. They become a problem only when they harden into a complex.
@@ -298,7 +298,7 @@
 296. **Alfred Adler**: By early childhood you’ve adopted a style of life, a characteristic way of meeting problems. It can change, but needs to be noticed first.
 297. **Wilhelm Reich**: Defences live in the body: tight jaws, raised shoulders, a held breath. Your body has been bracing.
 298. **Wilhelm Reich**: How someone speaks reveals as much as what they say.
-299. **Joan Riviere**: Femininity, or any role, can be worn as a mask to ward off punishment for success.
+299. **Joan Riviere**: Femininity can be worn as a mask to ward off retaliation for success.
 300. **Joan Riviere**: Some people get worse when helped, because getting better feels like abandoning someone they love.
 301. **Marion Milner**: What actually makes you happy is often not what you assume. Keep notes for a while on what really lifts you. The results may surprise you.
 302. **Marion Milner**: Widening your attention, rather than narrowing it on a goal, makes ordinary things vivid. Try taking in the whole room, not just the screen.
