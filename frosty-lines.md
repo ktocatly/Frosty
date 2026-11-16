@@ -305,7 +305,7 @@
 303. **Marion Milner**: You can often only create freely once you stop trying to control the result. Creativity requires tolerance of not knowing.
 304. **Marion Milner**: Some things can be shown before they can be said.
 305. **Marion Milner**: Frames matter: the edge of a picture, the end of an hour. A boundary makes certain experience possible.
-306. **Hanna Segal**: When a symbol is treated as the thing itself, trouble follows. A present is not the love. A text is not the person. Keep them apart in your mind.
+306. **Hanna Segal**: When a symbol is felt to be the thing itself, trouble follows.
 307. **Hanna Segal**: Making something beautiful can be a way of mourning: rebuilding a lost world in a new form.
 308. **Betty Joseph**: It’s possible to become quietly addicted to despair, finding a secret comfort in it.
 309. **Betty Joseph**: We keep our inner balance by pulling others into familiar patterns, often without anyone noticing.
@@ -319,7 +319,7 @@
 317. **Heinz Hartmann**: A child needs an average expectable environment. Not ideal conditions, but ordinary adequate ones.
 318. **Margaret Mahler**: Psychological birth happens long after physical birth, through a slow process of separating, individuating, and becoming oneself.
 319. **Margaret Mahler**: Toddlers run off to explore, discover they’re separate, and come back anxiously for reassurance. Adults do the same with every big step.
-320. **Margaret Mahler**: Separating and becoming yourself are twin processes. Neither works without the other. You can become your own person without cutting ties.
+320. **Margaret Mahler**: Separation and individuation are twin processes: emerging from oneness with a parent, and becoming your own person.
 321. **Helene Deutsch**: Some people adapt perfectly to every setting but feel nothing genuine.
 322. **Nancy Chodorow**: The early caregiver shapes how a child learns to relate, and the pattern reproduces itself. Change who holds the baby and the change ripples ahead.
 323. **Juliet Mitchell**: Siblings shape us sideways in ways theories about parents miss. Your first rival and ally arrived in the same house.
@@ -327,7 +327,7 @@
 325. **Darian Leader**: Letters we write and never send are still a way of speaking, to ourselves as much as the other.
 326. **Darian Leader**: Being mad is different from going mad. Madness can be quiet and stable; the crisis comes when what held it together gives way.
 327. **Darian Leader**: Insomnia can express what you can’t put into words. Try bringing midnight thoughts to daylight.
-328. **Stephen Grosz**: Praising children for being clever can make them afraid to fail. Praise effort instead. It leaves room to try hard things.
+328. **Stephen Grosz**: Praising children can be a substitute for attention: a quick verdict in place of really noticing.
 329. **Stephen Grosz**: People resist change because change involves loss. Staying stuck can be a way of not giving something up.
 330. **Stephen Grosz**: The stories we tell about ourselves most can hide other stories we can’t yet tell.
 331. **Josh Cohen**: Inertia can be a protest against relentless demands to perform.
@@ -345,13 +345,13 @@
 343. **Peter Fonagy**: To be helped, you need to be able to trust others as sources of knowledge.
 344. **Joseph Sandler**: We seek a background feeling of safety even more than pleasure.
 345. **Roy Schafer**: Say ‘I am anxious about it’ rather than ‘anxiety overwhelms me’. Speaking as the one who feels gives you back some agency.
-346. **Roy Schafer**: Healing can mean telling your life as a different story, true, but with fewer villains and more plot. Try retelling one of your old stories.
+346. **Roy Schafer**: Healing can mean retelling your life with a narrative of increasing agency.
 347. **Donald Spence**: A coherent, convincing story about your past can heal even if you can’t know exactly what happened. Your memories don’t have to be perfect to be useful.
 348. **Jonathan Lear**: Hope can survive the collapse of a whole way of life — hope for a good you can’t yet imagine.
 349. **Jonathan Lear**: Every idea of a happy life leaves something over that doesn’t fit.
-350. **Jonathan Lear**: The mind isn’t transparent to itself. Self-knowledge is always partial. Be humble about how well you know your own reasons.
+350. **Jonathan Lear**: The mind isn’t transparent to itself. Self-knowledge is always partial, so stay open to being surprised by your own reasons.
 351. **Michael Eigen**: The same people and situations that nourish us can also poison us. It’s hard to separate the two.
-352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies behind it. Beauty and doubt arrive together.
+352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies inside it. Aesthetic awe and uncertainty arrive together.
 353. **Joyce McDougall**: We each have an inner theatre where old scenes are restaged with new actors.
 354. **Joyce McDougall**: When feelings can’t find words, the body may speak them instead.
 355. **Didier Anzieu**: The self begins as a skin: a surface that holds, protects and communicates.
@@ -364,4 +364,4 @@
 362. **Edith Jacobson**: Images of ourselves and others develop together. Change how you see one and the other shifts.
 363. **Karl Abraham**: In mourning we internalize the lost person, sometimes adopting their phrases and habits, in order to keep them.
 364. **Robert Stolorow**: Painful feelings become trauma when there’s no one to share them with.
-365. **Paul Verhaeghe**: A society built on competition and performance breeds anxious, isolated selves.
+365. **Paul Verhaeghe**: A society built on competition and performance shapes who we become, and teaches us to understand failure and struggle as purely personal.
