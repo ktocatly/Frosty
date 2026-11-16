@@ -207,7 +207,7 @@
 205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: The small, frightened child becomes the one who tames the lion.
 206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. It’s loss of hope.
 207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It’s attachment doing its job.
-208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but only by new experience, not argument. Let someone surprise you.
+208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but only by new experience. Let someone surprise you.
 209. **John Bowlby**: A secure base is somewhere to explore from and come back to. Security is what makes exploration possible.
 210. **John Bowlby**: Some children steal after early, prolonged separation from those who cared for them. Taking can be a way of searching for what they lost.
 211. **John Bowlby**: Maternal love in infancy and childhood is as important for mental health as vitamins and proteins are for physical health.
