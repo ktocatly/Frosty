@@ -206,13 +206,13 @@
 204. **Anna Freud**: The healthiest defence turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
 205. **Anna Freud**: To bear a painful reality, a child may deny it in fantasy by turning it into its opposite: The small, frightened child becomes the one who tames the lion.
 206. **John Bowlby**: Children separated from those they love go through protest, then despair, then detachment. Detachment looks like recovery but isn’t. It’s loss of hope.
-207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It isn’t irrational. It’s attachment doing its job. Seeing them in a crowd is love, arriving late.
+207. **John Bowlby**: Grief includes an urge to search for the person you’ve lost. It’s attachment doing its job.
 208. **John Bowlby**: We carry early models of how people will treat us, and they shape every later relationship. They can be revised, but only by new experience, not argument. Let someone surprise you.
 209. **John Bowlby**: A secure base is somewhere to explore from and come back to. Security is what makes exploration possible.
 210. **John Bowlby**: Some children steal after early, prolonged separation from those who cared for them. Taking can be a way of searching for what they lost.
-211. **John Bowlby**: Love in early childhood matters to mental health as much as vitamins do to the body. That seems obvious now. It wasn’t always. Don’t underrate warmth.
+211. **John Bowlby**: Maternal love in infancy and childhood is as important for mental health as vitamins and proteins are for physical health.
 212. **John Bowlby**: Some people insist on doing everything alone because needing others once hurt too much. It’s self-sufficiency as armour.
-213. **Mary Ainsworth**: Securely attached toddlers are upset when a parent leaves and comforted when they return. Distress isn’t the problem. Being unable to be comforted is. Let yourself be comforted.
+213. **Mary Ainsworth**: Securely attached young children are upset when a parent leaves and comforted when they return. Distress upon separation can be healthy, as is the capacity to be comforted upon reunion.
 214. **Mary Ainsworth**: Some children seem unbothered when their parent leaves, yet their bodies are stressed all the same. Looking fine and being fine are different.
 215. **Mary Ainsworth**: Some children cling and push away at once, hard to soothe. Inconsistent care teaches inconsistent hope. If you seek closeness and resist it, you learned that somewhere.
 216. **W. R. D. Fairbairn**: A child would rather believe they’re bad than that their parents are. Better a sinner in a world ruled by God than live in one ruled by the Devil.
@@ -221,28 +221,28 @@
 219. **W. R. D. Fairbairn**: There’s a part of us that attacks our own needs and sides with whoever rejected them. It passes itself off as good sense.
 220. **W. R. D. Fairbairn**: Some people keep their love hidden because they fear it destroys. They seem cold, but they’re protecting others.
 221. **W. R. D. Fairbairn**: Development moves from infantile dependence to mature dependence, not to independence. Needing others never stops. How you need them can evolve.
-222. **Sándor Ferenczi**: Tact is the capacity to feel with someone. Knowing when to say something matters as much as what to say. Before you say the true thing, check whether it’s the right moment.
+222. **Sándor Ferenczi**: Tact is the capacity to *feel into* someone. It tells you not just what to say, but when to say it, and when to stay silent.
 223. **Sándor Ferenczi**: Professional calm can repeat the coldness that did harm in the first place. Detachment isn’t always neutral. Sometimes warmth is the honest response.
-224. **Sándor Ferenczi**: Children who sense they weren’t wanted can lose some of their will to live. If you’ve always felt in the way, that feeling has a history. It isn’t a verdict on you.
+224. **Sándor Ferenczi**: Children, and adults, who sense they weren’t wanted can lose some of their will to live.
 225. **Sándor Ferenczi**: There’s an old longing in all of us to return to somewhere warm and wordless, the womb, even the sea.
 226. **Sándor Ferenczi**: Children speak the language of tenderness. Harm follows when adults answer in the language of passion. With the vulnerable, make sure you’re speaking their language.
-227. **Sándor Ferenczi**: The listener needs to be listened to as well. Even helpers have blind spots. If you’re everyone’s confidant, find someone to be yours.
+227. **Sándor Ferenczi**: Even those who listen for a living have blind spots. The listener needs listening to as well.
 228. **Sándor Ferenczi**: Children forced to grow up too soon become wise babies, looking after the adults who should have looked after them.
 229. **Michael Balint**: Some problems aren’t conflicts to resolve but something missing, a basic fault. Arguments won’t fix a lack. It needs to be met, slowly, by a reliable other.
 230. **Michael Balint**: Some people cling to objects and feel anxious in the open spaces between them. Know that the spaces are survivable.
 231. **Michael Balint**: Some people love the open spaces and the thrill of leaving safety, sure they’ll get back. Make sure to get back.
-232. **Michael Balint**: The doctor is a drug: how they treat you affects you as much as what they prescribe. Friends work the same way. Choose people whose effect on you is good.
+232. **Michael Balint**: The most frequently prescribed drug is the doctor. How someone treats you has effects, and side effects, as real as any medicine.
 233. **Christopher Bollas**: Our first carer transformed our whole world, and we go on searching for things that will transform us again: lovers, holidays, new kitchens. It’s the same search.
 234. **Christopher Bollas**: Some people are abnormally normal, all facts and objects, with no interest in inner life. It doesn’t look like illness.
 235. **Christopher Bollas**: Fate is being determined by circumstances. Destiny is using your life to express who you are. Everyone gets fate.
 236. **Christopher Bollas**: We give shape to who we are through what we choose: people, places, music, clothes. Taste is a way of speaking ourselves.
 237. **Christopher Bollas**: Some things evoke parts of you that you didn’t know were there: a song, a street, a smell. Pay attention to what moves you. It’s a message from yourself.
-238. **Christopher Bollas**: Unconscious thinking breaks up ordinary experience into new connections, like a laugh does. Let your mind wander. That’s when it does some of its best work.
+238. **Christopher Bollas**: The unconscious keeps breaking experience into fragments and recombining them in new ways. You can see it in dreams, in free association, and when you crack up laughing.
 239. **Christopher Bollas**: Free association is the mind’s natural way of thinking. Its logic only shows itself over time. Not every thought needs to arrive in clear order. Let each thought come.
 240. **Christopher Bollas**: Modern life discourages reflection, and some unhappiness may be the cost of never having time to think.
 241. **Christopher Bollas**: Some people take over others’ feelings or experiences as if they were their own, leaving the other strangely emptied.
 242. **Jessica Benjamin**: Being loved as an object isn’t the same as being known as a person. We need to be recognised by someone we in turn recognise.
-243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom’, look for a third space where you can both be heard.
+243. **Jessica Benjamin**: When an argument becomes ‘who’s doing what to whom’, look for the third: a shared position where you can both be heard.
 244. **Jessica Benjamin**: Every relationship breaks and mends. What matters isn’t avoiding rupture but being able to repair it.
 245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. ‘I hurt you and I see it’ does more than any apology that defends itself.
 246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet.
@@ -273,7 +273,7 @@
 271. **André Green**: Some withdrawal sustains the self. Some seeks to switch everything off.
 272. **Jean Laplanche**: Parents send children messages charged with meanings the parents themselves don’t understand. We spend a lifetime translating them.
 273. **Jean Laplanche**: An event can become a wound only later, when we come to understand it.
-274. **Thomas Ogden**: Every close relationship creates a third thing that belongs to neither person alone.
+274. **Thomas Ogden**: Every close relationship creates a third subject that belongs to neither person alone.
 275. **Thomas Ogden**: Stray thoughts and daydreams during a conversation can be clues to what’s happening between you.
 276. **Thomas Ogden**: Some experiences can’t be digested alone. We need someone to help us dream what we couldn’t dream by ourselves.
 277. **Thomas Ogden**: Comfort sometimes has to come through the body before it can come through words: rhythm, warmth, texture.
@@ -282,7 +282,7 @@
 280. **Otto Rank**: Creativity turns inner conflict into form. You don’t have to resolve a struggle before making something from it.
 281. **Otto Rank**: The will is a creative force, not just stubbornness.
 282. **Harry Stack Sullivan**: We are all much more simply human than otherwise. When someone seems incomprehensible, start from that.
-283. **Harry Stack Sullivan**: We fail to notice whatever would make us anxious. What we don’t see is often chosen. Ask a trusted friend what you’re not noticing.
+283. **Harry Stack Sullivan**: We fail to notice whatever would make us anxious, and so we miss the very experiences we could learn from.
 284. **Harry Stack Sullivan**: We sort ourselves into good-me, bad-me and not-me. Not-me holds what’s too frightening to own.
 285. **Harry Stack Sullivan**: In anxious moments we deflect: jokes, topic changes, sudden interest in the mundane. It reduces anxiety at the cost of contact.
 286. **Harry Stack Sullivan**: A close childhood friendship teaches you to care about someone else’s wellbeing as much as your own.
