@@ -321,7 +321,7 @@
 319. **Margaret Mahler**: Toddlers run off to explore, discover they’re separate, and come back anxiously for reassurance. Adults do the same with every big step.
 320. **Margaret Mahler**: Separation and individuation are twin processes: emerging from oneness with a parent, and becoming your own person.
 321. **Helene Deutsch**: Some people adapt perfectly to every setting but feel nothing genuine.
-322. **Nancy Chodorow**: The early caregiver shapes how a child learns to relate, and the pattern reproduces itself. Change who holds the baby and the change ripples ahead.
+322. **Nancy Chodorow**: The early caregiver shapes how a child learns to relate, and the pattern reproduces itself. Change who holds the baby, and you alter how their life unfolds.
 323. **Juliet Mitchell**: Siblings shape us sideways in ways theories about parents miss. Your first rival and ally arrived in the same house.
 324. **Darian Leader**: We’ve medicalized grief as depression and lost the rituals that helped people mourn.
 325. **Darian Leader**: Letters we write and never send are still a way of speaking, to ourselves as much as the other.
