@@ -121,7 +121,10 @@
   .snowman-btn:focus-visible { outline: 3px dashed var(--scarf); outline-offset: 6px; border-radius: 12px; }
   .snowman-btn img {
     display: block; width: 100%; height: auto;
+    /* invisible room around the image so Safari doesn't clip the shadow at the image's edge */
+    box-sizing: content-box; padding: 0 14px 28px; margin: 0 -14px -28px;
     filter: drop-shadow(0 10px 10px rgba(42,38,34,.22));
+    will-change: transform;
     transform-origin: 50% 90%;
     user-select: none; -webkit-user-drag: none;
   }
