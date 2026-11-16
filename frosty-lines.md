@@ -200,7 +200,7 @@
 198. **Anna Freud**: Turning feelings into abstract argument keeps them at a safe distance. Say what you feel, not just what you think.
 199. **Anna Freud**: A sudden, severe renunciation of pleasure can be a defense against urges that feel too big. Extreme discipline isn’t always strength, sometimes it’s fear.
 200. **Anna Freud**: An unacceptable feeling can be turned into its opposite: hostility becomes excessive kindness. The exaggeration usually gives it away.
-201. **Anna Freud**: Feelings get redirected from their real target to a safer one. The safer target rarely deserves it.
+201. **Anna Freud**: Feelings get redirected from their real target to a safer one, where expressing them feels less dangerous.
 202. **Anna Freud**: Anger that can’t safely go outwards turns inwards. Self-criticism is sometimes anger with nowhere else to go.
 203. **Anna Freud**: Children develop unevenly, ahead in one area and behind in another. Adults do too.
 204. **Anna Freud**: The healthiest defense turns a difficult urge into something valued. Aggression becomes sport, restlessness becomes work.
