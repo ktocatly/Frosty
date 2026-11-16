@@ -80,7 +80,7 @@
 78. **D. W. Winnicott**: The breakdown you dread may already have happened, early, before you could take it in. Ask whether your fear is pointing backward rather than forward.
 79. **D. W. Winnicott**: When a child looks into her mother’s face, she sees herself. Long before any mirror, we find ourselves in the faces that really see us.
 80. **D. W. Winnicott**: Concern is guilt that can do something, through repair, instead of mere suffering. When you feel guilty, ask what repair would look like.
-81. **D. W. Winnicott**: It’s a joy to be hidden, and a disaster not to be found.
+81. **D. W. Winnicott**: There is a delicate tension between the wish to be known and the need to maintain privacy and autonomy. As Winnicott says: ‘It is a joy to be hidden but disaster not to be found.’
 82. **D. W. Winnicott**: A child who steals or destroys may be trying to reclaim something good that was lost. It’s an act of hope.
 83. **D. W. Winnicott**: New parents go into a state of extreme absorption in their baby, and it’s healthy.
 84. **D. W. Winnicott**: Holding means a setting reliable enough that someone can fall apart and come back together.
