@@ -21,7 +21,7 @@
 19. **Heinz Kohut**: A young self learns it’s worth something from the gleam in a parent’s eye.
 20. **Karen Horney**: Should be better, should be further along, should never need help: the tyranny of the should serves an idealized self that will never be satisfied. Swap a should for an honest want.
 21. **Erich Fromm**: Immature love says, ‘I love you because I need you.’ Mature love says, ‘I need you because I love you.’
-22. **Erich Fromm**: Freedom frightens people, so they escape it into authority, conformity and crowds. Notice which of your choices you’ve quietly handed to someone else.
+22. **Erich Fromm**: Freedom frightens people, so they escape it into authority, conformity, and crowds. Notice which of your choices you’ve quietly handed to someone else.
 23. **Erik Erikson**: Every stage of life has its own crisis, meaning a turning point rather than a catastrophe. If you feel unsettled, you may simply be between stages.
 24. **Anna Freud**: Repression, projection, denial: each defense was a solution once.
 25. **John Bowlby**: Seeking closeness when you’re frightened isn’t childish. It’s a system you’re born with, and it runs from the cradle to the grave.
@@ -54,7 +54,7 @@
 52. **Sigmund Freud**: The fiercest feuds are often between people who are nearly alike.
 53. **Sigmund Freud**: Happiness was never part of the plan of Creation. That isn’t gloomy, it’s freeing.
 54. **Sigmund Freud**: Civilization costs us some happiness by heightening our guilt. If you feel vaguely guilty for no clear reason, it may be the price of living among other people, not proof you’ve done anything wrong.
-55. **Sigmund Freud**: Educating, governing and healing minds are impossible professions: the results are bound to be unsatisfying. Parenting involves all three.
+55. **Sigmund Freud**: Educating, governing, and healing minds are impossible professions: the results are bound to be unsatisfying. Parenting involves all three.
 56. **Sigmund Freud**: Some people fall ill just when a long-cherished wish comes true. Success can feel forbidden.
 57. **Sigmund Freud**: Listen without deciding in advance what matters. The important part of what someone says is rarely where you expected it.
 58. **Sigmund Freud**: Each of us carries an early pattern of loving that gets reprinted in every new relationship.
@@ -182,7 +182,7 @@
 180. **Erich Fromm**: Love is a standing in, not a falling for.
 181. **Erich Fromm**: Love, like any art, needs discipline, concentration, patience, and real concern. Protect your attention for who you love.
 182. **Erich Fromm**: Some destructiveness comes from chronic boredom, an inner deadness looking for stimulation. The cure isn’t excitement, it’s finding aliveness.
-183. **Erich Fromm**: Some people are drawn to what is alive and growing; others to what is mechanical, fixed and controllable. Love of life is an orientation you can strengthen.
+183. **Erich Fromm**: Some people are drawn to what is alive and growing; others to what is mechanical, fixed, and controllable. Love of life is an orientation you can strengthen.
 184. **Erich Fromm**: We can think, feel, and want what we’re expected to, and experience it all as our own.
 185. **Erich Fromm**: Some people want both to submit to authority and to be the authority others submit to. It’s an anxious arrangement.
 186. **Erik Erikson**: The first question of life is whether the world can be trusted. It’s settled in infancy and tested again and again. Where trust has been earned, let yourself rely on it.
@@ -247,7 +247,7 @@
 245. **Jessica Benjamin**: Repair starts with acknowledgment: saying clearly that harm was done and seeing its effect. ‘I hurt you and I see it’ does more than any apology that defends itself.
 246. **Adam Phillips**: Boredom is a state of suspended anticipation, a waiting for a desire you don’t have yet.
 247. **Adam Phillips**: You can’t tickle yourself. Some pleasures need another person, and require you to cede control.
-248. **Adam Phillips**: Nobody really knows what they’re doing with fidelity, desire and love. Everyone is improvising.
+248. **Adam Phillips**: Nobody really knows what they’re doing with fidelity, desire, and love. Everyone is improvising.
 249. **Adam Phillips**: We have detailed descriptions of madness and very few of sanity. We may not know what we’re aiming for.
 250. **Adam Phillips**: Kindness has become suspect, seen as weakness or naivety. It’s actually one of life’s great pleasures.
 251. **Adam Phillips**: Frustration is where you discover what you want. Rush to relieve it and you lose the information.
@@ -283,7 +283,7 @@
 281. **Otto Rank**: The will is a creative force, not just stubbornness.
 282. **Harry Stack Sullivan**: We are all much more simply human than otherwise. When someone seems incomprehensible, start from that.
 283. **Harry Stack Sullivan**: We fail to notice whatever would make us anxious, and so we miss the very experiences we could learn from.
-284. **Harry Stack Sullivan**: We sort ourselves into good-me, bad-me and not-me. Not-me holds what’s too frightening to own.
+284. **Harry Stack Sullivan**: We sort ourselves into good-me, bad-me, and not-me. Not-me holds what’s too frightening to own.
 285. **Harry Stack Sullivan**: In anxious moments we deflect: jokes, topic changes, sudden interest in the mundane. It reduces anxiety at the cost of contact.
 286. **Harry Stack Sullivan**: A close childhood friendship teaches you to care about someone else’s wellbeing as much as your own.
 287. **Daniel Stern**: When someone matches the feeling behind what you do, not just the action, you feel understood. That’s attunement.
@@ -293,7 +293,7 @@
 291. **Otto Kernberg**: Mature love integrates tenderness with desire and even some aggression. Love with no room for ambivalence tends not to last.
 292. **Alfred Adler**: Feelings of inferiority are universal and drive human striving. They become a problem only when they harden into a complex.
 293. **Alfred Adler**: Psychological health shows in social interest: a feeling of community and concern for others.
-294. **Alfred Adler**: Life sets three tasks: work, friendship and love. Each tests your connection to others.
+294. **Alfred Adler**: Life sets three tasks: work, friendship, and love. Each tests your connection to others.
 295. **Alfred Adler**: Birth order shapes the roles children take on. Siblings grow up in different families under the same roof.
 296. **Alfred Adler**: By early childhood you’ve adopted a style of life, a characteristic way of meeting problems. It can change, but needs to be noticed first.
 297. **Wilhelm Reich**: Defenses live in the body: tight jaws, raised shoulders, a held breath. Your body has been bracing.
@@ -354,7 +354,7 @@
 352. **Donald Meltzer**: Life’s first shock is beauty, along with not knowing what lies inside it. Aesthetic awe and uncertainty arrive together.
 353. **Joyce McDougall**: We each have an inner theater where old scenes are restaged with new actors.
 354. **Joyce McDougall**: When feelings can’t find words, the body may speak them instead.
-355. **Didier Anzieu**: The self begins as a skin: a surface that holds, protects and communicates.
+355. **Didier Anzieu**: The self begins as a skin: a surface that holds, protects, and communicates.
 356. **Sabina Spielrein**: Every creation involves some destruction.
 357. **Emmanuel Ghent**: Submission gives yourself up to another’s power. Surrender lets go of a defense so you can be known.
 358. **Irwin Z. Hoffman**: Relationships need both ritual and spontaneity: a stable frame and genuine response.
