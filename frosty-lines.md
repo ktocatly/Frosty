@@ -13,7 +13,7 @@
 11. **D. W. Winnicott**: The capacity to be alone starts with being alone in someone’s presence, like a child playing quietly while a parent sits nearby.
 12. **D. W. Winnicott**: It’s in playing, and only in playing, that children and adults are able to be creative.
 13. **Jacques Lacan**: Desire is the desire of the Other: we learn what to want by wondering what others want, and what they want from us. When you want, ask whose wanting you’re doing.
-14. **Jacques Lacan**: The ego is built on an infant’s first look in a mirror: a unified image of a self that feels anything but unified. Hold your self-image lightly.
+14. **Jacques Lacan**: The ego is built on an infant’s first look in a mirror: a unified image of a self that feels anything but unified.
 15. **Jacques Lacan**: The unconscious is structured like a language. Slips, puns, and odd word choices are where it speaks.
 16. **Carl Jung**: The parts of yourself you’d rather not know tend to show up in other people.
 17. **Wilfred Bion**: Some feelings can’t be thought until a sturdy someone takes them in, holds them, and gives them back in a form you can manage.
